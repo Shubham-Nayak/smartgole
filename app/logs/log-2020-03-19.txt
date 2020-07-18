@@ -1,0 +1,70 @@
+INFO - 2020-03-19 10:01:14 --> Config Class Initialized
+INFO - 2020-03-19 10:01:14 --> Hooks Class Initialized
+DEBUG - 2020-03-19 10:01:14 --> UTF-8 Support Enabled
+INFO - 2020-03-19 10:01:14 --> Utf8 Class Initialized
+INFO - 2020-03-19 10:01:14 --> URI Class Initialized
+DEBUG - 2020-03-19 10:01:14 --> No URI present. Default controller set.
+INFO - 2020-03-19 10:01:14 --> Router Class Initialized
+INFO - 2020-03-19 10:01:14 --> Output Class Initialized
+INFO - 2020-03-19 10:01:14 --> Security Class Initialized
+DEBUG - 2020-03-19 10:01:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-19 10:01:14 --> CSRF cookie sent
+INFO - 2020-03-19 10:01:14 --> Input Class Initialized
+INFO - 2020-03-19 10:01:14 --> Language Class Initialized
+INFO - 2020-03-19 10:01:14 --> Loader Class Initialized
+INFO - 2020-03-19 10:01:14 --> Helper loaded: url_helper
+INFO - 2020-03-19 10:01:14 --> Helper loaded: file_helper
+INFO - 2020-03-19 10:01:14 --> Helper loaded: form_helper
+INFO - 2020-03-19 10:01:14 --> Helper loaded: security_helper
+INFO - 2020-03-19 10:01:14 --> Database Driver Class Initialized
+INFO - 2020-03-19 10:01:14 --> Email Class Initialized
+INFO - 2020-03-19 10:01:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-19 10:01:14 --> Form Validation Class Initialized
+INFO - 2020-03-19 10:01:14 --> Controller Class Initialized
+INFO - 2020-03-19 10:01:14 --> Helper loaded: myadmin_helper
+DEBUG - 2020-03-19 10:01:14 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-19 10:01:14 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-19 10:01:14 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-03-19 10:01:14 --> Pagination Class Initialized
+INFO - 2020-03-19 10:01:14 --> MY_Model class loaded
+INFO - 2020-03-19 10:01:14 --> Model "Dashboard_model" initialized
+DEBUG - 2020-03-19 10:01:14 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-19 10:01:14 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-19 10:01:14 --> Helper loaded: captcha_helper
+INFO - 2020-03-19 10:01:14 --> File loaded: C:\xampp\htdocs\dps\app\views\loginhtml.php
+INFO - 2020-03-19 10:01:14 --> Final output sent to browser
+DEBUG - 2020-03-19 10:01:14 --> Total execution time: 0.5598
+INFO - 2020-03-19 12:17:14 --> Config Class Initialized
+INFO - 2020-03-19 12:17:14 --> Hooks Class Initialized
+DEBUG - 2020-03-19 12:17:14 --> UTF-8 Support Enabled
+INFO - 2020-03-19 12:17:14 --> Utf8 Class Initialized
+INFO - 2020-03-19 12:17:14 --> URI Class Initialized
+INFO - 2020-03-19 12:17:14 --> Router Class Initialized
+INFO - 2020-03-19 12:17:14 --> Output Class Initialized
+INFO - 2020-03-19 12:17:14 --> Security Class Initialized
+DEBUG - 2020-03-19 12:17:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-19 12:17:14 --> CSRF cookie sent
+INFO - 2020-03-19 12:17:14 --> Input Class Initialized
+INFO - 2020-03-19 12:17:14 --> Language Class Initialized
+INFO - 2020-03-19 12:17:14 --> Loader Class Initialized
+INFO - 2020-03-19 12:17:14 --> Helper loaded: url_helper
+INFO - 2020-03-19 12:17:14 --> Helper loaded: file_helper
+INFO - 2020-03-19 12:17:14 --> Helper loaded: form_helper
+INFO - 2020-03-19 12:17:14 --> Helper loaded: security_helper
+INFO - 2020-03-19 12:17:15 --> Database Driver Class Initialized
+INFO - 2020-03-19 12:17:15 --> Email Class Initialized
+INFO - 2020-03-19 12:17:15 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-19 12:17:15 --> Form Validation Class Initialized
+INFO - 2020-03-19 12:17:15 --> Controller Class Initialized
+DEBUG - 2020-03-19 12:17:15 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-03-19 12:17:15 --> Helper loaded: inflector_helper
+INFO - 2020-03-19 12:17:15 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-03-19 12:17:15 --> Database Driver Class Initialized
+INFO - 2020-03-19 12:17:15 --> Helper loaded: utility_helper
+DEBUG - 2020-03-19 12:17:15 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-19 12:17:15 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-03-19 12:17:15 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-03-19 12:17:15 --> MY_Model class loaded
+INFO - 2020-03-19 12:17:15 --> Model "Api_model" initialized
+INFO - 2020-03-19 12:17:15 --> Final output sent to browser
+DEBUG - 2020-03-19 12:17:15 --> Total execution time: 1.0352

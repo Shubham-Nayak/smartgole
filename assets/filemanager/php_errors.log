@@ -1,0 +1,10 @@
+[23-Oct-2018 12:00:22 Asia/Kolkata] PHP Warning:  scandir(../uploads/): failed to open dir: No such file or directory in /home/cybraint/public_html/testwebsites.cybraintech.com/ankurdev/assets/filemanager/dialog.php on line 647
+[23-Oct-2018 12:00:22 Asia/Kolkata] PHP Warning:  scandir(): (errno 2): No such file or directory in /home/cybraint/public_html/testwebsites.cybraintech.com/ankurdev/assets/filemanager/dialog.php on line 647
+[23-Oct-2018 12:00:22 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/cybraint/public_html/testwebsites.cybraintech.com/ankurdev/assets/filemanager/dialog.php on line 659
+[23-Oct-2018 12:00:22 Asia/Kolkata] PHP Notice:  Undefined variable: files_prevent_duplicate in /home/cybraint/public_html/testwebsites.cybraintech.com/ankurdev/assets/filemanager/dialog.php on line 1270
+[23-Oct-2018 12:00:22 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/cybraint/public_html/testwebsites.cybraintech.com/ankurdev/assets/filemanager/dialog.php on line 1270
+[23-Oct-2018 12:02:36 Asia/Kolkata] PHP Notice:  Undefined index: RF in /home/cybraint/public_html/testwebsites.cybraintech.com/ankurdev/assets/filemanager/include/utils.php on line 3
+[25-Oct-2018 12:07:44 Asia/Kolkata] PHP Notice:  Undefined index: RF in /home/cybraint/public_html/testwebsites.cybraintech.com/ankurdev/assets/filemanager/include/utils.php on line 3
+[12-Nov-2018 17:29:42 Asia/Kolkata] no decode delegate for this image format `/tmp/phpw28B33' @ error/constitute.c/ReadImage/544
+[12-Nov-2018 17:30:05 Asia/Kolkata] no decode delegate for this image format `/tmp/phpZVyzkG' @ error/constitute.c/ReadImage/544
+[13-Nov-2018 17:53:07 Asia/Kolkata] no decode delegate for this image format `/tmp/phpX2v4qZ' @ error/constitute.c/ReadImage/544

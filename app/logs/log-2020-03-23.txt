@@ -1,0 +1,1420 @@
+INFO - 2020-03-23 12:26:11 --> Config Class Initialized
+INFO - 2020-03-23 12:26:11 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:11 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:11 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:11 --> URI Class Initialized
+INFO - 2020-03-23 12:26:11 --> Router Class Initialized
+INFO - 2020-03-23 12:26:11 --> Output Class Initialized
+INFO - 2020-03-23 12:26:11 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:11 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:11 --> Input Class Initialized
+INFO - 2020-03-23 12:26:11 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:11 --> 404 Page Not Found: Covidtest/form
+INFO - 2020-03-23 12:26:15 --> Config Class Initialized
+INFO - 2020-03-23 12:26:15 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:15 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:15 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:15 --> URI Class Initialized
+INFO - 2020-03-23 12:26:15 --> Router Class Initialized
+INFO - 2020-03-23 12:26:15 --> Output Class Initialized
+INFO - 2020-03-23 12:26:15 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:15 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:15 --> Input Class Initialized
+INFO - 2020-03-23 12:26:15 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:15 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:15 --> Config Class Initialized
+INFO - 2020-03-23 12:26:15 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:15 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:15 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:15 --> URI Class Initialized
+INFO - 2020-03-23 12:26:15 --> Router Class Initialized
+INFO - 2020-03-23 12:26:15 --> Output Class Initialized
+INFO - 2020-03-23 12:26:15 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:15 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:15 --> Input Class Initialized
+INFO - 2020-03-23 12:26:15 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:15 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:15 --> Config Class Initialized
+INFO - 2020-03-23 12:26:15 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:15 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:15 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:15 --> URI Class Initialized
+INFO - 2020-03-23 12:26:15 --> Router Class Initialized
+INFO - 2020-03-23 12:26:15 --> Output Class Initialized
+INFO - 2020-03-23 12:26:15 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:15 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:15 --> Input Class Initialized
+INFO - 2020-03-23 12:26:16 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:16 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:16 --> Config Class Initialized
+INFO - 2020-03-23 12:26:16 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:16 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:16 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:16 --> URI Class Initialized
+INFO - 2020-03-23 12:26:16 --> Router Class Initialized
+INFO - 2020-03-23 12:26:16 --> Output Class Initialized
+INFO - 2020-03-23 12:26:16 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:16 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:16 --> Input Class Initialized
+INFO - 2020-03-23 12:26:16 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:16 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:16 --> Config Class Initialized
+INFO - 2020-03-23 12:26:16 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:16 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:16 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:16 --> URI Class Initialized
+INFO - 2020-03-23 12:26:16 --> Router Class Initialized
+INFO - 2020-03-23 12:26:16 --> Output Class Initialized
+INFO - 2020-03-23 12:26:16 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:16 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:16 --> Input Class Initialized
+INFO - 2020-03-23 12:26:16 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:16 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:16 --> Config Class Initialized
+INFO - 2020-03-23 12:26:16 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:16 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:16 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:16 --> URI Class Initialized
+INFO - 2020-03-23 12:26:16 --> Router Class Initialized
+INFO - 2020-03-23 12:26:16 --> Output Class Initialized
+INFO - 2020-03-23 12:26:16 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:16 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:16 --> Input Class Initialized
+INFO - 2020-03-23 12:26:16 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:16 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:16 --> Config Class Initialized
+INFO - 2020-03-23 12:26:16 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:16 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:16 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:16 --> URI Class Initialized
+INFO - 2020-03-23 12:26:16 --> Router Class Initialized
+INFO - 2020-03-23 12:26:16 --> Output Class Initialized
+INFO - 2020-03-23 12:26:16 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:16 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:16 --> Input Class Initialized
+INFO - 2020-03-23 12:26:16 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:16 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:16 --> Config Class Initialized
+INFO - 2020-03-23 12:26:16 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:16 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:16 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:16 --> URI Class Initialized
+INFO - 2020-03-23 12:26:16 --> Router Class Initialized
+INFO - 2020-03-23 12:26:16 --> Output Class Initialized
+INFO - 2020-03-23 12:26:16 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:16 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:16 --> Input Class Initialized
+INFO - 2020-03-23 12:26:16 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:16 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:16 --> Config Class Initialized
+INFO - 2020-03-23 12:26:16 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:16 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:16 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:16 --> URI Class Initialized
+INFO - 2020-03-23 12:26:16 --> Router Class Initialized
+INFO - 2020-03-23 12:26:16 --> Output Class Initialized
+INFO - 2020-03-23 12:26:16 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:16 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:16 --> Input Class Initialized
+INFO - 2020-03-23 12:26:16 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:16 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:16 --> Config Class Initialized
+INFO - 2020-03-23 12:26:16 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:16 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:16 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:16 --> URI Class Initialized
+INFO - 2020-03-23 12:26:16 --> Router Class Initialized
+INFO - 2020-03-23 12:26:16 --> Output Class Initialized
+INFO - 2020-03-23 12:26:16 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:16 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:16 --> Input Class Initialized
+INFO - 2020-03-23 12:26:16 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:16 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:16 --> Config Class Initialized
+INFO - 2020-03-23 12:26:16 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:16 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:16 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:16 --> URI Class Initialized
+INFO - 2020-03-23 12:26:16 --> Router Class Initialized
+INFO - 2020-03-23 12:26:16 --> Output Class Initialized
+INFO - 2020-03-23 12:26:16 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:16 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:16 --> Input Class Initialized
+INFO - 2020-03-23 12:26:16 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:16 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:16 --> Config Class Initialized
+INFO - 2020-03-23 12:26:16 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:16 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:16 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:16 --> URI Class Initialized
+INFO - 2020-03-23 12:26:16 --> Router Class Initialized
+INFO - 2020-03-23 12:26:16 --> Output Class Initialized
+INFO - 2020-03-23 12:26:16 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:16 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:16 --> Input Class Initialized
+INFO - 2020-03-23 12:26:16 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:16 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:16 --> Config Class Initialized
+INFO - 2020-03-23 12:26:16 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:16 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:16 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:16 --> URI Class Initialized
+INFO - 2020-03-23 12:26:16 --> Router Class Initialized
+INFO - 2020-03-23 12:26:16 --> Output Class Initialized
+INFO - 2020-03-23 12:26:16 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:16 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:16 --> Input Class Initialized
+INFO - 2020-03-23 12:26:17 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:17 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:17 --> Config Class Initialized
+INFO - 2020-03-23 12:26:17 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:17 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:17 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:17 --> URI Class Initialized
+INFO - 2020-03-23 12:26:17 --> Router Class Initialized
+INFO - 2020-03-23 12:26:17 --> Output Class Initialized
+INFO - 2020-03-23 12:26:17 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:17 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:17 --> Input Class Initialized
+INFO - 2020-03-23 12:26:17 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:17 --> 404 Page Not Found: Covidtest/assets
+INFO - 2020-03-23 12:26:17 --> Config Class Initialized
+INFO - 2020-03-23 12:26:17 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:17 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:17 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:17 --> URI Class Initialized
+INFO - 2020-03-23 12:26:17 --> Router Class Initialized
+INFO - 2020-03-23 12:26:17 --> Output Class Initialized
+INFO - 2020-03-23 12:26:17 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:17 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:17 --> Input Class Initialized
+INFO - 2020-03-23 12:26:17 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:17 --> 404 Page Not Found: Covidtest/assets
+INFO - 2020-03-23 12:26:41 --> Config Class Initialized
+INFO - 2020-03-23 12:26:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:41 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:41 --> URI Class Initialized
+INFO - 2020-03-23 12:26:41 --> Router Class Initialized
+INFO - 2020-03-23 12:26:41 --> Output Class Initialized
+INFO - 2020-03-23 12:26:41 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:41 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:41 --> Input Class Initialized
+INFO - 2020-03-23 12:26:41 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:41 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:41 --> Config Class Initialized
+INFO - 2020-03-23 12:26:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:41 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:41 --> URI Class Initialized
+INFO - 2020-03-23 12:26:41 --> Router Class Initialized
+INFO - 2020-03-23 12:26:41 --> Output Class Initialized
+INFO - 2020-03-23 12:26:41 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:41 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:41 --> Input Class Initialized
+INFO - 2020-03-23 12:26:41 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:41 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:41 --> Config Class Initialized
+INFO - 2020-03-23 12:26:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:41 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:41 --> URI Class Initialized
+INFO - 2020-03-23 12:26:41 --> Router Class Initialized
+INFO - 2020-03-23 12:26:41 --> Output Class Initialized
+INFO - 2020-03-23 12:26:41 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:41 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:41 --> Input Class Initialized
+INFO - 2020-03-23 12:26:41 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:41 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:41 --> Config Class Initialized
+INFO - 2020-03-23 12:26:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:41 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:41 --> URI Class Initialized
+INFO - 2020-03-23 12:26:41 --> Router Class Initialized
+INFO - 2020-03-23 12:26:41 --> Output Class Initialized
+INFO - 2020-03-23 12:26:41 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:41 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:41 --> Input Class Initialized
+INFO - 2020-03-23 12:26:41 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:41 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:41 --> Config Class Initialized
+INFO - 2020-03-23 12:26:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:41 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:41 --> URI Class Initialized
+INFO - 2020-03-23 12:26:41 --> Router Class Initialized
+INFO - 2020-03-23 12:26:41 --> Output Class Initialized
+INFO - 2020-03-23 12:26:41 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:41 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:41 --> Input Class Initialized
+INFO - 2020-03-23 12:26:41 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:41 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:41 --> Config Class Initialized
+INFO - 2020-03-23 12:26:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:41 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:41 --> URI Class Initialized
+INFO - 2020-03-23 12:26:41 --> Router Class Initialized
+INFO - 2020-03-23 12:26:41 --> Output Class Initialized
+INFO - 2020-03-23 12:26:41 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:41 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:41 --> Input Class Initialized
+INFO - 2020-03-23 12:26:41 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:41 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:41 --> Config Class Initialized
+INFO - 2020-03-23 12:26:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:41 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:41 --> URI Class Initialized
+INFO - 2020-03-23 12:26:41 --> Router Class Initialized
+INFO - 2020-03-23 12:26:41 --> Output Class Initialized
+INFO - 2020-03-23 12:26:41 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:41 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:41 --> Input Class Initialized
+INFO - 2020-03-23 12:26:41 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:41 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:41 --> Config Class Initialized
+INFO - 2020-03-23 12:26:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:41 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:41 --> URI Class Initialized
+INFO - 2020-03-23 12:26:41 --> Router Class Initialized
+INFO - 2020-03-23 12:26:41 --> Output Class Initialized
+INFO - 2020-03-23 12:26:41 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:41 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:41 --> Input Class Initialized
+INFO - 2020-03-23 12:26:41 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:41 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:41 --> Config Class Initialized
+INFO - 2020-03-23 12:26:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:41 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:41 --> URI Class Initialized
+INFO - 2020-03-23 12:26:41 --> Router Class Initialized
+INFO - 2020-03-23 12:26:41 --> Output Class Initialized
+INFO - 2020-03-23 12:26:41 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:41 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:41 --> Input Class Initialized
+INFO - 2020-03-23 12:26:41 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:41 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:41 --> Config Class Initialized
+INFO - 2020-03-23 12:26:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:41 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:41 --> URI Class Initialized
+INFO - 2020-03-23 12:26:41 --> Router Class Initialized
+INFO - 2020-03-23 12:26:41 --> Output Class Initialized
+INFO - 2020-03-23 12:26:41 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:41 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:41 --> Input Class Initialized
+INFO - 2020-03-23 12:26:41 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:41 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:41 --> Config Class Initialized
+INFO - 2020-03-23 12:26:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:41 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:41 --> URI Class Initialized
+INFO - 2020-03-23 12:26:41 --> Router Class Initialized
+INFO - 2020-03-23 12:26:41 --> Output Class Initialized
+INFO - 2020-03-23 12:26:41 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:41 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:41 --> Input Class Initialized
+INFO - 2020-03-23 12:26:41 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:41 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:42 --> Config Class Initialized
+INFO - 2020-03-23 12:26:42 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:42 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:42 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:42 --> URI Class Initialized
+INFO - 2020-03-23 12:26:42 --> Router Class Initialized
+INFO - 2020-03-23 12:26:42 --> Output Class Initialized
+INFO - 2020-03-23 12:26:42 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:42 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:42 --> Input Class Initialized
+INFO - 2020-03-23 12:26:42 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:42 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:42 --> Config Class Initialized
+INFO - 2020-03-23 12:26:42 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:42 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:42 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:42 --> URI Class Initialized
+INFO - 2020-03-23 12:26:42 --> Router Class Initialized
+INFO - 2020-03-23 12:26:42 --> Output Class Initialized
+INFO - 2020-03-23 12:26:42 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:42 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:42 --> Input Class Initialized
+INFO - 2020-03-23 12:26:42 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:42 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:26:42 --> Config Class Initialized
+INFO - 2020-03-23 12:26:42 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:42 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:42 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:42 --> URI Class Initialized
+INFO - 2020-03-23 12:26:42 --> Router Class Initialized
+INFO - 2020-03-23 12:26:42 --> Output Class Initialized
+INFO - 2020-03-23 12:26:42 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:42 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:42 --> Input Class Initialized
+INFO - 2020-03-23 12:26:42 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:42 --> 404 Page Not Found: Covidtest/assets
+INFO - 2020-03-23 12:26:42 --> Config Class Initialized
+INFO - 2020-03-23 12:26:42 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:26:42 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:26:42 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:26:42 --> URI Class Initialized
+INFO - 2020-03-23 12:26:42 --> Router Class Initialized
+INFO - 2020-03-23 12:26:42 --> Output Class Initialized
+INFO - 2020-03-23 12:26:42 --> Security Class Initialized
+DEBUG - 2020-03-23 12:26:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:26:42 --> CSRF cookie sent
+INFO - 2020-03-23 12:26:42 --> Input Class Initialized
+INFO - 2020-03-23 12:26:42 --> Language Class Initialized
+ERROR - 2020-03-23 12:26:42 --> 404 Page Not Found: Covidtest/assets
+INFO - 2020-03-23 12:29:20 --> Config Class Initialized
+INFO - 2020-03-23 12:29:20 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:20 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:20 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:20 --> URI Class Initialized
+INFO - 2020-03-23 12:29:20 --> Router Class Initialized
+INFO - 2020-03-23 12:29:20 --> Output Class Initialized
+INFO - 2020-03-23 12:29:20 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:20 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:20 --> Input Class Initialized
+INFO - 2020-03-23 12:29:20 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:20 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:20 --> Config Class Initialized
+INFO - 2020-03-23 12:29:20 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:20 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:20 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:20 --> URI Class Initialized
+INFO - 2020-03-23 12:29:20 --> Router Class Initialized
+INFO - 2020-03-23 12:29:20 --> Output Class Initialized
+INFO - 2020-03-23 12:29:20 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:20 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:20 --> Input Class Initialized
+INFO - 2020-03-23 12:29:20 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:20 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:20 --> Config Class Initialized
+INFO - 2020-03-23 12:29:20 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:20 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:20 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:20 --> URI Class Initialized
+INFO - 2020-03-23 12:29:20 --> Router Class Initialized
+INFO - 2020-03-23 12:29:20 --> Output Class Initialized
+INFO - 2020-03-23 12:29:20 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:20 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:20 --> Input Class Initialized
+INFO - 2020-03-23 12:29:20 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:20 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:20 --> Config Class Initialized
+INFO - 2020-03-23 12:29:20 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:20 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:20 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:20 --> URI Class Initialized
+INFO - 2020-03-23 12:29:20 --> Router Class Initialized
+INFO - 2020-03-23 12:29:20 --> Output Class Initialized
+INFO - 2020-03-23 12:29:20 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:20 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:20 --> Input Class Initialized
+INFO - 2020-03-23 12:29:20 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:20 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:20 --> Config Class Initialized
+INFO - 2020-03-23 12:29:20 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:20 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:20 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:20 --> URI Class Initialized
+INFO - 2020-03-23 12:29:20 --> Router Class Initialized
+INFO - 2020-03-23 12:29:20 --> Output Class Initialized
+INFO - 2020-03-23 12:29:20 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:20 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:20 --> Input Class Initialized
+INFO - 2020-03-23 12:29:20 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:20 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:20 --> Config Class Initialized
+INFO - 2020-03-23 12:29:20 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:20 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:20 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:21 --> URI Class Initialized
+INFO - 2020-03-23 12:29:21 --> Router Class Initialized
+INFO - 2020-03-23 12:29:21 --> Output Class Initialized
+INFO - 2020-03-23 12:29:21 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:21 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:21 --> Input Class Initialized
+INFO - 2020-03-23 12:29:21 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:21 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:21 --> Config Class Initialized
+INFO - 2020-03-23 12:29:21 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:21 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:21 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:21 --> URI Class Initialized
+INFO - 2020-03-23 12:29:21 --> Router Class Initialized
+INFO - 2020-03-23 12:29:21 --> Output Class Initialized
+INFO - 2020-03-23 12:29:21 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:21 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:21 --> Input Class Initialized
+INFO - 2020-03-23 12:29:21 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:21 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:21 --> Config Class Initialized
+INFO - 2020-03-23 12:29:21 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:21 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:21 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:21 --> URI Class Initialized
+INFO - 2020-03-23 12:29:21 --> Router Class Initialized
+INFO - 2020-03-23 12:29:21 --> Output Class Initialized
+INFO - 2020-03-23 12:29:21 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:21 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:21 --> Input Class Initialized
+INFO - 2020-03-23 12:29:21 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:21 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:21 --> Config Class Initialized
+INFO - 2020-03-23 12:29:21 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:21 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:21 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:21 --> URI Class Initialized
+INFO - 2020-03-23 12:29:21 --> Router Class Initialized
+INFO - 2020-03-23 12:29:21 --> Output Class Initialized
+INFO - 2020-03-23 12:29:21 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:21 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:21 --> Input Class Initialized
+INFO - 2020-03-23 12:29:21 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:21 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:21 --> Config Class Initialized
+INFO - 2020-03-23 12:29:21 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:21 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:21 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:21 --> URI Class Initialized
+INFO - 2020-03-23 12:29:21 --> Router Class Initialized
+INFO - 2020-03-23 12:29:21 --> Output Class Initialized
+INFO - 2020-03-23 12:29:21 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:21 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:21 --> Input Class Initialized
+INFO - 2020-03-23 12:29:21 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:21 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:21 --> Config Class Initialized
+INFO - 2020-03-23 12:29:21 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:21 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:21 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:21 --> URI Class Initialized
+INFO - 2020-03-23 12:29:21 --> Router Class Initialized
+INFO - 2020-03-23 12:29:21 --> Output Class Initialized
+INFO - 2020-03-23 12:29:21 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:21 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:21 --> Input Class Initialized
+INFO - 2020-03-23 12:29:21 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:21 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:21 --> Config Class Initialized
+INFO - 2020-03-23 12:29:21 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:21 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:21 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:21 --> URI Class Initialized
+INFO - 2020-03-23 12:29:21 --> Router Class Initialized
+INFO - 2020-03-23 12:29:21 --> Output Class Initialized
+INFO - 2020-03-23 12:29:21 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:21 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:21 --> Input Class Initialized
+INFO - 2020-03-23 12:29:21 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:21 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:21 --> Config Class Initialized
+INFO - 2020-03-23 12:29:21 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:21 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:21 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:21 --> URI Class Initialized
+INFO - 2020-03-23 12:29:21 --> Router Class Initialized
+INFO - 2020-03-23 12:29:21 --> Output Class Initialized
+INFO - 2020-03-23 12:29:21 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:21 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:21 --> Input Class Initialized
+INFO - 2020-03-23 12:29:21 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:21 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:21 --> Config Class Initialized
+INFO - 2020-03-23 12:29:21 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:21 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:21 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:21 --> URI Class Initialized
+INFO - 2020-03-23 12:29:21 --> Router Class Initialized
+INFO - 2020-03-23 12:29:21 --> Output Class Initialized
+INFO - 2020-03-23 12:29:21 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:21 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:21 --> Input Class Initialized
+INFO - 2020-03-23 12:29:21 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:21 --> 404 Page Not Found: Covidtest/assets
+INFO - 2020-03-23 12:29:21 --> Config Class Initialized
+INFO - 2020-03-23 12:29:21 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:21 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:21 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:21 --> URI Class Initialized
+INFO - 2020-03-23 12:29:21 --> Router Class Initialized
+INFO - 2020-03-23 12:29:21 --> Output Class Initialized
+INFO - 2020-03-23 12:29:22 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:22 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:22 --> Input Class Initialized
+INFO - 2020-03-23 12:29:22 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:22 --> 404 Page Not Found: Covidtest/assets
+INFO - 2020-03-23 12:29:40 --> Config Class Initialized
+INFO - 2020-03-23 12:29:40 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:40 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:40 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:40 --> URI Class Initialized
+INFO - 2020-03-23 12:29:40 --> Router Class Initialized
+INFO - 2020-03-23 12:29:40 --> Output Class Initialized
+INFO - 2020-03-23 12:29:40 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:40 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:40 --> Input Class Initialized
+INFO - 2020-03-23 12:29:40 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:40 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:41 --> Config Class Initialized
+INFO - 2020-03-23 12:29:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:41 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:41 --> URI Class Initialized
+INFO - 2020-03-23 12:29:41 --> Router Class Initialized
+INFO - 2020-03-23 12:29:41 --> Output Class Initialized
+INFO - 2020-03-23 12:29:41 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:41 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:41 --> Input Class Initialized
+INFO - 2020-03-23 12:29:41 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:41 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:41 --> Config Class Initialized
+INFO - 2020-03-23 12:29:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:41 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:41 --> URI Class Initialized
+INFO - 2020-03-23 12:29:41 --> Router Class Initialized
+INFO - 2020-03-23 12:29:41 --> Output Class Initialized
+INFO - 2020-03-23 12:29:41 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:41 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:41 --> Input Class Initialized
+INFO - 2020-03-23 12:29:41 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:41 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:41 --> Config Class Initialized
+INFO - 2020-03-23 12:29:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:41 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:41 --> URI Class Initialized
+INFO - 2020-03-23 12:29:41 --> Router Class Initialized
+INFO - 2020-03-23 12:29:41 --> Output Class Initialized
+INFO - 2020-03-23 12:29:41 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:41 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:41 --> Input Class Initialized
+INFO - 2020-03-23 12:29:41 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:41 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:41 --> Config Class Initialized
+INFO - 2020-03-23 12:29:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:41 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:41 --> URI Class Initialized
+INFO - 2020-03-23 12:29:41 --> Router Class Initialized
+INFO - 2020-03-23 12:29:41 --> Output Class Initialized
+INFO - 2020-03-23 12:29:41 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:41 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:41 --> Input Class Initialized
+INFO - 2020-03-23 12:29:41 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:41 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:41 --> Config Class Initialized
+INFO - 2020-03-23 12:29:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:41 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:41 --> URI Class Initialized
+INFO - 2020-03-23 12:29:41 --> Router Class Initialized
+INFO - 2020-03-23 12:29:41 --> Output Class Initialized
+INFO - 2020-03-23 12:29:41 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:41 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:41 --> Input Class Initialized
+INFO - 2020-03-23 12:29:41 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:41 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:41 --> Config Class Initialized
+INFO - 2020-03-23 12:29:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:41 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:41 --> URI Class Initialized
+INFO - 2020-03-23 12:29:41 --> Router Class Initialized
+INFO - 2020-03-23 12:29:41 --> Output Class Initialized
+INFO - 2020-03-23 12:29:41 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:41 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:41 --> Input Class Initialized
+INFO - 2020-03-23 12:29:41 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:41 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:41 --> Config Class Initialized
+INFO - 2020-03-23 12:29:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:41 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:41 --> URI Class Initialized
+INFO - 2020-03-23 12:29:41 --> Router Class Initialized
+INFO - 2020-03-23 12:29:41 --> Output Class Initialized
+INFO - 2020-03-23 12:29:41 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:41 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:41 --> Input Class Initialized
+INFO - 2020-03-23 12:29:41 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:41 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:41 --> Config Class Initialized
+INFO - 2020-03-23 12:29:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:41 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:41 --> URI Class Initialized
+INFO - 2020-03-23 12:29:41 --> Router Class Initialized
+INFO - 2020-03-23 12:29:41 --> Output Class Initialized
+INFO - 2020-03-23 12:29:41 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:41 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:41 --> Input Class Initialized
+INFO - 2020-03-23 12:29:41 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:41 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:41 --> Config Class Initialized
+INFO - 2020-03-23 12:29:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:41 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:41 --> URI Class Initialized
+INFO - 2020-03-23 12:29:41 --> Router Class Initialized
+INFO - 2020-03-23 12:29:41 --> Output Class Initialized
+INFO - 2020-03-23 12:29:41 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:41 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:41 --> Input Class Initialized
+INFO - 2020-03-23 12:29:41 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:41 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:41 --> Config Class Initialized
+INFO - 2020-03-23 12:29:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:41 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:41 --> URI Class Initialized
+INFO - 2020-03-23 12:29:41 --> Router Class Initialized
+INFO - 2020-03-23 12:29:41 --> Output Class Initialized
+INFO - 2020-03-23 12:29:41 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:41 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:41 --> Input Class Initialized
+INFO - 2020-03-23 12:29:41 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:41 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:41 --> Config Class Initialized
+INFO - 2020-03-23 12:29:41 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:41 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:42 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:42 --> URI Class Initialized
+INFO - 2020-03-23 12:29:42 --> Router Class Initialized
+INFO - 2020-03-23 12:29:42 --> Output Class Initialized
+INFO - 2020-03-23 12:29:42 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:42 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:42 --> Input Class Initialized
+INFO - 2020-03-23 12:29:42 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:42 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:42 --> Config Class Initialized
+INFO - 2020-03-23 12:29:42 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:42 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:42 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:42 --> URI Class Initialized
+INFO - 2020-03-23 12:29:42 --> Router Class Initialized
+INFO - 2020-03-23 12:29:42 --> Output Class Initialized
+INFO - 2020-03-23 12:29:42 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:42 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:42 --> Input Class Initialized
+INFO - 2020-03-23 12:29:42 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:42 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:42 --> Config Class Initialized
+INFO - 2020-03-23 12:29:42 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:42 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:42 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:42 --> URI Class Initialized
+INFO - 2020-03-23 12:29:42 --> Router Class Initialized
+INFO - 2020-03-23 12:29:42 --> Output Class Initialized
+INFO - 2020-03-23 12:29:42 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:42 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:42 --> Input Class Initialized
+INFO - 2020-03-23 12:29:42 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:42 --> 404 Page Not Found: Covidtest/api
+INFO - 2020-03-23 12:29:42 --> Config Class Initialized
+INFO - 2020-03-23 12:29:42 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:42 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:42 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:42 --> URI Class Initialized
+INFO - 2020-03-23 12:29:42 --> Router Class Initialized
+INFO - 2020-03-23 12:29:42 --> Output Class Initialized
+INFO - 2020-03-23 12:29:42 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:42 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:42 --> Input Class Initialized
+INFO - 2020-03-23 12:29:42 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:42 --> 404 Page Not Found: Covidtest/assets
+INFO - 2020-03-23 12:29:42 --> Config Class Initialized
+INFO - 2020-03-23 12:29:42 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:29:42 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:29:42 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:29:42 --> URI Class Initialized
+INFO - 2020-03-23 12:29:42 --> Router Class Initialized
+INFO - 2020-03-23 12:29:42 --> Output Class Initialized
+INFO - 2020-03-23 12:29:42 --> Security Class Initialized
+DEBUG - 2020-03-23 12:29:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:29:42 --> CSRF cookie sent
+INFO - 2020-03-23 12:29:42 --> Input Class Initialized
+INFO - 2020-03-23 12:29:42 --> Language Class Initialized
+ERROR - 2020-03-23 12:29:42 --> 404 Page Not Found: Covidtest/assets
+INFO - 2020-03-23 12:30:23 --> Config Class Initialized
+INFO - 2020-03-23 12:30:23 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:30:23 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:30:23 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:30:23 --> URI Class Initialized
+INFO - 2020-03-23 12:30:23 --> Router Class Initialized
+INFO - 2020-03-23 12:30:23 --> Output Class Initialized
+INFO - 2020-03-23 12:30:23 --> Security Class Initialized
+DEBUG - 2020-03-23 12:30:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:30:23 --> CSRF cookie sent
+INFO - 2020-03-23 12:30:23 --> Input Class Initialized
+INFO - 2020-03-23 12:30:23 --> Language Class Initialized
+ERROR - 2020-03-23 12:30:23 --> 404 Page Not Found: Covidtest/administrator
+INFO - 2020-03-23 12:30:36 --> Config Class Initialized
+INFO - 2020-03-23 12:30:36 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:30:36 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:30:36 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:30:36 --> URI Class Initialized
+DEBUG - 2020-03-23 12:30:36 --> No URI present. Default controller set.
+INFO - 2020-03-23 12:30:36 --> Router Class Initialized
+INFO - 2020-03-23 12:30:36 --> Output Class Initialized
+INFO - 2020-03-23 12:30:36 --> Security Class Initialized
+DEBUG - 2020-03-23 12:30:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:30:36 --> CSRF cookie sent
+INFO - 2020-03-23 12:30:36 --> Input Class Initialized
+INFO - 2020-03-23 12:30:36 --> Language Class Initialized
+INFO - 2020-03-23 12:30:36 --> Loader Class Initialized
+INFO - 2020-03-23 12:30:36 --> Helper loaded: url_helper
+INFO - 2020-03-23 12:30:36 --> Helper loaded: file_helper
+INFO - 2020-03-23 12:30:36 --> Helper loaded: form_helper
+INFO - 2020-03-23 12:30:36 --> Helper loaded: security_helper
+INFO - 2020-03-23 12:30:36 --> Database Driver Class Initialized
+INFO - 2020-03-23 12:30:36 --> Email Class Initialized
+INFO - 2020-03-23 12:30:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-23 12:30:36 --> Form Validation Class Initialized
+INFO - 2020-03-23 12:30:36 --> Controller Class Initialized
+INFO - 2020-03-23 12:30:37 --> Helper loaded: myadmin_helper
+DEBUG - 2020-03-23 12:30:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 12:30:37 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 12:30:37 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-03-23 12:30:37 --> Pagination Class Initialized
+INFO - 2020-03-23 12:30:37 --> MY_Model class loaded
+INFO - 2020-03-23 12:30:37 --> Model "Dashboard_model" initialized
+DEBUG - 2020-03-23 12:30:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 12:30:37 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 12:30:37 --> Helper loaded: captcha_helper
+INFO - 2020-03-23 12:30:37 --> File loaded: C:\xampp\htdocs\dps\app\views\loginhtml.php
+INFO - 2020-03-23 12:30:37 --> Final output sent to browser
+DEBUG - 2020-03-23 12:30:37 --> Total execution time: 0.3260
+INFO - 2020-03-23 12:30:37 --> Config Class Initialized
+INFO - 2020-03-23 12:30:37 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:30:37 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:30:37 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:30:37 --> URI Class Initialized
+DEBUG - 2020-03-23 12:30:37 --> No URI present. Default controller set.
+INFO - 2020-03-23 12:30:37 --> Router Class Initialized
+INFO - 2020-03-23 12:30:37 --> Output Class Initialized
+INFO - 2020-03-23 12:30:37 --> Security Class Initialized
+DEBUG - 2020-03-23 12:30:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:30:37 --> CSRF cookie sent
+INFO - 2020-03-23 12:30:37 --> Input Class Initialized
+INFO - 2020-03-23 12:30:37 --> Language Class Initialized
+INFO - 2020-03-23 12:30:37 --> Loader Class Initialized
+INFO - 2020-03-23 12:30:37 --> Helper loaded: url_helper
+INFO - 2020-03-23 12:30:37 --> Helper loaded: file_helper
+INFO - 2020-03-23 12:30:37 --> Helper loaded: form_helper
+INFO - 2020-03-23 12:30:37 --> Helper loaded: security_helper
+INFO - 2020-03-23 12:30:37 --> Database Driver Class Initialized
+INFO - 2020-03-23 12:30:37 --> Email Class Initialized
+INFO - 2020-03-23 12:30:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-23 12:30:37 --> Form Validation Class Initialized
+INFO - 2020-03-23 12:30:37 --> Controller Class Initialized
+INFO - 2020-03-23 12:30:37 --> Helper loaded: myadmin_helper
+DEBUG - 2020-03-23 12:30:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 12:30:37 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 12:30:37 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-03-23 12:30:37 --> Pagination Class Initialized
+INFO - 2020-03-23 12:30:37 --> MY_Model class loaded
+INFO - 2020-03-23 12:30:37 --> Model "Dashboard_model" initialized
+DEBUG - 2020-03-23 12:30:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 12:30:37 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 12:30:37 --> Helper loaded: captcha_helper
+INFO - 2020-03-23 12:30:37 --> File loaded: C:\xampp\htdocs\dps\app\views\loginhtml.php
+INFO - 2020-03-23 12:30:37 --> Final output sent to browser
+DEBUG - 2020-03-23 12:30:37 --> Total execution time: 0.2442
+INFO - 2020-03-23 12:30:37 --> Config Class Initialized
+INFO - 2020-03-23 12:30:37 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:30:37 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:30:37 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:30:37 --> URI Class Initialized
+INFO - 2020-03-23 12:30:37 --> Router Class Initialized
+INFO - 2020-03-23 12:30:37 --> Output Class Initialized
+INFO - 2020-03-23 12:30:37 --> Security Class Initialized
+DEBUG - 2020-03-23 12:30:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:30:37 --> CSRF cookie sent
+INFO - 2020-03-23 12:30:37 --> Input Class Initialized
+INFO - 2020-03-23 12:30:37 --> Language Class Initialized
+ERROR - 2020-03-23 12:30:37 --> 404 Page Not Found: Img/favicon.png
+INFO - 2020-03-23 12:30:43 --> Config Class Initialized
+INFO - 2020-03-23 12:30:43 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:30:43 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:30:43 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:30:43 --> URI Class Initialized
+INFO - 2020-03-23 12:30:43 --> Router Class Initialized
+INFO - 2020-03-23 12:30:43 --> Output Class Initialized
+INFO - 2020-03-23 12:30:43 --> Security Class Initialized
+DEBUG - 2020-03-23 12:30:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:30:43 --> CSRF cookie sent
+INFO - 2020-03-23 12:30:43 --> Input Class Initialized
+INFO - 2020-03-23 12:30:43 --> Language Class Initialized
+ERROR - 2020-03-23 12:30:43 --> 404 Page Not Found: Covidtest/administrator
+INFO - 2020-03-23 12:30:46 --> Config Class Initialized
+INFO - 2020-03-23 12:30:46 --> Hooks Class Initialized
+DEBUG - 2020-03-23 12:30:46 --> UTF-8 Support Enabled
+INFO - 2020-03-23 12:30:46 --> Utf8 Class Initialized
+INFO - 2020-03-23 12:30:46 --> URI Class Initialized
+INFO - 2020-03-23 12:30:46 --> Router Class Initialized
+INFO - 2020-03-23 12:30:46 --> Output Class Initialized
+INFO - 2020-03-23 12:30:46 --> Security Class Initialized
+DEBUG - 2020-03-23 12:30:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 12:30:46 --> CSRF cookie sent
+INFO - 2020-03-23 12:30:46 --> Input Class Initialized
+INFO - 2020-03-23 12:30:46 --> Language Class Initialized
+ERROR - 2020-03-23 12:30:46 --> 404 Page Not Found: Covidtest/administrator
+INFO - 2020-03-23 15:07:25 --> Config Class Initialized
+INFO - 2020-03-23 15:07:25 --> Hooks Class Initialized
+DEBUG - 2020-03-23 15:07:25 --> UTF-8 Support Enabled
+INFO - 2020-03-23 15:07:25 --> Utf8 Class Initialized
+INFO - 2020-03-23 15:07:25 --> URI Class Initialized
+DEBUG - 2020-03-23 15:07:25 --> No URI present. Default controller set.
+INFO - 2020-03-23 15:07:25 --> Router Class Initialized
+INFO - 2020-03-23 15:07:25 --> Output Class Initialized
+INFO - 2020-03-23 15:07:25 --> Security Class Initialized
+DEBUG - 2020-03-23 15:07:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 15:07:25 --> CSRF cookie sent
+INFO - 2020-03-23 15:07:25 --> Input Class Initialized
+INFO - 2020-03-23 15:07:25 --> Language Class Initialized
+INFO - 2020-03-23 15:07:25 --> Loader Class Initialized
+INFO - 2020-03-23 15:07:25 --> Helper loaded: url_helper
+INFO - 2020-03-23 15:07:25 --> Helper loaded: file_helper
+INFO - 2020-03-23 15:07:25 --> Helper loaded: form_helper
+INFO - 2020-03-23 15:07:25 --> Helper loaded: security_helper
+INFO - 2020-03-23 15:07:25 --> Database Driver Class Initialized
+INFO - 2020-03-23 15:07:25 --> Email Class Initialized
+INFO - 2020-03-23 15:07:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-23 15:07:25 --> Form Validation Class Initialized
+INFO - 2020-03-23 15:07:25 --> Controller Class Initialized
+INFO - 2020-03-23 15:07:25 --> Helper loaded: myadmin_helper
+DEBUG - 2020-03-23 15:07:25 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 15:07:25 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 15:07:25 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-03-23 15:07:25 --> Pagination Class Initialized
+INFO - 2020-03-23 15:07:25 --> MY_Model class loaded
+INFO - 2020-03-23 15:07:25 --> Model "Dashboard_model" initialized
+DEBUG - 2020-03-23 15:07:25 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 15:07:25 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 15:07:25 --> Helper loaded: captcha_helper
+INFO - 2020-03-23 15:07:25 --> File loaded: C:\xampp\htdocs\dps\app\views\loginhtml.php
+INFO - 2020-03-23 15:07:25 --> Final output sent to browser
+DEBUG - 2020-03-23 15:07:25 --> Total execution time: 0.2373
+INFO - 2020-03-23 15:07:25 --> Config Class Initialized
+INFO - 2020-03-23 15:07:25 --> Hooks Class Initialized
+DEBUG - 2020-03-23 15:07:25 --> UTF-8 Support Enabled
+INFO - 2020-03-23 15:07:25 --> Utf8 Class Initialized
+INFO - 2020-03-23 15:07:25 --> URI Class Initialized
+DEBUG - 2020-03-23 15:07:25 --> No URI present. Default controller set.
+INFO - 2020-03-23 15:07:25 --> Router Class Initialized
+INFO - 2020-03-23 15:07:25 --> Output Class Initialized
+INFO - 2020-03-23 15:07:25 --> Security Class Initialized
+DEBUG - 2020-03-23 15:07:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 15:07:25 --> CSRF cookie sent
+INFO - 2020-03-23 15:07:25 --> Input Class Initialized
+INFO - 2020-03-23 15:07:25 --> Language Class Initialized
+INFO - 2020-03-23 15:07:25 --> Loader Class Initialized
+INFO - 2020-03-23 15:07:25 --> Helper loaded: url_helper
+INFO - 2020-03-23 15:07:25 --> Helper loaded: file_helper
+INFO - 2020-03-23 15:07:25 --> Helper loaded: form_helper
+INFO - 2020-03-23 15:07:26 --> Helper loaded: security_helper
+INFO - 2020-03-23 15:07:26 --> Database Driver Class Initialized
+INFO - 2020-03-23 15:07:26 --> Email Class Initialized
+INFO - 2020-03-23 15:07:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-23 15:07:26 --> Form Validation Class Initialized
+INFO - 2020-03-23 15:07:26 --> Controller Class Initialized
+INFO - 2020-03-23 15:07:26 --> Helper loaded: myadmin_helper
+DEBUG - 2020-03-23 15:07:26 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 15:07:26 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 15:07:26 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-03-23 15:07:26 --> Pagination Class Initialized
+INFO - 2020-03-23 15:07:26 --> MY_Model class loaded
+INFO - 2020-03-23 15:07:26 --> Model "Dashboard_model" initialized
+DEBUG - 2020-03-23 15:07:26 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 15:07:26 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 15:07:26 --> Helper loaded: captcha_helper
+INFO - 2020-03-23 15:07:26 --> File loaded: C:\xampp\htdocs\dps\app\views\loginhtml.php
+INFO - 2020-03-23 15:07:26 --> Final output sent to browser
+DEBUG - 2020-03-23 15:07:26 --> Total execution time: 0.2573
+INFO - 2020-03-23 15:07:37 --> Config Class Initialized
+INFO - 2020-03-23 15:07:37 --> Hooks Class Initialized
+DEBUG - 2020-03-23 15:07:37 --> UTF-8 Support Enabled
+INFO - 2020-03-23 15:07:37 --> Utf8 Class Initialized
+INFO - 2020-03-23 15:07:37 --> URI Class Initialized
+INFO - 2020-03-23 15:07:37 --> Router Class Initialized
+INFO - 2020-03-23 15:07:37 --> Output Class Initialized
+INFO - 2020-03-23 15:07:37 --> Security Class Initialized
+DEBUG - 2020-03-23 15:07:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 15:07:37 --> CSRF cookie sent
+INFO - 2020-03-23 15:07:37 --> CSRF token verified
+INFO - 2020-03-23 15:07:37 --> Input Class Initialized
+INFO - 2020-03-23 15:07:37 --> Language Class Initialized
+INFO - 2020-03-23 15:07:37 --> Loader Class Initialized
+INFO - 2020-03-23 15:07:37 --> Helper loaded: url_helper
+INFO - 2020-03-23 15:07:37 --> Helper loaded: file_helper
+INFO - 2020-03-23 15:07:37 --> Helper loaded: form_helper
+INFO - 2020-03-23 15:07:37 --> Helper loaded: security_helper
+INFO - 2020-03-23 15:07:37 --> Database Driver Class Initialized
+INFO - 2020-03-23 15:07:37 --> Email Class Initialized
+INFO - 2020-03-23 15:07:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-23 15:07:37 --> Form Validation Class Initialized
+INFO - 2020-03-23 15:07:37 --> Controller Class Initialized
+INFO - 2020-03-23 15:07:37 --> Helper loaded: myadmin_helper
+DEBUG - 2020-03-23 15:07:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 15:07:37 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 15:07:37 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-03-23 15:07:37 --> Pagination Class Initialized
+INFO - 2020-03-23 15:07:37 --> MY_Model class loaded
+INFO - 2020-03-23 15:07:37 --> Model "Dashboard_model" initialized
+DEBUG - 2020-03-23 15:07:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 15:07:37 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 15:07:37 --> Helper loaded: captcha_helper
+INFO - 2020-03-23 15:07:37 --> Language file loaded: language/en/form_validation_lang.php
+INFO - 2020-03-23 15:07:37 --> Config Class Initialized
+INFO - 2020-03-23 15:07:37 --> Hooks Class Initialized
+DEBUG - 2020-03-23 15:07:37 --> UTF-8 Support Enabled
+INFO - 2020-03-23 15:07:37 --> Utf8 Class Initialized
+INFO - 2020-03-23 15:07:37 --> URI Class Initialized
+DEBUG - 2020-03-23 15:07:37 --> No URI present. Default controller set.
+INFO - 2020-03-23 15:07:37 --> Router Class Initialized
+INFO - 2020-03-23 15:07:37 --> Output Class Initialized
+INFO - 2020-03-23 15:07:37 --> Security Class Initialized
+DEBUG - 2020-03-23 15:07:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 15:07:37 --> CSRF cookie sent
+INFO - 2020-03-23 15:07:37 --> Input Class Initialized
+INFO - 2020-03-23 15:07:37 --> Language Class Initialized
+INFO - 2020-03-23 15:07:37 --> Loader Class Initialized
+INFO - 2020-03-23 15:07:37 --> Helper loaded: url_helper
+INFO - 2020-03-23 15:07:37 --> Helper loaded: file_helper
+INFO - 2020-03-23 15:07:37 --> Helper loaded: form_helper
+INFO - 2020-03-23 15:07:37 --> Helper loaded: security_helper
+INFO - 2020-03-23 15:07:37 --> Database Driver Class Initialized
+INFO - 2020-03-23 15:07:37 --> Email Class Initialized
+INFO - 2020-03-23 15:07:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-23 15:07:37 --> Form Validation Class Initialized
+INFO - 2020-03-23 15:07:37 --> Controller Class Initialized
+INFO - 2020-03-23 15:07:37 --> Helper loaded: myadmin_helper
+DEBUG - 2020-03-23 15:07:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 15:07:37 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 15:07:37 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-03-23 15:07:37 --> Pagination Class Initialized
+INFO - 2020-03-23 15:07:37 --> MY_Model class loaded
+INFO - 2020-03-23 15:07:37 --> Model "Dashboard_model" initialized
+DEBUG - 2020-03-23 15:07:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 15:07:37 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 15:07:37 --> Helper loaded: captcha_helper
+INFO - 2020-03-23 15:07:37 --> File loaded: C:\xampp\htdocs\dps\app\views\loginhtml.php
+INFO - 2020-03-23 15:07:37 --> Final output sent to browser
+DEBUG - 2020-03-23 15:07:37 --> Total execution time: 0.2567
+INFO - 2020-03-23 15:07:45 --> Config Class Initialized
+INFO - 2020-03-23 15:07:45 --> Hooks Class Initialized
+DEBUG - 2020-03-23 15:07:45 --> UTF-8 Support Enabled
+INFO - 2020-03-23 15:07:45 --> Utf8 Class Initialized
+INFO - 2020-03-23 15:07:45 --> URI Class Initialized
+DEBUG - 2020-03-23 15:07:45 --> No URI present. Default controller set.
+INFO - 2020-03-23 15:07:45 --> Router Class Initialized
+INFO - 2020-03-23 15:07:45 --> Output Class Initialized
+INFO - 2020-03-23 15:07:45 --> Security Class Initialized
+DEBUG - 2020-03-23 15:07:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 15:07:45 --> CSRF cookie sent
+INFO - 2020-03-23 15:07:45 --> Input Class Initialized
+INFO - 2020-03-23 15:07:45 --> Language Class Initialized
+INFO - 2020-03-23 15:07:45 --> Loader Class Initialized
+INFO - 2020-03-23 15:07:45 --> Helper loaded: url_helper
+INFO - 2020-03-23 15:07:45 --> Helper loaded: file_helper
+INFO - 2020-03-23 15:07:45 --> Helper loaded: form_helper
+INFO - 2020-03-23 15:07:45 --> Helper loaded: security_helper
+INFO - 2020-03-23 15:07:45 --> Database Driver Class Initialized
+INFO - 2020-03-23 15:07:45 --> Email Class Initialized
+INFO - 2020-03-23 15:07:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-23 15:07:45 --> Form Validation Class Initialized
+INFO - 2020-03-23 15:07:45 --> Controller Class Initialized
+INFO - 2020-03-23 15:07:45 --> Helper loaded: myadmin_helper
+DEBUG - 2020-03-23 15:07:45 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 15:07:45 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 15:07:45 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-03-23 15:07:45 --> Pagination Class Initialized
+INFO - 2020-03-23 15:07:45 --> MY_Model class loaded
+INFO - 2020-03-23 15:07:45 --> Model "Dashboard_model" initialized
+DEBUG - 2020-03-23 15:07:45 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 15:07:45 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 15:07:45 --> Helper loaded: captcha_helper
+INFO - 2020-03-23 15:07:45 --> File loaded: C:\xampp\htdocs\dps\app\views\loginhtml.php
+INFO - 2020-03-23 15:07:45 --> Final output sent to browser
+DEBUG - 2020-03-23 15:07:45 --> Total execution time: 0.2580
+INFO - 2020-03-23 15:07:54 --> Config Class Initialized
+INFO - 2020-03-23 15:07:54 --> Hooks Class Initialized
+DEBUG - 2020-03-23 15:07:54 --> UTF-8 Support Enabled
+INFO - 2020-03-23 15:07:54 --> Utf8 Class Initialized
+INFO - 2020-03-23 15:07:54 --> URI Class Initialized
+INFO - 2020-03-23 15:07:54 --> Router Class Initialized
+INFO - 2020-03-23 15:07:54 --> Output Class Initialized
+INFO - 2020-03-23 15:07:54 --> Security Class Initialized
+DEBUG - 2020-03-23 15:07:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 15:07:54 --> CSRF cookie sent
+INFO - 2020-03-23 15:07:54 --> CSRF token verified
+INFO - 2020-03-23 15:07:54 --> Input Class Initialized
+INFO - 2020-03-23 15:07:54 --> Language Class Initialized
+INFO - 2020-03-23 15:07:54 --> Loader Class Initialized
+INFO - 2020-03-23 15:07:54 --> Helper loaded: url_helper
+INFO - 2020-03-23 15:07:54 --> Helper loaded: file_helper
+INFO - 2020-03-23 15:07:54 --> Helper loaded: form_helper
+INFO - 2020-03-23 15:07:54 --> Helper loaded: security_helper
+INFO - 2020-03-23 15:07:54 --> Database Driver Class Initialized
+INFO - 2020-03-23 15:07:54 --> Email Class Initialized
+INFO - 2020-03-23 15:07:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-23 15:07:54 --> Form Validation Class Initialized
+INFO - 2020-03-23 15:07:54 --> Controller Class Initialized
+INFO - 2020-03-23 15:07:54 --> Helper loaded: myadmin_helper
+DEBUG - 2020-03-23 15:07:54 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 15:07:54 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 15:07:54 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-03-23 15:07:54 --> Pagination Class Initialized
+INFO - 2020-03-23 15:07:54 --> MY_Model class loaded
+INFO - 2020-03-23 15:07:54 --> Model "Dashboard_model" initialized
+DEBUG - 2020-03-23 15:07:54 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 15:07:54 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 15:07:54 --> Helper loaded: captcha_helper
+INFO - 2020-03-23 15:07:54 --> Language file loaded: language/en/form_validation_lang.php
+INFO - 2020-03-23 15:07:55 --> Config Class Initialized
+INFO - 2020-03-23 15:07:55 --> Hooks Class Initialized
+DEBUG - 2020-03-23 15:07:55 --> UTF-8 Support Enabled
+INFO - 2020-03-23 15:07:55 --> Utf8 Class Initialized
+INFO - 2020-03-23 15:07:55 --> URI Class Initialized
+INFO - 2020-03-23 15:07:55 --> Router Class Initialized
+INFO - 2020-03-23 15:07:55 --> Output Class Initialized
+INFO - 2020-03-23 15:07:55 --> Security Class Initialized
+DEBUG - 2020-03-23 15:07:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 15:07:55 --> CSRF cookie sent
+INFO - 2020-03-23 15:07:55 --> Input Class Initialized
+INFO - 2020-03-23 15:07:55 --> Language Class Initialized
+INFO - 2020-03-23 15:07:55 --> Loader Class Initialized
+INFO - 2020-03-23 15:07:55 --> Helper loaded: url_helper
+INFO - 2020-03-23 15:07:55 --> Helper loaded: file_helper
+INFO - 2020-03-23 15:07:55 --> Helper loaded: form_helper
+INFO - 2020-03-23 15:07:55 --> Helper loaded: security_helper
+INFO - 2020-03-23 15:07:55 --> Database Driver Class Initialized
+INFO - 2020-03-23 15:07:55 --> Email Class Initialized
+INFO - 2020-03-23 15:07:55 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-23 15:07:55 --> Form Validation Class Initialized
+INFO - 2020-03-23 15:07:55 --> Controller Class Initialized
+INFO - 2020-03-23 15:07:55 --> Helper loaded: myadmin_helper
+DEBUG - 2020-03-23 15:07:55 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 15:07:55 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 15:07:55 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-03-23 15:07:55 --> Pagination Class Initialized
+INFO - 2020-03-23 15:07:55 --> MY_Model class loaded
+INFO - 2020-03-23 15:07:55 --> Model "Dashboard_model" initialized
+INFO - 2020-03-23 15:07:56 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/headerhtml.php
+INFO - 2020-03-23 15:07:56 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/cmspageslisthtml.php
+INFO - 2020-03-23 15:07:56 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/footerhtml.php
+INFO - 2020-03-23 15:07:56 --> Final output sent to browser
+DEBUG - 2020-03-23 15:07:56 --> Total execution time: 1.2967
+INFO - 2020-03-23 15:07:56 --> Config Class Initialized
+INFO - 2020-03-23 15:07:56 --> Hooks Class Initialized
+DEBUG - 2020-03-23 15:07:56 --> UTF-8 Support Enabled
+INFO - 2020-03-23 15:07:56 --> Utf8 Class Initialized
+INFO - 2020-03-23 15:07:56 --> URI Class Initialized
+INFO - 2020-03-23 15:07:56 --> Router Class Initialized
+INFO - 2020-03-23 15:07:56 --> Output Class Initialized
+INFO - 2020-03-23 15:07:56 --> Security Class Initialized
+DEBUG - 2020-03-23 15:07:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 15:07:57 --> CSRF cookie sent
+INFO - 2020-03-23 15:07:57 --> Input Class Initialized
+INFO - 2020-03-23 15:07:57 --> Language Class Initialized
+ERROR - 2020-03-23 15:07:57 --> 404 Page Not Found: administrator/Img/favicon.png
+INFO - 2020-03-23 15:08:02 --> Config Class Initialized
+INFO - 2020-03-23 15:08:02 --> Hooks Class Initialized
+DEBUG - 2020-03-23 15:08:02 --> UTF-8 Support Enabled
+INFO - 2020-03-23 15:08:02 --> Utf8 Class Initialized
+INFO - 2020-03-23 15:08:02 --> URI Class Initialized
+INFO - 2020-03-23 15:08:02 --> Router Class Initialized
+INFO - 2020-03-23 15:08:02 --> Output Class Initialized
+INFO - 2020-03-23 15:08:02 --> Security Class Initialized
+DEBUG - 2020-03-23 15:08:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 15:08:02 --> CSRF cookie sent
+INFO - 2020-03-23 15:08:02 --> Input Class Initialized
+INFO - 2020-03-23 15:08:02 --> Language Class Initialized
+INFO - 2020-03-23 15:08:02 --> Loader Class Initialized
+INFO - 2020-03-23 15:08:02 --> Helper loaded: url_helper
+INFO - 2020-03-23 15:08:02 --> Helper loaded: file_helper
+INFO - 2020-03-23 15:08:02 --> Helper loaded: form_helper
+INFO - 2020-03-23 15:08:02 --> Helper loaded: security_helper
+INFO - 2020-03-23 15:08:02 --> Database Driver Class Initialized
+INFO - 2020-03-23 15:08:02 --> Email Class Initialized
+INFO - 2020-03-23 15:08:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-23 15:08:02 --> Form Validation Class Initialized
+INFO - 2020-03-23 15:08:02 --> Controller Class Initialized
+INFO - 2020-03-23 15:08:02 --> Helper loaded: myadmin_helper
+DEBUG - 2020-03-23 15:08:02 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 15:08:02 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 15:08:02 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-03-23 15:08:02 --> Pagination Class Initialized
+INFO - 2020-03-23 15:08:02 --> MY_Model class loaded
+INFO - 2020-03-23 15:08:02 --> Model "Dashboard_model" initialized
+INFO - 2020-03-23 15:08:02 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/headerhtml.php
+INFO - 2020-03-23 15:08:02 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/classtypemasterhtml.php
+INFO - 2020-03-23 15:08:02 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/footerhtml.php
+INFO - 2020-03-23 15:08:03 --> Final output sent to browser
+DEBUG - 2020-03-23 15:08:03 --> Total execution time: 0.6636
+INFO - 2020-03-23 15:08:03 --> Config Class Initialized
+INFO - 2020-03-23 15:08:03 --> Hooks Class Initialized
+DEBUG - 2020-03-23 15:08:03 --> UTF-8 Support Enabled
+INFO - 2020-03-23 15:08:03 --> Utf8 Class Initialized
+INFO - 2020-03-23 15:08:03 --> URI Class Initialized
+INFO - 2020-03-23 15:08:03 --> Router Class Initialized
+INFO - 2020-03-23 15:08:03 --> Output Class Initialized
+INFO - 2020-03-23 15:08:03 --> Security Class Initialized
+DEBUG - 2020-03-23 15:08:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 15:08:03 --> CSRF cookie sent
+INFO - 2020-03-23 15:08:03 --> Input Class Initialized
+INFO - 2020-03-23 15:08:03 --> Language Class Initialized
+ERROR - 2020-03-23 15:08:03 --> 404 Page Not Found: administrator/Dashboard/img
+INFO - 2020-03-23 15:08:14 --> Config Class Initialized
+INFO - 2020-03-23 15:08:14 --> Hooks Class Initialized
+DEBUG - 2020-03-23 15:08:14 --> UTF-8 Support Enabled
+INFO - 2020-03-23 15:08:14 --> Utf8 Class Initialized
+INFO - 2020-03-23 15:08:14 --> URI Class Initialized
+INFO - 2020-03-23 15:08:14 --> Router Class Initialized
+INFO - 2020-03-23 15:08:14 --> Output Class Initialized
+INFO - 2020-03-23 15:08:14 --> Security Class Initialized
+DEBUG - 2020-03-23 15:08:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 15:08:14 --> CSRF cookie sent
+INFO - 2020-03-23 15:08:14 --> Input Class Initialized
+INFO - 2020-03-23 15:08:14 --> Language Class Initialized
+INFO - 2020-03-23 15:08:14 --> Loader Class Initialized
+INFO - 2020-03-23 15:08:14 --> Helper loaded: url_helper
+INFO - 2020-03-23 15:08:14 --> Helper loaded: file_helper
+INFO - 2020-03-23 15:08:14 --> Helper loaded: form_helper
+INFO - 2020-03-23 15:08:14 --> Helper loaded: security_helper
+INFO - 2020-03-23 15:08:14 --> Database Driver Class Initialized
+INFO - 2020-03-23 15:08:14 --> Email Class Initialized
+INFO - 2020-03-23 15:08:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-23 15:08:14 --> Form Validation Class Initialized
+INFO - 2020-03-23 15:08:14 --> Controller Class Initialized
+INFO - 2020-03-23 15:08:14 --> Helper loaded: myadmin_helper
+DEBUG - 2020-03-23 15:08:14 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 15:08:14 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 15:08:14 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-03-23 15:08:15 --> Pagination Class Initialized
+INFO - 2020-03-23 15:08:15 --> MY_Model class loaded
+INFO - 2020-03-23 15:08:15 --> Model "Dashboard_model" initialized
+INFO - 2020-03-23 15:08:15 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/headerhtml.php
+ERROR - 2020-03-23 15:08:15 --> Severity: Notice --> Undefined index: featureimageposition C:\xampp\htdocs\dps\app\views\administrator\addcourselistshtml.php 113
+INFO - 2020-03-23 15:08:15 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/addcourselistshtml.php
+INFO - 2020-03-23 15:08:15 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/footerhtml.php
+INFO - 2020-03-23 15:08:15 --> Final output sent to browser
+DEBUG - 2020-03-23 15:08:15 --> Total execution time: 0.9617
+INFO - 2020-03-23 15:08:19 --> Config Class Initialized
+INFO - 2020-03-23 15:08:19 --> Hooks Class Initialized
+DEBUG - 2020-03-23 15:08:19 --> UTF-8 Support Enabled
+INFO - 2020-03-23 15:08:19 --> Utf8 Class Initialized
+INFO - 2020-03-23 15:08:19 --> URI Class Initialized
+INFO - 2020-03-23 15:08:19 --> Router Class Initialized
+INFO - 2020-03-23 15:08:19 --> Output Class Initialized
+INFO - 2020-03-23 15:08:19 --> Security Class Initialized
+DEBUG - 2020-03-23 15:08:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 15:08:19 --> CSRF cookie sent
+INFO - 2020-03-23 15:08:19 --> Input Class Initialized
+INFO - 2020-03-23 15:08:19 --> Language Class Initialized
+INFO - 2020-03-23 15:08:19 --> Loader Class Initialized
+INFO - 2020-03-23 15:08:19 --> Helper loaded: url_helper
+INFO - 2020-03-23 15:08:19 --> Helper loaded: file_helper
+INFO - 2020-03-23 15:08:19 --> Helper loaded: form_helper
+INFO - 2020-03-23 15:08:19 --> Helper loaded: security_helper
+INFO - 2020-03-23 15:08:19 --> Database Driver Class Initialized
+INFO - 2020-03-23 15:08:19 --> Email Class Initialized
+INFO - 2020-03-23 15:08:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-23 15:08:19 --> Form Validation Class Initialized
+INFO - 2020-03-23 15:08:19 --> Controller Class Initialized
+INFO - 2020-03-23 15:08:19 --> Helper loaded: myadmin_helper
+DEBUG - 2020-03-23 15:08:19 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 15:08:19 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 15:08:19 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-03-23 15:08:19 --> Pagination Class Initialized
+INFO - 2020-03-23 15:08:19 --> MY_Model class loaded
+INFO - 2020-03-23 15:08:19 --> Model "Dashboard_model" initialized
+INFO - 2020-03-23 15:08:19 --> Final output sent to browser
+DEBUG - 2020-03-23 15:08:19 --> Total execution time: 0.3760
+INFO - 2020-03-23 15:10:25 --> Config Class Initialized
+INFO - 2020-03-23 15:10:26 --> Hooks Class Initialized
+DEBUG - 2020-03-23 15:10:26 --> UTF-8 Support Enabled
+INFO - 2020-03-23 15:10:26 --> Utf8 Class Initialized
+INFO - 2020-03-23 15:10:26 --> URI Class Initialized
+INFO - 2020-03-23 15:10:26 --> Router Class Initialized
+INFO - 2020-03-23 15:10:26 --> Output Class Initialized
+INFO - 2020-03-23 15:10:26 --> Security Class Initialized
+DEBUG - 2020-03-23 15:10:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 15:10:26 --> CSRF cookie sent
+INFO - 2020-03-23 15:10:26 --> Input Class Initialized
+INFO - 2020-03-23 15:10:26 --> Language Class Initialized
+INFO - 2020-03-23 15:10:26 --> Loader Class Initialized
+INFO - 2020-03-23 15:10:26 --> Helper loaded: url_helper
+INFO - 2020-03-23 15:10:26 --> Helper loaded: file_helper
+INFO - 2020-03-23 15:10:26 --> Helper loaded: form_helper
+INFO - 2020-03-23 15:10:26 --> Helper loaded: security_helper
+INFO - 2020-03-23 15:10:26 --> Database Driver Class Initialized
+INFO - 2020-03-23 15:10:26 --> Email Class Initialized
+INFO - 2020-03-23 15:10:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-23 15:10:26 --> Form Validation Class Initialized
+INFO - 2020-03-23 15:10:26 --> Controller Class Initialized
+INFO - 2020-03-23 15:10:26 --> Helper loaded: myadmin_helper
+DEBUG - 2020-03-23 15:10:26 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 15:10:26 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 15:10:26 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-03-23 15:10:26 --> Pagination Class Initialized
+INFO - 2020-03-23 15:10:26 --> MY_Model class loaded
+INFO - 2020-03-23 15:10:26 --> Model "Dashboard_model" initialized
+INFO - 2020-03-23 15:10:26 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/headerhtml.php
+ERROR - 2020-03-23 15:10:26 --> Severity: Notice --> Undefined index: featureimageposition C:\xampp\htdocs\dps\app\views\administrator\addcourselistshtml.php 113
+INFO - 2020-03-23 15:10:26 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/addcourselistshtml.php
+INFO - 2020-03-23 15:10:26 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/footerhtml.php
+INFO - 2020-03-23 15:10:26 --> Final output sent to browser
+DEBUG - 2020-03-23 15:10:26 --> Total execution time: 0.7483
+INFO - 2020-03-23 15:10:28 --> Config Class Initialized
+INFO - 2020-03-23 15:10:28 --> Hooks Class Initialized
+INFO - 2020-03-23 15:10:28 --> Config Class Initialized
+INFO - 2020-03-23 15:10:28 --> Hooks Class Initialized
+DEBUG - 2020-03-23 15:10:28 --> UTF-8 Support Enabled
+INFO - 2020-03-23 15:10:28 --> Utf8 Class Initialized
+DEBUG - 2020-03-23 15:10:28 --> UTF-8 Support Enabled
+INFO - 2020-03-23 15:10:28 --> Utf8 Class Initialized
+INFO - 2020-03-23 15:10:28 --> URI Class Initialized
+INFO - 2020-03-23 15:10:28 --> URI Class Initialized
+INFO - 2020-03-23 15:10:28 --> Router Class Initialized
+INFO - 2020-03-23 15:10:28 --> Config Class Initialized
+INFO - 2020-03-23 15:10:28 --> Hooks Class Initialized
+INFO - 2020-03-23 15:10:28 --> Config Class Initialized
+INFO - 2020-03-23 15:10:28 --> Router Class Initialized
+INFO - 2020-03-23 15:10:28 --> Output Class Initialized
+INFO - 2020-03-23 15:10:28 --> Hooks Class Initialized
+INFO - 2020-03-23 15:10:28 --> Security Class Initialized
+INFO - 2020-03-23 15:10:28 --> Output Class Initialized
+DEBUG - 2020-03-23 15:10:28 --> UTF-8 Support Enabled
+INFO - 2020-03-23 15:10:28 --> Utf8 Class Initialized
+INFO - 2020-03-23 15:10:28 --> Security Class Initialized
+DEBUG - 2020-03-23 15:10:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-23 15:10:28 --> UTF-8 Support Enabled
+INFO - 2020-03-23 15:10:28 --> Utf8 Class Initialized
+INFO - 2020-03-23 15:10:28 --> CSRF cookie sent
+INFO - 2020-03-23 15:10:28 --> URI Class Initialized
+DEBUG - 2020-03-23 15:10:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 15:10:28 --> CSRF cookie sent
+INFO - 2020-03-23 15:10:28 --> Input Class Initialized
+INFO - 2020-03-23 15:10:28 --> URI Class Initialized
+INFO - 2020-03-23 15:10:28 --> Router Class Initialized
+INFO - 2020-03-23 15:10:28 --> Input Class Initialized
+INFO - 2020-03-23 15:10:28 --> Language Class Initialized
+INFO - 2020-03-23 15:10:28 --> Router Class Initialized
+INFO - 2020-03-23 15:10:28 --> Output Class Initialized
+INFO - 2020-03-23 15:10:28 --> Language Class Initialized
+ERROR - 2020-03-23 15:10:28 --> 404 Page Not Found: Assets/backend
+INFO - 2020-03-23 15:10:28 --> Security Class Initialized
+INFO - 2020-03-23 15:10:28 --> Output Class Initialized
+ERROR - 2020-03-23 15:10:28 --> 404 Page Not Found: Assets/backend
+INFO - 2020-03-23 15:10:28 --> Security Class Initialized
+DEBUG - 2020-03-23 15:10:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 15:10:28 --> CSRF cookie sent
+DEBUG - 2020-03-23 15:10:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 15:10:28 --> Input Class Initialized
+INFO - 2020-03-23 15:10:28 --> CSRF cookie sent
+INFO - 2020-03-23 15:10:28 --> Input Class Initialized
+INFO - 2020-03-23 15:10:28 --> Language Class Initialized
+INFO - 2020-03-23 15:10:28 --> Language Class Initialized
+ERROR - 2020-03-23 15:10:28 --> 404 Page Not Found: Assets/backend
+ERROR - 2020-03-23 15:10:28 --> 404 Page Not Found: Assets/tinymce
+INFO - 2020-03-23 15:10:33 --> Config Class Initialized
+INFO - 2020-03-23 15:10:33 --> Hooks Class Initialized
+DEBUG - 2020-03-23 15:10:33 --> UTF-8 Support Enabled
+INFO - 2020-03-23 15:10:33 --> Utf8 Class Initialized
+INFO - 2020-03-23 15:10:33 --> URI Class Initialized
+INFO - 2020-03-23 15:10:33 --> Router Class Initialized
+INFO - 2020-03-23 15:10:33 --> Output Class Initialized
+INFO - 2020-03-23 15:10:33 --> Security Class Initialized
+DEBUG - 2020-03-23 15:10:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-23 15:10:33 --> CSRF cookie sent
+INFO - 2020-03-23 15:10:33 --> Input Class Initialized
+INFO - 2020-03-23 15:10:33 --> Language Class Initialized
+INFO - 2020-03-23 15:10:33 --> Loader Class Initialized
+INFO - 2020-03-23 15:10:33 --> Helper loaded: url_helper
+INFO - 2020-03-23 15:10:33 --> Helper loaded: file_helper
+INFO - 2020-03-23 15:10:33 --> Helper loaded: form_helper
+INFO - 2020-03-23 15:10:33 --> Helper loaded: security_helper
+INFO - 2020-03-23 15:10:33 --> Database Driver Class Initialized
+INFO - 2020-03-23 15:10:33 --> Email Class Initialized
+INFO - 2020-03-23 15:10:33 --> Session: Class initialized using 'files' driver.
+INFO - 2020-03-23 15:10:33 --> Form Validation Class Initialized
+INFO - 2020-03-23 15:10:33 --> Controller Class Initialized
+INFO - 2020-03-23 15:10:33 --> Helper loaded: myadmin_helper
+DEBUG - 2020-03-23 15:10:33 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-03-23 15:10:33 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-03-23 15:10:33 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-03-23 15:10:33 --> Pagination Class Initialized
+INFO - 2020-03-23 15:10:33 --> MY_Model class loaded
+INFO - 2020-03-23 15:10:33 --> Model "Dashboard_model" initialized
+INFO - 2020-03-23 15:10:33 --> Final output sent to browser
+DEBUG - 2020-03-23 15:10:33 --> Total execution time: 0.4117

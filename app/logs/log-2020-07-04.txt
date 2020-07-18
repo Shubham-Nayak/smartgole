@@ -1,0 +1,26 @@
+INFO - 2020-07-04 15:18:13 --> Config Class Initialized
+INFO - 2020-07-04 15:18:13 --> Hooks Class Initialized
+DEBUG - 2020-07-04 15:18:13 --> UTF-8 Support Enabled
+INFO - 2020-07-04 15:18:14 --> Utf8 Class Initialized
+INFO - 2020-07-04 15:18:14 --> URI Class Initialized
+INFO - 2020-07-04 15:18:14 --> Router Class Initialized
+INFO - 2020-07-04 15:18:14 --> Output Class Initialized
+INFO - 2020-07-04 15:18:14 --> Security Class Initialized
+DEBUG - 2020-07-04 15:18:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-04 15:18:14 --> CSRF cookie sent
+INFO - 2020-07-04 15:18:14 --> Input Class Initialized
+INFO - 2020-07-04 15:18:14 --> Language Class Initialized
+ERROR - 2020-07-04 15:18:14 --> 404 Page Not Found: Simple_shopping_cart/simple_shopping_cart
+INFO - 2020-07-04 15:18:20 --> Config Class Initialized
+INFO - 2020-07-04 15:18:20 --> Hooks Class Initialized
+DEBUG - 2020-07-04 15:18:20 --> UTF-8 Support Enabled
+INFO - 2020-07-04 15:18:20 --> Utf8 Class Initialized
+INFO - 2020-07-04 15:18:20 --> URI Class Initialized
+INFO - 2020-07-04 15:18:20 --> Router Class Initialized
+INFO - 2020-07-04 15:18:20 --> Output Class Initialized
+INFO - 2020-07-04 15:18:20 --> Security Class Initialized
+DEBUG - 2020-07-04 15:18:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-04 15:18:20 --> CSRF cookie sent
+INFO - 2020-07-04 15:18:20 --> Input Class Initialized
+INFO - 2020-07-04 15:18:20 --> Language Class Initialized
+ERROR - 2020-07-04 15:18:20 --> 404 Page Not Found: Simple_shopping_cart/simple_shopping_cart

@@ -1,0 +1,1227 @@
+INFO - 2020-07-16 14:53:43 --> Config Class Initialized
+INFO - 2020-07-16 14:53:43 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:43 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:43 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:43 --> URI Class Initialized
+INFO - 2020-07-16 14:53:43 --> Router Class Initialized
+INFO - 2020-07-16 14:53:43 --> Output Class Initialized
+INFO - 2020-07-16 14:53:43 --> Security Class Initialized
+DEBUG - 2020-07-16 14:53:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:44 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:44 --> Input Class Initialized
+INFO - 2020-07-16 14:53:44 --> Language Class Initialized
+INFO - 2020-07-16 14:53:44 --> Loader Class Initialized
+INFO - 2020-07-16 14:53:44 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:53:44 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:53:44 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:53:44 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:53:44 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:44 --> Email Class Initialized
+INFO - 2020-07-16 14:53:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:53:44 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:53:44 --> Controller Class Initialized
+INFO - 2020-07-16 14:53:44 --> Helper loaded: utility_helper
+INFO - 2020-07-16 14:53:44 --> Helper loaded: language_helper
+INFO - 2020-07-16 14:53:44 --> Helper loaded: captcha_helper
+INFO - 2020-07-16 14:53:44 --> Config Class Initialized
+INFO - 2020-07-16 14:53:44 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:44 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:44 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:44 --> URI Class Initialized
+INFO - 2020-07-16 14:53:44 --> Router Class Initialized
+INFO - 2020-07-16 14:53:44 --> Output Class Initialized
+INFO - 2020-07-16 14:53:44 --> Security Class Initialized
+DEBUG - 2020-07-16 14:53:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:44 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:44 --> Input Class Initialized
+INFO - 2020-07-16 14:53:44 --> Language Class Initialized
+INFO - 2020-07-16 14:53:44 --> Loader Class Initialized
+INFO - 2020-07-16 14:53:44 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:53:44 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:53:44 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:53:44 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:53:44 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:44 --> Email Class Initialized
+INFO - 2020-07-16 14:53:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:53:44 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:53:44 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:53:44 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:53:44 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:53:44 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:53:44 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:44 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:53:44 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:44 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:44 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:53:44 --> MY_Model class loaded
+INFO - 2020-07-16 14:53:44 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:53:44 --> Final output sent to browser
+DEBUG - 2020-07-16 14:53:44 --> Total execution time: 0.4468
+DEBUG - 2020-07-16 14:53:44 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:44 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:44 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:53:44 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-07-16 14:53:44 --> Pagination Class Initialized
+INFO - 2020-07-16 14:53:44 --> MY_Model class loaded
+INFO - 2020-07-16 14:53:44 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:53:45 --> Config Class Initialized
+INFO - 2020-07-16 14:53:45 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:45 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:45 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:45 --> URI Class Initialized
+INFO - 2020-07-16 14:53:45 --> Router Class Initialized
+INFO - 2020-07-16 14:53:45 --> Output Class Initialized
+INFO - 2020-07-16 14:53:45 --> Security Class Initialized
+DEBUG - 2020-07-16 14:53:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:45 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:45 --> Input Class Initialized
+INFO - 2020-07-16 14:53:45 --> Language Class Initialized
+INFO - 2020-07-16 14:53:45 --> Loader Class Initialized
+INFO - 2020-07-16 14:53:45 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:53:45 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:53:45 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:53:45 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:53:45 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:45 --> Email Class Initialized
+INFO - 2020-07-16 14:53:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:53:45 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:53:45 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:53:45 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:53:45 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:53:45 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:53:45 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:45 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:53:45 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:45 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:45 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:53:45 --> MY_Model class loaded
+INFO - 2020-07-16 14:53:45 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:53:45 --> Final output sent to browser
+DEBUG - 2020-07-16 14:53:45 --> Total execution time: 0.2196
+INFO - 2020-07-16 14:53:45 --> Config Class Initialized
+INFO - 2020-07-16 14:53:45 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:45 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:45 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:45 --> URI Class Initialized
+DEBUG - 2020-07-16 14:53:45 --> No URI present. Default controller set.
+INFO - 2020-07-16 14:53:45 --> Router Class Initialized
+INFO - 2020-07-16 14:53:45 --> Output Class Initialized
+INFO - 2020-07-16 14:53:45 --> Security Class Initialized
+DEBUG - 2020-07-16 14:53:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:45 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:45 --> Input Class Initialized
+INFO - 2020-07-16 14:53:45 --> Language Class Initialized
+INFO - 2020-07-16 14:53:45 --> Loader Class Initialized
+INFO - 2020-07-16 14:53:45 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:53:45 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:53:45 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:53:45 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:53:45 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:45 --> Email Class Initialized
+INFO - 2020-07-16 14:53:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:53:45 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:53:45 --> Controller Class Initialized
+INFO - 2020-07-16 14:53:45 --> Helper loaded: utility_helper
+INFO - 2020-07-16 14:53:45 --> Helper loaded: language_helper
+INFO - 2020-07-16 14:53:45 --> Helper loaded: captcha_helper
+INFO - 2020-07-16 14:53:45 --> Config Class Initialized
+INFO - 2020-07-16 14:53:45 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:45 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:45 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:45 --> URI Class Initialized
+INFO - 2020-07-16 14:53:45 --> Router Class Initialized
+INFO - 2020-07-16 14:53:45 --> Output Class Initialized
+INFO - 2020-07-16 14:53:45 --> Security Class Initialized
+DEBUG - 2020-07-16 14:53:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:45 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:45 --> Input Class Initialized
+INFO - 2020-07-16 14:53:45 --> Language Class Initialized
+INFO - 2020-07-16 14:53:45 --> Loader Class Initialized
+INFO - 2020-07-16 14:53:45 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:53:45 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:53:45 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:53:45 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:53:45 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:45 --> Email Class Initialized
+INFO - 2020-07-16 14:53:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:53:45 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:53:45 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:53:45 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:53:45 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:53:45 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:53:45 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:45 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:53:45 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:45 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:45 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:53:45 --> MY_Model class loaded
+INFO - 2020-07-16 14:53:45 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:53:45 --> Final output sent to browser
+DEBUG - 2020-07-16 14:53:45 --> Total execution time: 0.2256
+DEBUG - 2020-07-16 14:53:45 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:45 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:45 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:53:45 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-07-16 14:53:45 --> Pagination Class Initialized
+INFO - 2020-07-16 14:53:45 --> MY_Model class loaded
+INFO - 2020-07-16 14:53:45 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:53:45 --> Config Class Initialized
+INFO - 2020-07-16 14:53:45 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:45 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:45 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:45 --> URI Class Initialized
+INFO - 2020-07-16 14:53:45 --> Router Class Initialized
+INFO - 2020-07-16 14:53:45 --> Output Class Initialized
+INFO - 2020-07-16 14:53:45 --> Security Class Initialized
+DEBUG - 2020-07-16 14:53:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:45 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:45 --> Input Class Initialized
+INFO - 2020-07-16 14:53:45 --> Language Class Initialized
+INFO - 2020-07-16 14:53:45 --> Loader Class Initialized
+INFO - 2020-07-16 14:53:45 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:53:45 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:53:45 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:53:45 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:53:45 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:45 --> Email Class Initialized
+INFO - 2020-07-16 14:53:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:53:45 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:53:45 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:53:45 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:53:45 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:53:45 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:53:45 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:45 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:53:45 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:45 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:45 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:53:45 --> MY_Model class loaded
+INFO - 2020-07-16 14:53:45 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:53:45 --> Final output sent to browser
+DEBUG - 2020-07-16 14:53:45 --> Total execution time: 0.2197
+INFO - 2020-07-16 14:53:46 --> Config Class Initialized
+INFO - 2020-07-16 14:53:46 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:46 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:46 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:46 --> URI Class Initialized
+INFO - 2020-07-16 14:53:46 --> Router Class Initialized
+INFO - 2020-07-16 14:53:46 --> Output Class Initialized
+INFO - 2020-07-16 14:53:46 --> Security Class Initialized
+DEBUG - 2020-07-16 14:53:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:46 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:46 --> Input Class Initialized
+INFO - 2020-07-16 14:53:46 --> Language Class Initialized
+INFO - 2020-07-16 14:53:46 --> Loader Class Initialized
+INFO - 2020-07-16 14:53:46 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:53:46 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:53:46 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:53:46 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:53:46 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:46 --> Email Class Initialized
+INFO - 2020-07-16 14:53:46 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:53:46 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:53:46 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:53:46 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:53:46 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:53:46 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:53:46 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:46 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:53:46 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:46 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:46 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:53:46 --> MY_Model class loaded
+INFO - 2020-07-16 14:53:46 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:53:46 --> Final output sent to browser
+DEBUG - 2020-07-16 14:53:46 --> Total execution time: 0.2889
+INFO - 2020-07-16 14:53:46 --> Config Class Initialized
+INFO - 2020-07-16 14:53:46 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:46 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:46 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:46 --> URI Class Initialized
+INFO - 2020-07-16 14:53:46 --> Router Class Initialized
+INFO - 2020-07-16 14:53:46 --> Output Class Initialized
+INFO - 2020-07-16 14:53:46 --> Security Class Initialized
+DEBUG - 2020-07-16 14:53:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:46 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:46 --> Input Class Initialized
+INFO - 2020-07-16 14:53:46 --> Language Class Initialized
+INFO - 2020-07-16 14:53:46 --> Loader Class Initialized
+INFO - 2020-07-16 14:53:46 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:53:46 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:53:46 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:53:46 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:53:46 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:46 --> Email Class Initialized
+INFO - 2020-07-16 14:53:46 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:53:46 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:53:46 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:53:46 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:53:46 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:53:46 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:53:46 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:46 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:53:46 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:46 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:46 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:53:46 --> MY_Model class loaded
+INFO - 2020-07-16 14:53:46 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:53:46 --> Final output sent to browser
+DEBUG - 2020-07-16 14:53:46 --> Total execution time: 0.2346
+INFO - 2020-07-16 14:53:46 --> Config Class Initialized
+INFO - 2020-07-16 14:53:46 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:46 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:46 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:46 --> URI Class Initialized
+INFO - 2020-07-16 14:53:46 --> Router Class Initialized
+INFO - 2020-07-16 14:53:46 --> Output Class Initialized
+INFO - 2020-07-16 14:53:46 --> Security Class Initialized
+DEBUG - 2020-07-16 14:53:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:46 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:46 --> Input Class Initialized
+INFO - 2020-07-16 14:53:46 --> Language Class Initialized
+INFO - 2020-07-16 14:53:46 --> Loader Class Initialized
+INFO - 2020-07-16 14:53:46 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:53:46 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:53:46 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:53:46 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:53:46 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:46 --> Email Class Initialized
+INFO - 2020-07-16 14:53:46 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:53:46 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:53:46 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:53:46 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:53:46 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:53:46 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:53:46 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:46 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:53:46 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:46 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:46 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:53:46 --> MY_Model class loaded
+INFO - 2020-07-16 14:53:46 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:53:46 --> Final output sent to browser
+DEBUG - 2020-07-16 14:53:46 --> Total execution time: 0.2296
+INFO - 2020-07-16 14:53:46 --> Config Class Initialized
+INFO - 2020-07-16 14:53:46 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:46 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:46 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:46 --> URI Class Initialized
+INFO - 2020-07-16 14:53:46 --> Router Class Initialized
+INFO - 2020-07-16 14:53:46 --> Output Class Initialized
+INFO - 2020-07-16 14:53:46 --> Security Class Initialized
+DEBUG - 2020-07-16 14:53:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:46 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:46 --> Input Class Initialized
+INFO - 2020-07-16 14:53:46 --> Language Class Initialized
+INFO - 2020-07-16 14:53:46 --> Loader Class Initialized
+INFO - 2020-07-16 14:53:46 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:53:46 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:53:46 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:53:46 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:53:46 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:46 --> Email Class Initialized
+INFO - 2020-07-16 14:53:46 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:53:47 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:53:47 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:53:47 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:53:47 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:53:47 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:53:47 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:47 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:53:47 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:47 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:47 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:53:47 --> MY_Model class loaded
+INFO - 2020-07-16 14:53:47 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:53:47 --> Final output sent to browser
+DEBUG - 2020-07-16 14:53:47 --> Total execution time: 0.2103
+INFO - 2020-07-16 14:53:47 --> Config Class Initialized
+INFO - 2020-07-16 14:53:47 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:47 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:47 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:47 --> URI Class Initialized
+INFO - 2020-07-16 14:53:47 --> Router Class Initialized
+INFO - 2020-07-16 14:53:47 --> Output Class Initialized
+INFO - 2020-07-16 14:53:47 --> Security Class Initialized
+DEBUG - 2020-07-16 14:53:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:47 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:47 --> Input Class Initialized
+INFO - 2020-07-16 14:53:47 --> Language Class Initialized
+INFO - 2020-07-16 14:53:47 --> Loader Class Initialized
+INFO - 2020-07-16 14:53:47 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:53:47 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:53:47 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:53:47 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:53:47 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:47 --> Email Class Initialized
+INFO - 2020-07-16 14:53:47 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:53:47 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:53:47 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:53:47 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:53:47 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:53:47 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:53:47 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:47 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:53:47 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:47 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:47 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:53:47 --> MY_Model class loaded
+INFO - 2020-07-16 14:53:47 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:53:47 --> Final output sent to browser
+DEBUG - 2020-07-16 14:53:47 --> Total execution time: 0.2194
+INFO - 2020-07-16 14:53:47 --> Config Class Initialized
+INFO - 2020-07-16 14:53:47 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:47 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:47 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:47 --> URI Class Initialized
+INFO - 2020-07-16 14:53:47 --> Router Class Initialized
+INFO - 2020-07-16 14:53:47 --> Output Class Initialized
+INFO - 2020-07-16 14:53:47 --> Security Class Initialized
+DEBUG - 2020-07-16 14:53:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:47 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:47 --> Input Class Initialized
+INFO - 2020-07-16 14:53:47 --> Language Class Initialized
+INFO - 2020-07-16 14:53:47 --> Loader Class Initialized
+INFO - 2020-07-16 14:53:47 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:53:47 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:53:47 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:53:47 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:53:47 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:47 --> Email Class Initialized
+INFO - 2020-07-16 14:53:47 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:53:47 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:53:47 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:53:47 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:53:47 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:53:47 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:53:47 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:47 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:53:47 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:47 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:47 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:53:47 --> MY_Model class loaded
+INFO - 2020-07-16 14:53:47 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:53:47 --> Final output sent to browser
+DEBUG - 2020-07-16 14:53:47 --> Total execution time: 0.2370
+INFO - 2020-07-16 14:53:47 --> Config Class Initialized
+INFO - 2020-07-16 14:53:47 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:47 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:47 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:47 --> URI Class Initialized
+INFO - 2020-07-16 14:53:47 --> Router Class Initialized
+INFO - 2020-07-16 14:53:47 --> Output Class Initialized
+INFO - 2020-07-16 14:53:47 --> Security Class Initialized
+DEBUG - 2020-07-16 14:53:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:47 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:47 --> Input Class Initialized
+INFO - 2020-07-16 14:53:47 --> Language Class Initialized
+INFO - 2020-07-16 14:53:47 --> Loader Class Initialized
+INFO - 2020-07-16 14:53:47 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:53:47 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:53:47 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:53:47 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:53:47 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:47 --> Email Class Initialized
+INFO - 2020-07-16 14:53:47 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:53:47 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:53:47 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:53:47 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:53:47 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:53:47 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:53:47 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:47 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:53:47 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:47 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:47 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:53:47 --> MY_Model class loaded
+INFO - 2020-07-16 14:53:47 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:53:47 --> Final output sent to browser
+DEBUG - 2020-07-16 14:53:47 --> Total execution time: 0.2160
+INFO - 2020-07-16 14:53:47 --> Config Class Initialized
+INFO - 2020-07-16 14:53:47 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:47 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:47 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:47 --> URI Class Initialized
+INFO - 2020-07-16 14:53:47 --> Router Class Initialized
+INFO - 2020-07-16 14:53:47 --> Output Class Initialized
+INFO - 2020-07-16 14:53:47 --> Security Class Initialized
+DEBUG - 2020-07-16 14:53:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:47 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:47 --> Input Class Initialized
+INFO - 2020-07-16 14:53:47 --> Language Class Initialized
+INFO - 2020-07-16 14:53:47 --> Loader Class Initialized
+INFO - 2020-07-16 14:53:47 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:53:47 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:53:47 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:53:47 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:53:48 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:48 --> Email Class Initialized
+INFO - 2020-07-16 14:53:48 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:53:48 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:53:48 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:53:48 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:53:48 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:53:48 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:53:48 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:48 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:53:48 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:48 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:48 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:53:48 --> MY_Model class loaded
+INFO - 2020-07-16 14:53:48 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:53:48 --> Final output sent to browser
+DEBUG - 2020-07-16 14:53:48 --> Total execution time: 0.2153
+INFO - 2020-07-16 14:53:48 --> File loaded: C:\xampp\htdocs\gurutej\app\views\templates/homehtmlt.php
+INFO - 2020-07-16 14:53:48 --> File loaded: C:\xampp\htdocs\gurutej\app\views\layouthtml.php
+INFO - 2020-07-16 14:53:48 --> Final output sent to browser
+DEBUG - 2020-07-16 14:53:48 --> Total execution time: 3.0203
+INFO - 2020-07-16 14:53:48 --> Config Class Initialized
+INFO - 2020-07-16 14:53:48 --> Config Class Initialized
+INFO - 2020-07-16 14:53:48 --> Hooks Class Initialized
+INFO - 2020-07-16 14:53:48 --> Hooks Class Initialized
+INFO - 2020-07-16 14:53:48 --> Config Class Initialized
+INFO - 2020-07-16 14:53:48 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:48 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:48 --> Utf8 Class Initialized
+DEBUG - 2020-07-16 14:53:48 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:48 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:48 --> URI Class Initialized
+INFO - 2020-07-16 14:53:48 --> Config Class Initialized
+INFO - 2020-07-16 14:53:48 --> Hooks Class Initialized
+INFO - 2020-07-16 14:53:48 --> URI Class Initialized
+INFO - 2020-07-16 14:53:48 --> Router Class Initialized
+DEBUG - 2020-07-16 14:53:48 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:48 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:48 --> Router Class Initialized
+INFO - 2020-07-16 14:53:48 --> Output Class Initialized
+INFO - 2020-07-16 14:53:48 --> URI Class Initialized
+INFO - 2020-07-16 14:53:48 --> Output Class Initialized
+DEBUG - 2020-07-16 14:53:48 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:48 --> Security Class Initialized
+INFO - 2020-07-16 14:53:48 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:48 --> Security Class Initialized
+INFO - 2020-07-16 14:53:48 --> URI Class Initialized
+DEBUG - 2020-07-16 14:53:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:48 --> CSRF cookie sent
+DEBUG - 2020-07-16 14:53:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:48 --> Input Class Initialized
+INFO - 2020-07-16 14:53:48 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:48 --> Input Class Initialized
+INFO - 2020-07-16 14:53:48 --> Router Class Initialized
+INFO - 2020-07-16 14:53:48 --> Language Class Initialized
+INFO - 2020-07-16 14:53:48 --> Language Class Initialized
+INFO - 2020-07-16 14:53:48 --> Output Class Initialized
+INFO - 2020-07-16 14:53:48 --> Router Class Initialized
+INFO - 2020-07-16 14:53:48 --> Output Class Initialized
+INFO - 2020-07-16 14:53:48 --> Security Class Initialized
+INFO - 2020-07-16 14:53:48 --> Security Class Initialized
+DEBUG - 2020-07-16 14:53:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:48 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:48 --> Input Class Initialized
+INFO - 2020-07-16 14:53:48 --> Language Class Initialized
+DEBUG - 2020-07-16 14:53:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:48 --> Config Class Initialized
+INFO - 2020-07-16 14:53:48 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:48 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:48 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:48 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:48 --> URI Class Initialized
+ERROR - 2020-07-16 14:53:48 --> 404 Page Not Found: Assets/uploads
+ERROR - 2020-07-16 14:53:48 --> 404 Page Not Found: Assets/uploads
+ERROR - 2020-07-16 14:53:48 --> 404 Page Not Found: Assets/uploads
+INFO - 2020-07-16 14:53:48 --> Router Class Initialized
+INFO - 2020-07-16 14:53:48 --> Output Class Initialized
+INFO - 2020-07-16 14:53:48 --> Input Class Initialized
+INFO - 2020-07-16 14:53:48 --> Security Class Initialized
+DEBUG - 2020-07-16 14:53:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:48 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:48 --> Input Class Initialized
+INFO - 2020-07-16 14:53:48 --> Language Class Initialized
+ERROR - 2020-07-16 14:53:48 --> 404 Page Not Found: Images/prospects_ico.png
+INFO - 2020-07-16 14:53:48 --> Language Class Initialized
+ERROR - 2020-07-16 14:53:48 --> 404 Page Not Found: Images/admission_ico.png
+INFO - 2020-07-16 14:53:48 --> Config Class Initialized
+INFO - 2020-07-16 14:53:48 --> Config Class Initialized
+INFO - 2020-07-16 14:53:48 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:48 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:48 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:48 --> URI Class Initialized
+INFO - 2020-07-16 14:53:48 --> Router Class Initialized
+INFO - 2020-07-16 14:53:48 --> Hooks Class Initialized
+INFO - 2020-07-16 14:53:48 --> Config Class Initialized
+INFO - 2020-07-16 14:53:48 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:48 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:48 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:48 --> Config Class Initialized
+INFO - 2020-07-16 14:53:48 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:48 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:48 --> URI Class Initialized
+INFO - 2020-07-16 14:53:48 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:48 --> Config Class Initialized
+INFO - 2020-07-16 14:53:48 --> Hooks Class Initialized
+INFO - 2020-07-16 14:53:48 --> URI Class Initialized
+INFO - 2020-07-16 14:53:48 --> Router Class Initialized
+DEBUG - 2020-07-16 14:53:48 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:48 --> Router Class Initialized
+INFO - 2020-07-16 14:53:48 --> Utf8 Class Initialized
+DEBUG - 2020-07-16 14:53:48 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:48 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:48 --> Output Class Initialized
+INFO - 2020-07-16 14:53:48 --> URI Class Initialized
+INFO - 2020-07-16 14:53:48 --> Output Class Initialized
+INFO - 2020-07-16 14:53:48 --> Output Class Initialized
+INFO - 2020-07-16 14:53:48 --> Router Class Initialized
+INFO - 2020-07-16 14:53:48 --> Security Class Initialized
+INFO - 2020-07-16 14:53:48 --> Security Class Initialized
+INFO - 2020-07-16 14:53:48 --> Security Class Initialized
+DEBUG - 2020-07-16 14:53:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:48 --> Output Class Initialized
+INFO - 2020-07-16 14:53:48 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:48 --> Input Class Initialized
+DEBUG - 2020-07-16 14:53:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:48 --> CSRF cookie sent
+DEBUG - 2020-07-16 14:53:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:48 --> Language Class Initialized
+INFO - 2020-07-16 14:53:48 --> Input Class Initialized
+INFO - 2020-07-16 14:53:48 --> Security Class Initialized
+INFO - 2020-07-16 14:53:48 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:48 --> Input Class Initialized
+INFO - 2020-07-16 14:53:48 --> Language Class Initialized
+INFO - 2020-07-16 14:53:48 --> Language Class Initialized
+ERROR - 2020-07-16 14:53:48 --> 404 Page Not Found: Assets/uploads
+DEBUG - 2020-07-16 14:53:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:48 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:48 --> URI Class Initialized
+INFO - 2020-07-16 14:53:48 --> Input Class Initialized
+ERROR - 2020-07-16 14:53:48 --> 404 Page Not Found: Images/certification_ico.png
+INFO - 2020-07-16 14:53:48 --> Language Class Initialized
+INFO - 2020-07-16 14:53:48 --> Router Class Initialized
+ERROR - 2020-07-16 14:53:48 --> 404 Page Not Found: Assets/uploads
+INFO - 2020-07-16 14:53:48 --> Output Class Initialized
+INFO - 2020-07-16 14:53:48 --> Security Class Initialized
+DEBUG - 2020-07-16 14:53:48 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-07-16 14:53:48 --> 404 Page Not Found: Assets/uploads
+INFO - 2020-07-16 14:53:48 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:48 --> Input Class Initialized
+INFO - 2020-07-16 14:53:48 --> Language Class Initialized
+ERROR - 2020-07-16 14:53:48 --> 404 Page Not Found: Images/cybrain.png
+INFO - 2020-07-16 14:53:48 --> Config Class Initialized
+INFO - 2020-07-16 14:53:48 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:48 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:48 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:48 --> URI Class Initialized
+INFO - 2020-07-16 14:53:48 --> Router Class Initialized
+INFO - 2020-07-16 14:53:48 --> Output Class Initialized
+INFO - 2020-07-16 14:53:48 --> Security Class Initialized
+DEBUG - 2020-07-16 14:53:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:48 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:48 --> Input Class Initialized
+INFO - 2020-07-16 14:53:48 --> Language Class Initialized
+ERROR - 2020-07-16 14:53:48 --> 404 Page Not Found: Assets/uploads
+INFO - 2020-07-16 14:53:59 --> Config Class Initialized
+INFO - 2020-07-16 14:53:59 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:59 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:59 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:59 --> URI Class Initialized
+INFO - 2020-07-16 14:53:59 --> Router Class Initialized
+INFO - 2020-07-16 14:53:59 --> Output Class Initialized
+INFO - 2020-07-16 14:53:59 --> Security Class Initialized
+DEBUG - 2020-07-16 14:53:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:59 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:59 --> Input Class Initialized
+INFO - 2020-07-16 14:53:59 --> Language Class Initialized
+INFO - 2020-07-16 14:53:59 --> Loader Class Initialized
+INFO - 2020-07-16 14:53:59 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:53:59 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:53:59 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:53:59 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:53:59 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:59 --> Email Class Initialized
+INFO - 2020-07-16 14:53:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:53:59 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:53:59 --> Controller Class Initialized
+INFO - 2020-07-16 14:53:59 --> Helper loaded: utility_helper
+INFO - 2020-07-16 14:53:59 --> Helper loaded: language_helper
+INFO - 2020-07-16 14:53:59 --> Helper loaded: captcha_helper
+INFO - 2020-07-16 14:53:59 --> Config Class Initialized
+INFO - 2020-07-16 14:53:59 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:53:59 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:53:59 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:53:59 --> URI Class Initialized
+INFO - 2020-07-16 14:53:59 --> Router Class Initialized
+INFO - 2020-07-16 14:53:59 --> Output Class Initialized
+INFO - 2020-07-16 14:53:59 --> Security Class Initialized
+DEBUG - 2020-07-16 14:53:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:53:59 --> CSRF cookie sent
+INFO - 2020-07-16 14:53:59 --> Input Class Initialized
+INFO - 2020-07-16 14:53:59 --> Language Class Initialized
+INFO - 2020-07-16 14:53:59 --> Loader Class Initialized
+INFO - 2020-07-16 14:53:59 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:53:59 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:53:59 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:53:59 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:53:59 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:59 --> Email Class Initialized
+INFO - 2020-07-16 14:53:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:53:59 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:53:59 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:53:59 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:53:59 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:53:59 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:53:59 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:53:59 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:53:59 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:59 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:59 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:53:59 --> MY_Model class loaded
+INFO - 2020-07-16 14:53:59 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:53:59 --> Final output sent to browser
+DEBUG - 2020-07-16 14:53:59 --> Total execution time: 0.2264
+DEBUG - 2020-07-16 14:53:59 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:59 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:53:59 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:53:59 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-07-16 14:53:59 --> Pagination Class Initialized
+INFO - 2020-07-16 14:53:59 --> MY_Model class loaded
+INFO - 2020-07-16 14:53:59 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:53:59 --> Config Class Initialized
+INFO - 2020-07-16 14:53:59 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:54:00 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:54:00 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:54:00 --> URI Class Initialized
+INFO - 2020-07-16 14:54:00 --> Router Class Initialized
+INFO - 2020-07-16 14:54:00 --> Output Class Initialized
+INFO - 2020-07-16 14:54:00 --> Security Class Initialized
+DEBUG - 2020-07-16 14:54:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:54:00 --> CSRF cookie sent
+INFO - 2020-07-16 14:54:00 --> Input Class Initialized
+INFO - 2020-07-16 14:54:00 --> Language Class Initialized
+INFO - 2020-07-16 14:54:00 --> Loader Class Initialized
+INFO - 2020-07-16 14:54:00 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:54:00 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:54:00 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:54:00 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:54:00 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:00 --> Email Class Initialized
+INFO - 2020-07-16 14:54:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:54:00 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:54:00 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:54:00 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:54:00 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:54:00 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:54:00 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:00 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:54:00 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:00 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:00 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:54:00 --> MY_Model class loaded
+INFO - 2020-07-16 14:54:00 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:54:00 --> Final output sent to browser
+DEBUG - 2020-07-16 14:54:00 --> Total execution time: 0.2147
+INFO - 2020-07-16 14:54:00 --> Config Class Initialized
+INFO - 2020-07-16 14:54:00 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:54:00 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:54:00 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:54:00 --> URI Class Initialized
+DEBUG - 2020-07-16 14:54:00 --> No URI present. Default controller set.
+INFO - 2020-07-16 14:54:00 --> Router Class Initialized
+INFO - 2020-07-16 14:54:00 --> Output Class Initialized
+INFO - 2020-07-16 14:54:00 --> Security Class Initialized
+DEBUG - 2020-07-16 14:54:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:54:00 --> CSRF cookie sent
+INFO - 2020-07-16 14:54:00 --> Input Class Initialized
+INFO - 2020-07-16 14:54:00 --> Language Class Initialized
+INFO - 2020-07-16 14:54:00 --> Loader Class Initialized
+INFO - 2020-07-16 14:54:00 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:54:00 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:54:00 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:54:00 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:54:00 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:00 --> Email Class Initialized
+INFO - 2020-07-16 14:54:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:54:00 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:54:00 --> Controller Class Initialized
+INFO - 2020-07-16 14:54:00 --> Helper loaded: utility_helper
+INFO - 2020-07-16 14:54:00 --> Helper loaded: language_helper
+INFO - 2020-07-16 14:54:00 --> Helper loaded: captcha_helper
+INFO - 2020-07-16 14:54:00 --> Config Class Initialized
+INFO - 2020-07-16 14:54:00 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:54:00 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:54:00 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:54:00 --> URI Class Initialized
+INFO - 2020-07-16 14:54:00 --> Router Class Initialized
+INFO - 2020-07-16 14:54:00 --> Output Class Initialized
+INFO - 2020-07-16 14:54:00 --> Security Class Initialized
+DEBUG - 2020-07-16 14:54:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:54:00 --> CSRF cookie sent
+INFO - 2020-07-16 14:54:00 --> Input Class Initialized
+INFO - 2020-07-16 14:54:00 --> Language Class Initialized
+INFO - 2020-07-16 14:54:00 --> Loader Class Initialized
+INFO - 2020-07-16 14:54:00 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:54:00 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:54:00 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:54:00 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:54:00 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:00 --> Email Class Initialized
+INFO - 2020-07-16 14:54:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:54:00 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:54:00 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:54:00 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:54:00 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:54:00 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:54:00 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:00 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:54:00 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:00 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:00 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:54:00 --> MY_Model class loaded
+INFO - 2020-07-16 14:54:00 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:54:00 --> Final output sent to browser
+DEBUG - 2020-07-16 14:54:00 --> Total execution time: 0.2495
+DEBUG - 2020-07-16 14:54:00 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:00 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:00 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:54:00 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-07-16 14:54:00 --> Pagination Class Initialized
+INFO - 2020-07-16 14:54:00 --> MY_Model class loaded
+INFO - 2020-07-16 14:54:00 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:54:00 --> Config Class Initialized
+INFO - 2020-07-16 14:54:00 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:54:00 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:54:00 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:54:00 --> URI Class Initialized
+INFO - 2020-07-16 14:54:00 --> Router Class Initialized
+INFO - 2020-07-16 14:54:00 --> Output Class Initialized
+INFO - 2020-07-16 14:54:00 --> Security Class Initialized
+DEBUG - 2020-07-16 14:54:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:54:00 --> CSRF cookie sent
+INFO - 2020-07-16 14:54:00 --> Input Class Initialized
+INFO - 2020-07-16 14:54:00 --> Language Class Initialized
+INFO - 2020-07-16 14:54:00 --> Loader Class Initialized
+INFO - 2020-07-16 14:54:00 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:54:00 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:54:00 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:54:00 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:54:00 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:00 --> Email Class Initialized
+INFO - 2020-07-16 14:54:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:54:00 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:54:00 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:54:00 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:54:00 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:54:00 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:54:00 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:00 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:54:00 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:00 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:00 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:54:00 --> MY_Model class loaded
+INFO - 2020-07-16 14:54:01 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:54:01 --> Final output sent to browser
+DEBUG - 2020-07-16 14:54:01 --> Total execution time: 0.2198
+INFO - 2020-07-16 14:54:01 --> Config Class Initialized
+INFO - 2020-07-16 14:54:01 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:54:01 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:54:01 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:54:01 --> URI Class Initialized
+INFO - 2020-07-16 14:54:01 --> Router Class Initialized
+INFO - 2020-07-16 14:54:01 --> Output Class Initialized
+INFO - 2020-07-16 14:54:01 --> Security Class Initialized
+DEBUG - 2020-07-16 14:54:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:54:01 --> CSRF cookie sent
+INFO - 2020-07-16 14:54:01 --> Input Class Initialized
+INFO - 2020-07-16 14:54:01 --> Language Class Initialized
+INFO - 2020-07-16 14:54:01 --> Loader Class Initialized
+INFO - 2020-07-16 14:54:01 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:54:01 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:54:01 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:54:01 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:54:01 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:01 --> Email Class Initialized
+INFO - 2020-07-16 14:54:01 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:54:01 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:54:01 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:54:01 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:54:01 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:54:01 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:54:01 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:01 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:54:01 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:01 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:01 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:54:01 --> MY_Model class loaded
+INFO - 2020-07-16 14:54:01 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:54:01 --> Final output sent to browser
+DEBUG - 2020-07-16 14:54:01 --> Total execution time: 0.2437
+INFO - 2020-07-16 14:54:01 --> Config Class Initialized
+INFO - 2020-07-16 14:54:01 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:54:01 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:54:01 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:54:01 --> URI Class Initialized
+INFO - 2020-07-16 14:54:01 --> Router Class Initialized
+INFO - 2020-07-16 14:54:01 --> Output Class Initialized
+INFO - 2020-07-16 14:54:01 --> Security Class Initialized
+DEBUG - 2020-07-16 14:54:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:54:01 --> CSRF cookie sent
+INFO - 2020-07-16 14:54:01 --> Input Class Initialized
+INFO - 2020-07-16 14:54:01 --> Language Class Initialized
+INFO - 2020-07-16 14:54:01 --> Loader Class Initialized
+INFO - 2020-07-16 14:54:01 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:54:01 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:54:01 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:54:01 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:54:01 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:01 --> Email Class Initialized
+INFO - 2020-07-16 14:54:01 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:54:01 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:54:01 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:54:01 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:54:01 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:54:01 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:54:01 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:01 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:54:01 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:01 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:01 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:54:01 --> MY_Model class loaded
+INFO - 2020-07-16 14:54:01 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:54:01 --> Final output sent to browser
+DEBUG - 2020-07-16 14:54:01 --> Total execution time: 0.2313
+INFO - 2020-07-16 14:54:01 --> Config Class Initialized
+INFO - 2020-07-16 14:54:01 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:54:01 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:54:01 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:54:01 --> URI Class Initialized
+INFO - 2020-07-16 14:54:01 --> Router Class Initialized
+INFO - 2020-07-16 14:54:01 --> Output Class Initialized
+INFO - 2020-07-16 14:54:01 --> Security Class Initialized
+DEBUG - 2020-07-16 14:54:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:54:01 --> CSRF cookie sent
+INFO - 2020-07-16 14:54:01 --> Input Class Initialized
+INFO - 2020-07-16 14:54:01 --> Language Class Initialized
+INFO - 2020-07-16 14:54:01 --> Loader Class Initialized
+INFO - 2020-07-16 14:54:01 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:54:01 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:54:01 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:54:01 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:54:01 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:01 --> Email Class Initialized
+INFO - 2020-07-16 14:54:01 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:54:01 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:54:01 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:54:01 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:54:01 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:54:01 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:54:01 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:01 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:54:01 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:01 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:01 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:54:01 --> MY_Model class loaded
+INFO - 2020-07-16 14:54:01 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:54:01 --> Final output sent to browser
+DEBUG - 2020-07-16 14:54:01 --> Total execution time: 0.2179
+INFO - 2020-07-16 14:54:01 --> Config Class Initialized
+INFO - 2020-07-16 14:54:01 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:54:01 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:54:01 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:54:01 --> URI Class Initialized
+INFO - 2020-07-16 14:54:01 --> Router Class Initialized
+INFO - 2020-07-16 14:54:01 --> Output Class Initialized
+INFO - 2020-07-16 14:54:01 --> Security Class Initialized
+DEBUG - 2020-07-16 14:54:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:54:01 --> CSRF cookie sent
+INFO - 2020-07-16 14:54:01 --> Input Class Initialized
+INFO - 2020-07-16 14:54:01 --> Language Class Initialized
+INFO - 2020-07-16 14:54:01 --> Loader Class Initialized
+INFO - 2020-07-16 14:54:01 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:54:01 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:54:01 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:54:01 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:54:01 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:01 --> Email Class Initialized
+INFO - 2020-07-16 14:54:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:54:02 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:54:02 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:54:02 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:54:02 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:54:02 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:54:02 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:02 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:54:02 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:02 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:02 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:54:02 --> MY_Model class loaded
+INFO - 2020-07-16 14:54:02 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:54:02 --> Final output sent to browser
+DEBUG - 2020-07-16 14:54:02 --> Total execution time: 0.2657
+INFO - 2020-07-16 14:54:02 --> Config Class Initialized
+INFO - 2020-07-16 14:54:02 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:54:02 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:54:02 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:54:02 --> URI Class Initialized
+INFO - 2020-07-16 14:54:02 --> Router Class Initialized
+INFO - 2020-07-16 14:54:02 --> Output Class Initialized
+INFO - 2020-07-16 14:54:02 --> Security Class Initialized
+DEBUG - 2020-07-16 14:54:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:54:02 --> CSRF cookie sent
+INFO - 2020-07-16 14:54:02 --> Input Class Initialized
+INFO - 2020-07-16 14:54:02 --> Language Class Initialized
+INFO - 2020-07-16 14:54:02 --> Loader Class Initialized
+INFO - 2020-07-16 14:54:02 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:54:02 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:54:02 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:54:02 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:54:02 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:02 --> Email Class Initialized
+INFO - 2020-07-16 14:54:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:54:02 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:54:02 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:54:02 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:54:02 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:54:02 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:54:02 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:02 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:54:02 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:02 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:02 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:54:02 --> MY_Model class loaded
+INFO - 2020-07-16 14:54:02 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:54:02 --> Final output sent to browser
+DEBUG - 2020-07-16 14:54:02 --> Total execution time: 0.2780
+INFO - 2020-07-16 14:54:02 --> Config Class Initialized
+INFO - 2020-07-16 14:54:02 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:54:02 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:54:02 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:54:02 --> URI Class Initialized
+INFO - 2020-07-16 14:54:02 --> Router Class Initialized
+INFO - 2020-07-16 14:54:02 --> Output Class Initialized
+INFO - 2020-07-16 14:54:02 --> Security Class Initialized
+DEBUG - 2020-07-16 14:54:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:54:02 --> CSRF cookie sent
+INFO - 2020-07-16 14:54:02 --> Input Class Initialized
+INFO - 2020-07-16 14:54:02 --> Language Class Initialized
+INFO - 2020-07-16 14:54:02 --> Loader Class Initialized
+INFO - 2020-07-16 14:54:02 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:54:02 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:54:02 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:54:02 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:54:02 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:02 --> Email Class Initialized
+INFO - 2020-07-16 14:54:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:54:02 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:54:02 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:54:02 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:54:02 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:54:02 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:54:02 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:02 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:54:02 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:02 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:02 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:54:02 --> MY_Model class loaded
+INFO - 2020-07-16 14:54:02 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:54:02 --> Final output sent to browser
+DEBUG - 2020-07-16 14:54:02 --> Total execution time: 0.2189
+INFO - 2020-07-16 14:54:02 --> Config Class Initialized
+INFO - 2020-07-16 14:54:02 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:54:02 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:54:02 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:54:02 --> URI Class Initialized
+INFO - 2020-07-16 14:54:02 --> Router Class Initialized
+INFO - 2020-07-16 14:54:02 --> Output Class Initialized
+INFO - 2020-07-16 14:54:02 --> Security Class Initialized
+DEBUG - 2020-07-16 14:54:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:54:02 --> CSRF cookie sent
+INFO - 2020-07-16 14:54:02 --> Input Class Initialized
+INFO - 2020-07-16 14:54:02 --> Language Class Initialized
+INFO - 2020-07-16 14:54:02 --> Loader Class Initialized
+INFO - 2020-07-16 14:54:02 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:54:02 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:54:02 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:54:02 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:54:02 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:02 --> Email Class Initialized
+INFO - 2020-07-16 14:54:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:54:02 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:54:02 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:54:02 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:54:02 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:54:02 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:54:02 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:02 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:54:02 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:02 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:02 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:54:02 --> MY_Model class loaded
+INFO - 2020-07-16 14:54:02 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:54:03 --> Final output sent to browser
+DEBUG - 2020-07-16 14:54:03 --> Total execution time: 0.2483
+INFO - 2020-07-16 14:54:03 --> Config Class Initialized
+INFO - 2020-07-16 14:54:03 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:54:03 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:54:03 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:54:03 --> URI Class Initialized
+INFO - 2020-07-16 14:54:03 --> Router Class Initialized
+INFO - 2020-07-16 14:54:03 --> Output Class Initialized
+INFO - 2020-07-16 14:54:03 --> Security Class Initialized
+DEBUG - 2020-07-16 14:54:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:54:03 --> CSRF cookie sent
+INFO - 2020-07-16 14:54:03 --> Input Class Initialized
+INFO - 2020-07-16 14:54:03 --> Language Class Initialized
+INFO - 2020-07-16 14:54:03 --> Loader Class Initialized
+INFO - 2020-07-16 14:54:03 --> Helper loaded: url_helper
+INFO - 2020-07-16 14:54:03 --> Helper loaded: file_helper
+INFO - 2020-07-16 14:54:03 --> Helper loaded: form_helper
+INFO - 2020-07-16 14:54:03 --> Helper loaded: security_helper
+INFO - 2020-07-16 14:54:03 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:03 --> Email Class Initialized
+INFO - 2020-07-16 14:54:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-07-16 14:54:03 --> Form Validation Class Initialized
+INFO - 2020-07-16 14:54:03 --> Controller Class Initialized
+DEBUG - 2020-07-16 14:54:03 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/rest.php
+INFO - 2020-07-16 14:54:03 --> Helper loaded: inflector_helper
+INFO - 2020-07-16 14:54:03 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-07-16 14:54:03 --> Database Driver Class Initialized
+INFO - 2020-07-16 14:54:03 --> Helper loaded: utility_helper
+DEBUG - 2020-07-16 14:54:03 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:03 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-07-16 14:54:03 --> Config file loaded: C:\xampp\htdocs\gurutej\app\config/recaptcha.php
+INFO - 2020-07-16 14:54:03 --> MY_Model class loaded
+INFO - 2020-07-16 14:54:03 --> Model "Api_model" initialized
+INFO - 2020-07-16 14:54:03 --> Final output sent to browser
+DEBUG - 2020-07-16 14:54:03 --> Total execution time: 0.2620
+INFO - 2020-07-16 14:54:03 --> File loaded: C:\xampp\htdocs\gurutej\app\views\templates/homehtmlt.php
+INFO - 2020-07-16 14:54:03 --> File loaded: C:\xampp\htdocs\gurutej\app\views\layouthtml.php
+INFO - 2020-07-16 14:54:03 --> Final output sent to browser
+DEBUG - 2020-07-16 14:54:03 --> Total execution time: 3.1068
+INFO - 2020-07-16 14:54:03 --> Config Class Initialized
+INFO - 2020-07-16 14:54:03 --> Config Class Initialized
+INFO - 2020-07-16 14:54:03 --> Hooks Class Initialized
+INFO - 2020-07-16 14:54:03 --> Config Class Initialized
+INFO - 2020-07-16 14:54:03 --> Config Class Initialized
+INFO - 2020-07-16 14:54:03 --> Config Class Initialized
+INFO - 2020-07-16 14:54:03 --> Hooks Class Initialized
+INFO - 2020-07-16 14:54:03 --> Hooks Class Initialized
+INFO - 2020-07-16 14:54:03 --> Hooks Class Initialized
+INFO - 2020-07-16 14:54:03 --> Config Class Initialized
+INFO - 2020-07-16 14:54:03 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:54:03 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:54:03 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:54:03 --> URI Class Initialized
+DEBUG - 2020-07-16 14:54:03 --> UTF-8 Support Enabled
+DEBUG - 2020-07-16 14:54:03 --> UTF-8 Support Enabled
+DEBUG - 2020-07-16 14:54:03 --> UTF-8 Support Enabled
+DEBUG - 2020-07-16 14:54:03 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:54:03 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:54:03 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:54:03 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:54:03 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:54:03 --> Hooks Class Initialized
+INFO - 2020-07-16 14:54:03 --> Router Class Initialized
+INFO - 2020-07-16 14:54:03 --> URI Class Initialized
+INFO - 2020-07-16 14:54:03 --> URI Class Initialized
+INFO - 2020-07-16 14:54:03 --> URI Class Initialized
+INFO - 2020-07-16 14:54:03 --> URI Class Initialized
+INFO - 2020-07-16 14:54:03 --> Output Class Initialized
+INFO - 2020-07-16 14:54:03 --> Router Class Initialized
+INFO - 2020-07-16 14:54:03 --> Router Class Initialized
+INFO - 2020-07-16 14:54:03 --> Router Class Initialized
+INFO - 2020-07-16 14:54:03 --> Router Class Initialized
+INFO - 2020-07-16 14:54:03 --> Security Class Initialized
+INFO - 2020-07-16 14:54:03 --> Output Class Initialized
+INFO - 2020-07-16 14:54:03 --> Output Class Initialized
+INFO - 2020-07-16 14:54:03 --> Output Class Initialized
+INFO - 2020-07-16 14:54:03 --> Output Class Initialized
+DEBUG - 2020-07-16 14:54:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:54:03 --> CSRF cookie sent
+INFO - 2020-07-16 14:54:03 --> Input Class Initialized
+INFO - 2020-07-16 14:54:03 --> Security Class Initialized
+INFO - 2020-07-16 14:54:03 --> Security Class Initialized
+INFO - 2020-07-16 14:54:03 --> Security Class Initialized
+INFO - 2020-07-16 14:54:03 --> Security Class Initialized
+INFO - 2020-07-16 14:54:03 --> Language Class Initialized
+DEBUG - 2020-07-16 14:54:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-07-16 14:54:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-07-16 14:54:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:54:03 --> CSRF cookie sent
+ERROR - 2020-07-16 14:54:03 --> 404 Page Not Found: Images/certification_ico.png
+INFO - 2020-07-16 14:54:03 --> CSRF cookie sent
+INFO - 2020-07-16 14:54:03 --> CSRF cookie sent
+INFO - 2020-07-16 14:54:03 --> Input Class Initialized
+INFO - 2020-07-16 14:54:03 --> Input Class Initialized
+INFO - 2020-07-16 14:54:03 --> Input Class Initialized
+DEBUG - 2020-07-16 14:54:03 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:54:03 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:54:03 --> Language Class Initialized
+INFO - 2020-07-16 14:54:03 --> Language Class Initialized
+INFO - 2020-07-16 14:54:03 --> Language Class Initialized
+INFO - 2020-07-16 14:54:03 --> URI Class Initialized
+ERROR - 2020-07-16 14:54:03 --> 404 Page Not Found: Assets/uploads
+ERROR - 2020-07-16 14:54:03 --> 404 Page Not Found: Assets/uploads
+ERROR - 2020-07-16 14:54:03 --> 404 Page Not Found: Assets/uploads
+INFO - 2020-07-16 14:54:03 --> Router Class Initialized
+INFO - 2020-07-16 14:54:03 --> Output Class Initialized
+DEBUG - 2020-07-16 14:54:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:54:03 --> Security Class Initialized
+DEBUG - 2020-07-16 14:54:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:54:03 --> CSRF cookie sent
+INFO - 2020-07-16 14:54:03 --> Input Class Initialized
+INFO - 2020-07-16 14:54:03 --> Language Class Initialized
+ERROR - 2020-07-16 14:54:03 --> 404 Page Not Found: Images/admission_ico.png
+INFO - 2020-07-16 14:54:03 --> CSRF cookie sent
+INFO - 2020-07-16 14:54:03 --> Config Class Initialized
+INFO - 2020-07-16 14:54:03 --> Hooks Class Initialized
+DEBUG - 2020-07-16 14:54:03 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:54:03 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:54:03 --> Config Class Initialized
+INFO - 2020-07-16 14:54:03 --> Hooks Class Initialized
+INFO - 2020-07-16 14:54:03 --> Config Class Initialized
+INFO - 2020-07-16 14:54:03 --> Config Class Initialized
+INFO - 2020-07-16 14:54:03 --> Hooks Class Initialized
+INFO - 2020-07-16 14:54:03 --> URI Class Initialized
+INFO - 2020-07-16 14:54:03 --> Hooks Class Initialized
+INFO - 2020-07-16 14:54:03 --> Input Class Initialized
+INFO - 2020-07-16 14:54:03 --> Router Class Initialized
+DEBUG - 2020-07-16 14:54:03 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:54:03 --> Utf8 Class Initialized
+DEBUG - 2020-07-16 14:54:03 --> UTF-8 Support Enabled
+DEBUG - 2020-07-16 14:54:03 --> UTF-8 Support Enabled
+INFO - 2020-07-16 14:54:03 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:54:03 --> Utf8 Class Initialized
+INFO - 2020-07-16 14:54:03 --> URI Class Initialized
+INFO - 2020-07-16 14:54:03 --> Output Class Initialized
+INFO - 2020-07-16 14:54:03 --> URI Class Initialized
+INFO - 2020-07-16 14:54:03 --> URI Class Initialized
+INFO - 2020-07-16 14:54:03 --> Router Class Initialized
+INFO - 2020-07-16 14:54:03 --> Security Class Initialized
+INFO - 2020-07-16 14:54:03 --> Router Class Initialized
+INFO - 2020-07-16 14:54:03 --> Router Class Initialized
+DEBUG - 2020-07-16 14:54:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:54:03 --> Output Class Initialized
+INFO - 2020-07-16 14:54:03 --> CSRF cookie sent
+INFO - 2020-07-16 14:54:03 --> Output Class Initialized
+INFO - 2020-07-16 14:54:03 --> Input Class Initialized
+INFO - 2020-07-16 14:54:03 --> Output Class Initialized
+INFO - 2020-07-16 14:54:03 --> Language Class Initialized
+INFO - 2020-07-16 14:54:03 --> Security Class Initialized
+INFO - 2020-07-16 14:54:03 --> Security Class Initialized
+INFO - 2020-07-16 14:54:03 --> Language Class Initialized
+INFO - 2020-07-16 14:54:03 --> Security Class Initialized
+ERROR - 2020-07-16 14:54:03 --> 404 Page Not Found: Assets/uploads
+ERROR - 2020-07-16 14:54:03 --> 404 Page Not Found: Images/prospects_ico.png
+DEBUG - 2020-07-16 14:54:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:54:03 --> CSRF cookie sent
+INFO - 2020-07-16 14:54:03 --> Input Class Initialized
+DEBUG - 2020-07-16 14:54:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:54:03 --> CSRF cookie sent
+INFO - 2020-07-16 14:54:03 --> Language Class Initialized
+INFO - 2020-07-16 14:54:03 --> Input Class Initialized
+INFO - 2020-07-16 14:54:03 --> Language Class Initialized
+ERROR - 2020-07-16 14:54:03 --> 404 Page Not Found: Images/cybrain.png
+ERROR - 2020-07-16 14:54:03 --> 404 Page Not Found: Assets/uploads
+DEBUG - 2020-07-16 14:54:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-16 14:54:03 --> CSRF cookie sent
+INFO - 2020-07-16 14:54:03 --> Input Class Initialized
+INFO - 2020-07-16 14:54:03 --> Language Class Initialized
+ERROR - 2020-07-16 14:54:03 --> 404 Page Not Found: Assets/uploads

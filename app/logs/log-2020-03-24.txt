@@ -1,0 +1,78 @@
+INFO - 2020-03-24 14:12:52 --> Config Class Initialized
+INFO - 2020-03-24 14:12:52 --> Config Class Initialized
+INFO - 2020-03-24 14:12:53 --> Hooks Class Initialized
+INFO - 2020-03-24 14:12:53 --> Hooks Class Initialized
+DEBUG - 2020-03-24 14:12:53 --> UTF-8 Support Enabled
+DEBUG - 2020-03-24 14:12:53 --> UTF-8 Support Enabled
+INFO - 2020-03-24 14:12:53 --> Utf8 Class Initialized
+INFO - 2020-03-24 14:12:53 --> Utf8 Class Initialized
+INFO - 2020-03-24 14:12:53 --> URI Class Initialized
+INFO - 2020-03-24 14:12:53 --> URI Class Initialized
+INFO - 2020-03-24 14:12:53 --> Router Class Initialized
+INFO - 2020-03-24 14:12:53 --> Router Class Initialized
+INFO - 2020-03-24 14:12:53 --> Output Class Initialized
+INFO - 2020-03-24 14:12:53 --> Output Class Initialized
+INFO - 2020-03-24 14:12:53 --> Security Class Initialized
+INFO - 2020-03-24 14:12:53 --> Security Class Initialized
+DEBUG - 2020-03-24 14:12:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-24 14:12:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-24 14:12:53 --> CSRF cookie sent
+INFO - 2020-03-24 14:12:53 --> CSRF cookie sent
+INFO - 2020-03-24 14:12:53 --> Input Class Initialized
+INFO - 2020-03-24 14:12:53 --> Input Class Initialized
+INFO - 2020-03-24 14:12:53 --> Language Class Initialized
+INFO - 2020-03-24 14:12:53 --> Language Class Initialized
+ERROR - 2020-03-24 14:12:53 --> 404 Page Not Found: Assets/uploads
+ERROR - 2020-03-24 14:12:53 --> 404 Page Not Found: Assets/uploads
+INFO - 2020-03-24 14:16:53 --> Config Class Initialized
+INFO - 2020-03-24 14:16:53 --> Hooks Class Initialized
+DEBUG - 2020-03-24 14:16:53 --> UTF-8 Support Enabled
+INFO - 2020-03-24 14:16:53 --> Utf8 Class Initialized
+INFO - 2020-03-24 14:16:53 --> URI Class Initialized
+INFO - 2020-03-24 14:16:53 --> Router Class Initialized
+INFO - 2020-03-24 14:16:53 --> Output Class Initialized
+INFO - 2020-03-24 14:16:53 --> Security Class Initialized
+DEBUG - 2020-03-24 14:16:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-24 14:16:53 --> CSRF cookie sent
+INFO - 2020-03-24 14:16:53 --> Input Class Initialized
+INFO - 2020-03-24 14:16:53 --> Language Class Initialized
+ERROR - 2020-03-24 14:16:53 --> 404 Page Not Found: Assets/uploads
+INFO - 2020-03-24 14:24:43 --> Config Class Initialized
+INFO - 2020-03-24 14:24:43 --> Config Class Initialized
+INFO - 2020-03-24 14:24:43 --> Hooks Class Initialized
+INFO - 2020-03-24 14:24:43 --> Hooks Class Initialized
+DEBUG - 2020-03-24 14:24:43 --> UTF-8 Support Enabled
+DEBUG - 2020-03-24 14:24:43 --> UTF-8 Support Enabled
+INFO - 2020-03-24 14:24:43 --> Utf8 Class Initialized
+INFO - 2020-03-24 14:24:43 --> Utf8 Class Initialized
+INFO - 2020-03-24 14:24:43 --> URI Class Initialized
+INFO - 2020-03-24 14:24:43 --> URI Class Initialized
+INFO - 2020-03-24 14:24:43 --> Router Class Initialized
+INFO - 2020-03-24 14:24:43 --> Router Class Initialized
+INFO - 2020-03-24 14:24:43 --> Output Class Initialized
+INFO - 2020-03-24 14:24:43 --> Output Class Initialized
+INFO - 2020-03-24 14:24:43 --> Security Class Initialized
+INFO - 2020-03-24 14:24:43 --> Security Class Initialized
+DEBUG - 2020-03-24 14:24:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-03-24 14:24:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-24 14:24:43 --> CSRF cookie sent
+INFO - 2020-03-24 14:24:43 --> CSRF cookie sent
+INFO - 2020-03-24 14:24:43 --> Input Class Initialized
+INFO - 2020-03-24 14:24:43 --> Input Class Initialized
+INFO - 2020-03-24 14:24:43 --> Language Class Initialized
+INFO - 2020-03-24 14:24:43 --> Language Class Initialized
+ERROR - 2020-03-24 14:24:43 --> 404 Page Not Found: Assets/uploads
+ERROR - 2020-03-24 14:24:43 --> 404 Page Not Found: Assets/uploads
+INFO - 2020-03-24 14:26:26 --> Config Class Initialized
+INFO - 2020-03-24 14:26:26 --> Hooks Class Initialized
+DEBUG - 2020-03-24 14:26:26 --> UTF-8 Support Enabled
+INFO - 2020-03-24 14:26:26 --> Utf8 Class Initialized
+INFO - 2020-03-24 14:26:26 --> URI Class Initialized
+INFO - 2020-03-24 14:26:26 --> Router Class Initialized
+INFO - 2020-03-24 14:26:26 --> Output Class Initialized
+INFO - 2020-03-24 14:26:26 --> Security Class Initialized
+DEBUG - 2020-03-24 14:26:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-03-24 14:26:26 --> CSRF cookie sent
+INFO - 2020-03-24 14:26:26 --> Input Class Initialized
+INFO - 2020-03-24 14:26:26 --> Language Class Initialized
+ERROR - 2020-03-24 14:26:26 --> 404 Page Not Found: Assets/uploads

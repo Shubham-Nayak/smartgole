@@ -1,0 +1,34 @@
+INFO - 2020-02-29 14:23:58 --> Config Class Initialized
+INFO - 2020-02-29 14:23:58 --> Hooks Class Initialized
+DEBUG - 2020-02-29 14:23:58 --> UTF-8 Support Enabled
+INFO - 2020-02-29 14:23:58 --> Utf8 Class Initialized
+INFO - 2020-02-29 14:23:58 --> URI Class Initialized
+INFO - 2020-02-29 14:23:58 --> Router Class Initialized
+INFO - 2020-02-29 14:23:58 --> Output Class Initialized
+INFO - 2020-02-29 14:23:58 --> Security Class Initialized
+DEBUG - 2020-02-29 14:23:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-29 14:23:58 --> CSRF cookie sent
+INFO - 2020-02-29 14:23:58 --> Input Class Initialized
+INFO - 2020-02-29 14:23:58 --> Language Class Initialized
+INFO - 2020-02-29 14:23:58 --> Loader Class Initialized
+INFO - 2020-02-29 14:23:58 --> Helper loaded: url_helper
+INFO - 2020-02-29 14:23:58 --> Helper loaded: file_helper
+INFO - 2020-02-29 14:23:58 --> Helper loaded: form_helper
+INFO - 2020-02-29 14:23:58 --> Helper loaded: security_helper
+INFO - 2020-02-29 14:23:58 --> Database Driver Class Initialized
+INFO - 2020-02-29 14:23:58 --> Email Class Initialized
+INFO - 2020-02-29 14:23:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-29 14:23:59 --> Form Validation Class Initialized
+INFO - 2020-02-29 14:23:59 --> Controller Class Initialized
+DEBUG - 2020-02-29 14:23:59 --> Config file loaded: E:\Website Hosting\haps.co.in\hapsdev\app\config/rest.php
+INFO - 2020-02-29 14:23:59 --> Helper loaded: inflector_helper
+INFO - 2020-02-29 14:23:59 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-02-29 14:23:59 --> Database Driver Class Initialized
+INFO - 2020-02-29 14:23:59 --> Helper loaded: utility_helper
+DEBUG - 2020-02-29 14:23:59 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-29 14:23:59 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-02-29 14:23:59 --> Config file loaded: E:\Website Hosting\haps.co.in\hapsdev\app\config/recaptcha.php
+INFO - 2020-02-29 14:23:59 --> MY_Model class loaded
+INFO - 2020-02-29 14:23:59 --> Model "Api_model" initialized
+INFO - 2020-02-29 14:23:59 --> Final output sent to browser
+DEBUG - 2020-02-29 14:23:59 --> Total execution time: 1.1772

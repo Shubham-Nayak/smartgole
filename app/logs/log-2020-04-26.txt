@@ -1,0 +1,2791 @@
+INFO - 2020-04-26 18:49:02 --> Config Class Initialized
+INFO - 2020-04-26 18:49:02 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:49:02 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:49:02 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:49:02 --> URI Class Initialized
+DEBUG - 2020-04-26 18:49:02 --> No URI present. Default controller set.
+INFO - 2020-04-26 18:49:02 --> Router Class Initialized
+INFO - 2020-04-26 18:49:02 --> Output Class Initialized
+INFO - 2020-04-26 18:49:02 --> Security Class Initialized
+DEBUG - 2020-04-26 18:49:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:49:02 --> CSRF cookie sent
+INFO - 2020-04-26 18:49:02 --> Input Class Initialized
+INFO - 2020-04-26 18:49:02 --> Language Class Initialized
+INFO - 2020-04-26 18:49:02 --> Loader Class Initialized
+INFO - 2020-04-26 18:49:02 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:49:03 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:49:03 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:49:03 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:49:03 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:03 --> Email Class Initialized
+INFO - 2020-04-26 18:49:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:49:03 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:49:03 --> Controller Class Initialized
+INFO - 2020-04-26 18:49:04 --> Helper loaded: utility_helper
+INFO - 2020-04-26 18:49:04 --> Helper loaded: language_helper
+INFO - 2020-04-26 18:49:04 --> Helper loaded: captcha_helper
+INFO - 2020-04-26 18:49:04 --> Config Class Initialized
+INFO - 2020-04-26 18:49:04 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:49:04 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:49:04 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:49:04 --> URI Class Initialized
+INFO - 2020-04-26 18:49:04 --> Router Class Initialized
+INFO - 2020-04-26 18:49:04 --> Output Class Initialized
+INFO - 2020-04-26 18:49:04 --> Security Class Initialized
+DEBUG - 2020-04-26 18:49:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:49:04 --> CSRF cookie sent
+INFO - 2020-04-26 18:49:04 --> Input Class Initialized
+INFO - 2020-04-26 18:49:04 --> Language Class Initialized
+INFO - 2020-04-26 18:49:04 --> Loader Class Initialized
+INFO - 2020-04-26 18:49:04 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:49:04 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:49:04 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:49:04 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:49:05 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:05 --> Email Class Initialized
+INFO - 2020-04-26 18:49:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:49:05 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:49:05 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:49:05 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:49:05 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:49:05 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:49:05 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:05 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:49:05 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:05 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:05 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:49:05 --> MY_Model class loaded
+INFO - 2020-04-26 18:49:06 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:49:06 --> Final output sent to browser
+DEBUG - 2020-04-26 18:49:06 --> Total execution time: 1.8907
+DEBUG - 2020-04-26 18:49:06 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:06 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:06 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:49:06 --> MY_Model class loaded
+INFO - 2020-04-26 18:49:06 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:49:06 --> Config Class Initialized
+INFO - 2020-04-26 18:49:06 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:49:06 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:49:06 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:49:06 --> URI Class Initialized
+INFO - 2020-04-26 18:49:06 --> Router Class Initialized
+INFO - 2020-04-26 18:49:06 --> Output Class Initialized
+INFO - 2020-04-26 18:49:06 --> Security Class Initialized
+DEBUG - 2020-04-26 18:49:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:49:06 --> CSRF cookie sent
+INFO - 2020-04-26 18:49:06 --> Input Class Initialized
+INFO - 2020-04-26 18:49:06 --> Language Class Initialized
+INFO - 2020-04-26 18:49:06 --> Loader Class Initialized
+INFO - 2020-04-26 18:49:06 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:49:06 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:49:07 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:49:07 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:49:07 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:07 --> Email Class Initialized
+INFO - 2020-04-26 18:49:07 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:49:07 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:49:07 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:49:07 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:49:07 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:49:07 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:49:07 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:07 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:49:07 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:07 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:07 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:49:07 --> MY_Model class loaded
+INFO - 2020-04-26 18:49:07 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:49:07 --> Final output sent to browser
+DEBUG - 2020-04-26 18:49:07 --> Total execution time: 1.2209
+INFO - 2020-04-26 18:49:07 --> Config Class Initialized
+INFO - 2020-04-26 18:49:07 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:49:07 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:49:07 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:49:07 --> URI Class Initialized
+INFO - 2020-04-26 18:49:08 --> Router Class Initialized
+INFO - 2020-04-26 18:49:08 --> Output Class Initialized
+INFO - 2020-04-26 18:49:08 --> Security Class Initialized
+DEBUG - 2020-04-26 18:49:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:49:08 --> CSRF cookie sent
+INFO - 2020-04-26 18:49:08 --> Input Class Initialized
+INFO - 2020-04-26 18:49:08 --> Language Class Initialized
+INFO - 2020-04-26 18:49:08 --> Loader Class Initialized
+INFO - 2020-04-26 18:49:08 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:49:08 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:49:08 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:49:08 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:49:08 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:08 --> Email Class Initialized
+INFO - 2020-04-26 18:49:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:49:08 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:49:08 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:49:08 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:49:08 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:49:08 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:49:08 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:08 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:49:08 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:08 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:08 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:49:08 --> MY_Model class loaded
+INFO - 2020-04-26 18:49:08 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:49:09 --> Final output sent to browser
+DEBUG - 2020-04-26 18:49:09 --> Total execution time: 1.1998
+INFO - 2020-04-26 18:49:09 --> Config Class Initialized
+INFO - 2020-04-26 18:49:09 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:49:09 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:49:09 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:49:09 --> URI Class Initialized
+INFO - 2020-04-26 18:49:09 --> Router Class Initialized
+INFO - 2020-04-26 18:49:09 --> Output Class Initialized
+INFO - 2020-04-26 18:49:09 --> Security Class Initialized
+DEBUG - 2020-04-26 18:49:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:49:09 --> CSRF cookie sent
+INFO - 2020-04-26 18:49:09 --> Input Class Initialized
+INFO - 2020-04-26 18:49:09 --> Language Class Initialized
+INFO - 2020-04-26 18:49:09 --> Loader Class Initialized
+INFO - 2020-04-26 18:49:09 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:49:09 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:49:09 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:49:09 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:49:09 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:09 --> Email Class Initialized
+INFO - 2020-04-26 18:49:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:49:09 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:49:09 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:49:09 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:49:09 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:49:09 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:49:09 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:10 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:49:10 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:10 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:10 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:49:10 --> MY_Model class loaded
+INFO - 2020-04-26 18:49:10 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:49:10 --> Final output sent to browser
+DEBUG - 2020-04-26 18:49:10 --> Total execution time: 1.0408
+INFO - 2020-04-26 18:49:10 --> Config Class Initialized
+INFO - 2020-04-26 18:49:10 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:49:10 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:49:10 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:49:10 --> URI Class Initialized
+INFO - 2020-04-26 18:49:10 --> Router Class Initialized
+INFO - 2020-04-26 18:49:10 --> Output Class Initialized
+INFO - 2020-04-26 18:49:10 --> Security Class Initialized
+DEBUG - 2020-04-26 18:49:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:49:10 --> CSRF cookie sent
+INFO - 2020-04-26 18:49:10 --> Input Class Initialized
+INFO - 2020-04-26 18:49:10 --> Language Class Initialized
+INFO - 2020-04-26 18:49:10 --> Loader Class Initialized
+INFO - 2020-04-26 18:49:10 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:49:10 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:49:10 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:49:10 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:49:10 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:10 --> Email Class Initialized
+INFO - 2020-04-26 18:49:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:49:10 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:49:10 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:49:10 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:49:11 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:49:11 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:49:11 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:11 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:49:11 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:11 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:11 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:49:11 --> MY_Model class loaded
+INFO - 2020-04-26 18:49:11 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:49:11 --> Final output sent to browser
+DEBUG - 2020-04-26 18:49:11 --> Total execution time: 1.0328
+INFO - 2020-04-26 18:49:11 --> Config Class Initialized
+INFO - 2020-04-26 18:49:11 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:49:11 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:49:11 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:49:11 --> URI Class Initialized
+INFO - 2020-04-26 18:49:11 --> Router Class Initialized
+INFO - 2020-04-26 18:49:11 --> Output Class Initialized
+INFO - 2020-04-26 18:49:11 --> Security Class Initialized
+DEBUG - 2020-04-26 18:49:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:49:11 --> CSRF cookie sent
+INFO - 2020-04-26 18:49:11 --> Input Class Initialized
+INFO - 2020-04-26 18:49:11 --> Language Class Initialized
+INFO - 2020-04-26 18:49:11 --> Loader Class Initialized
+INFO - 2020-04-26 18:49:11 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:49:11 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:49:11 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:49:11 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:49:12 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:12 --> Email Class Initialized
+INFO - 2020-04-26 18:49:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:49:12 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:49:12 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:49:12 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:49:12 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:49:12 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:49:12 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:12 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:49:12 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:12 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:12 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:49:12 --> MY_Model class loaded
+INFO - 2020-04-26 18:49:12 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:49:12 --> Final output sent to browser
+DEBUG - 2020-04-26 18:49:12 --> Total execution time: 1.1570
+INFO - 2020-04-26 18:49:12 --> Config Class Initialized
+INFO - 2020-04-26 18:49:12 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:49:12 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:49:12 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:49:12 --> URI Class Initialized
+INFO - 2020-04-26 18:49:12 --> Router Class Initialized
+INFO - 2020-04-26 18:49:12 --> Output Class Initialized
+INFO - 2020-04-26 18:49:12 --> Security Class Initialized
+DEBUG - 2020-04-26 18:49:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:49:12 --> CSRF cookie sent
+INFO - 2020-04-26 18:49:12 --> Input Class Initialized
+INFO - 2020-04-26 18:49:12 --> Language Class Initialized
+INFO - 2020-04-26 18:49:13 --> Loader Class Initialized
+INFO - 2020-04-26 18:49:13 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:49:13 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:49:13 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:49:13 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:49:13 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:13 --> Email Class Initialized
+INFO - 2020-04-26 18:49:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:49:13 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:49:13 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:49:13 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:49:13 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:49:13 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:49:13 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:13 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:49:13 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:13 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:13 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:49:13 --> MY_Model class loaded
+INFO - 2020-04-26 18:49:13 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:49:13 --> Final output sent to browser
+DEBUG - 2020-04-26 18:49:13 --> Total execution time: 1.0038
+INFO - 2020-04-26 18:49:13 --> Config Class Initialized
+INFO - 2020-04-26 18:49:13 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:49:13 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:49:13 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:49:13 --> URI Class Initialized
+INFO - 2020-04-26 18:49:13 --> Router Class Initialized
+INFO - 2020-04-26 18:49:13 --> Output Class Initialized
+INFO - 2020-04-26 18:49:13 --> Security Class Initialized
+DEBUG - 2020-04-26 18:49:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:49:14 --> CSRF cookie sent
+INFO - 2020-04-26 18:49:14 --> Input Class Initialized
+INFO - 2020-04-26 18:49:14 --> Language Class Initialized
+INFO - 2020-04-26 18:49:14 --> Loader Class Initialized
+INFO - 2020-04-26 18:49:14 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:49:14 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:49:14 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:49:14 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:49:14 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:14 --> Email Class Initialized
+INFO - 2020-04-26 18:49:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:49:14 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:49:14 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:49:14 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:49:14 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:49:14 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:49:14 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:14 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:49:14 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:14 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:14 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:49:14 --> MY_Model class loaded
+INFO - 2020-04-26 18:49:14 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:49:14 --> Final output sent to browser
+DEBUG - 2020-04-26 18:49:14 --> Total execution time: 0.9995
+INFO - 2020-04-26 18:49:14 --> Config Class Initialized
+INFO - 2020-04-26 18:49:14 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:49:14 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:49:14 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:49:14 --> URI Class Initialized
+INFO - 2020-04-26 18:49:15 --> Router Class Initialized
+INFO - 2020-04-26 18:49:15 --> Output Class Initialized
+INFO - 2020-04-26 18:49:15 --> Security Class Initialized
+DEBUG - 2020-04-26 18:49:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:49:15 --> CSRF cookie sent
+INFO - 2020-04-26 18:49:15 --> Input Class Initialized
+INFO - 2020-04-26 18:49:15 --> Language Class Initialized
+INFO - 2020-04-26 18:49:15 --> Loader Class Initialized
+INFO - 2020-04-26 18:49:15 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:49:15 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:49:15 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:49:15 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:49:15 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:15 --> Email Class Initialized
+INFO - 2020-04-26 18:49:15 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:49:15 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:49:15 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:49:15 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:49:15 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:49:15 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:49:15 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:15 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:49:15 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:15 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:15 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:49:15 --> MY_Model class loaded
+INFO - 2020-04-26 18:49:15 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:49:15 --> Final output sent to browser
+DEBUG - 2020-04-26 18:49:15 --> Total execution time: 1.0972
+INFO - 2020-04-26 18:49:16 --> Config Class Initialized
+INFO - 2020-04-26 18:49:16 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:49:16 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:49:16 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:49:16 --> URI Class Initialized
+INFO - 2020-04-26 18:49:16 --> Router Class Initialized
+INFO - 2020-04-26 18:49:16 --> Output Class Initialized
+INFO - 2020-04-26 18:49:16 --> Security Class Initialized
+DEBUG - 2020-04-26 18:49:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:49:16 --> CSRF cookie sent
+INFO - 2020-04-26 18:49:16 --> Input Class Initialized
+INFO - 2020-04-26 18:49:16 --> Language Class Initialized
+INFO - 2020-04-26 18:49:16 --> Loader Class Initialized
+INFO - 2020-04-26 18:49:16 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:49:16 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:49:16 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:49:16 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:49:16 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:16 --> Email Class Initialized
+INFO - 2020-04-26 18:49:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:49:16 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:49:16 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:49:17 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:49:17 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:49:17 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:49:17 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:17 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:49:17 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:17 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:17 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:49:17 --> MY_Model class loaded
+INFO - 2020-04-26 18:49:17 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:49:17 --> Final output sent to browser
+DEBUG - 2020-04-26 18:49:17 --> Total execution time: 1.2975
+INFO - 2020-04-26 18:49:17 --> Config Class Initialized
+INFO - 2020-04-26 18:49:17 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:49:17 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:49:17 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:49:17 --> URI Class Initialized
+INFO - 2020-04-26 18:49:17 --> Router Class Initialized
+INFO - 2020-04-26 18:49:17 --> Output Class Initialized
+INFO - 2020-04-26 18:49:17 --> Security Class Initialized
+DEBUG - 2020-04-26 18:49:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:49:17 --> CSRF cookie sent
+INFO - 2020-04-26 18:49:17 --> Input Class Initialized
+INFO - 2020-04-26 18:49:17 --> Language Class Initialized
+INFO - 2020-04-26 18:49:17 --> Loader Class Initialized
+INFO - 2020-04-26 18:49:17 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:49:17 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:49:17 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:49:18 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:49:18 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:18 --> Email Class Initialized
+INFO - 2020-04-26 18:49:18 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:49:18 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:49:18 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:49:18 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:49:18 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:49:18 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:49:18 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:18 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:49:18 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:18 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:18 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:49:18 --> MY_Model class loaded
+INFO - 2020-04-26 18:49:18 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:49:18 --> Final output sent to browser
+DEBUG - 2020-04-26 18:49:18 --> Total execution time: 1.0574
+INFO - 2020-04-26 18:49:18 --> Config Class Initialized
+INFO - 2020-04-26 18:49:18 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:49:18 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:49:18 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:49:18 --> URI Class Initialized
+INFO - 2020-04-26 18:49:18 --> Router Class Initialized
+INFO - 2020-04-26 18:49:18 --> Output Class Initialized
+INFO - 2020-04-26 18:49:18 --> Security Class Initialized
+DEBUG - 2020-04-26 18:49:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:49:19 --> CSRF cookie sent
+INFO - 2020-04-26 18:49:19 --> Input Class Initialized
+INFO - 2020-04-26 18:49:19 --> Language Class Initialized
+INFO - 2020-04-26 18:49:19 --> Loader Class Initialized
+INFO - 2020-04-26 18:49:19 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:49:19 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:49:19 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:49:19 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:49:19 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:19 --> Email Class Initialized
+INFO - 2020-04-26 18:49:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:49:19 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:49:19 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:49:19 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:49:19 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:49:19 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:49:19 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:19 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:49:19 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:19 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:19 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:49:19 --> MY_Model class loaded
+INFO - 2020-04-26 18:49:19 --> Model "Api_model" initialized
+ERROR - 2020-04-26 18:49:19 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Api' does not have a method 'index_get' C:\xampp\htdocs\dps\app\libraries\REST_Controller.php 739
+INFO - 2020-04-26 18:49:19 --> Final output sent to browser
+DEBUG - 2020-04-26 18:49:19 --> Total execution time: 1.1229
+INFO - 2020-04-26 18:49:20 --> Config Class Initialized
+INFO - 2020-04-26 18:49:20 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:49:20 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:49:20 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:49:20 --> URI Class Initialized
+INFO - 2020-04-26 18:49:20 --> Router Class Initialized
+INFO - 2020-04-26 18:49:20 --> Output Class Initialized
+INFO - 2020-04-26 18:49:20 --> Security Class Initialized
+DEBUG - 2020-04-26 18:49:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:49:20 --> CSRF cookie sent
+INFO - 2020-04-26 18:49:20 --> Input Class Initialized
+INFO - 2020-04-26 18:49:20 --> Language Class Initialized
+INFO - 2020-04-26 18:49:20 --> Loader Class Initialized
+INFO - 2020-04-26 18:49:20 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:49:20 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:49:20 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:49:20 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:49:20 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:20 --> Email Class Initialized
+INFO - 2020-04-26 18:49:20 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:49:20 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:49:20 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:49:20 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:49:20 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:49:20 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:49:20 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:21 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:49:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:21 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:21 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:49:21 --> MY_Model class loaded
+INFO - 2020-04-26 18:49:21 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:49:21 --> Final output sent to browser
+DEBUG - 2020-04-26 18:49:21 --> Total execution time: 1.1797
+INFO - 2020-04-26 18:49:21 --> Config Class Initialized
+INFO - 2020-04-26 18:49:21 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:49:21 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:49:21 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:49:21 --> URI Class Initialized
+INFO - 2020-04-26 18:49:21 --> Router Class Initialized
+INFO - 2020-04-26 18:49:21 --> Output Class Initialized
+INFO - 2020-04-26 18:49:21 --> Security Class Initialized
+DEBUG - 2020-04-26 18:49:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:49:21 --> CSRF cookie sent
+INFO - 2020-04-26 18:49:21 --> Input Class Initialized
+INFO - 2020-04-26 18:49:21 --> Language Class Initialized
+INFO - 2020-04-26 18:49:21 --> Loader Class Initialized
+INFO - 2020-04-26 18:49:21 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:49:21 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:49:21 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:49:21 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:49:22 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:22 --> Email Class Initialized
+INFO - 2020-04-26 18:49:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:49:22 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:49:22 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:49:22 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:49:22 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:49:22 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:49:22 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:49:22 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:49:22 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:22 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:49:22 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:49:22 --> MY_Model class loaded
+INFO - 2020-04-26 18:49:22 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:49:22 --> Final output sent to browser
+DEBUG - 2020-04-26 18:49:22 --> Total execution time: 1.1432
+ERROR - 2020-04-26 18:49:23 --> Severity: Notice --> Undefined variable: hash C:\xampp\htdocs\dps\app\views\layouthtml.php 30
+INFO - 2020-04-26 18:49:23 --> File loaded: C:\xampp\htdocs\dps\app\views\templates/homehtml.php
+INFO - 2020-04-26 18:49:23 --> File loaded: C:\xampp\htdocs\dps\app\views\layouthtml.php
+INFO - 2020-04-26 18:49:23 --> Final output sent to browser
+DEBUG - 2020-04-26 18:49:23 --> Total execution time: 21.7651
+INFO - 2020-04-26 18:49:27 --> Config Class Initialized
+INFO - 2020-04-26 18:49:27 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:49:27 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:49:27 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:49:27 --> URI Class Initialized
+INFO - 2020-04-26 18:49:27 --> Router Class Initialized
+INFO - 2020-04-26 18:49:27 --> Output Class Initialized
+INFO - 2020-04-26 18:49:27 --> Security Class Initialized
+DEBUG - 2020-04-26 18:49:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:49:27 --> CSRF cookie sent
+INFO - 2020-04-26 18:49:27 --> Input Class Initialized
+INFO - 2020-04-26 18:49:27 --> Language Class Initialized
+ERROR - 2020-04-26 18:49:27 --> 404 Page Not Found: Assets/fonts
+INFO - 2020-04-26 18:49:28 --> Config Class Initialized
+INFO - 2020-04-26 18:49:28 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:49:28 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:49:28 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:49:28 --> URI Class Initialized
+INFO - 2020-04-26 18:49:28 --> Router Class Initialized
+INFO - 2020-04-26 18:49:28 --> Output Class Initialized
+INFO - 2020-04-26 18:49:28 --> Security Class Initialized
+DEBUG - 2020-04-26 18:49:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:49:28 --> CSRF cookie sent
+INFO - 2020-04-26 18:49:28 --> Input Class Initialized
+INFO - 2020-04-26 18:49:28 --> Language Class Initialized
+ERROR - 2020-04-26 18:49:28 --> 404 Page Not Found: Assets/fonts
+INFO - 2020-04-26 18:53:14 --> Config Class Initialized
+INFO - 2020-04-26 18:53:14 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:15 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:15 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:15 --> URI Class Initialized
+INFO - 2020-04-26 18:53:15 --> Router Class Initialized
+INFO - 2020-04-26 18:53:15 --> Output Class Initialized
+INFO - 2020-04-26 18:53:15 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:15 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:15 --> Input Class Initialized
+INFO - 2020-04-26 18:53:15 --> Language Class Initialized
+INFO - 2020-04-26 18:53:15 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:15 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:15 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:15 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:15 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:15 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:15 --> Email Class Initialized
+INFO - 2020-04-26 18:53:15 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:15 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:15 --> Controller Class Initialized
+INFO - 2020-04-26 18:53:15 --> Helper loaded: utility_helper
+INFO - 2020-04-26 18:53:15 --> Helper loaded: language_helper
+INFO - 2020-04-26 18:53:15 --> Helper loaded: captcha_helper
+INFO - 2020-04-26 18:53:15 --> Config Class Initialized
+INFO - 2020-04-26 18:53:15 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:15 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:15 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:16 --> URI Class Initialized
+INFO - 2020-04-26 18:53:16 --> Router Class Initialized
+INFO - 2020-04-26 18:53:16 --> Output Class Initialized
+INFO - 2020-04-26 18:53:16 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:16 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:16 --> Input Class Initialized
+INFO - 2020-04-26 18:53:16 --> Language Class Initialized
+INFO - 2020-04-26 18:53:16 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:16 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:16 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:16 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:16 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:16 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:16 --> Email Class Initialized
+INFO - 2020-04-26 18:53:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:16 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:16 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:53:16 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:53:16 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:53:16 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:53:16 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:16 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:53:16 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:16 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:16 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:16 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:16 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:17 --> Final output sent to browser
+DEBUG - 2020-04-26 18:53:17 --> Total execution time: 1.1733
+DEBUG - 2020-04-26 18:53:17 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:17 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:17 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:17 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:17 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:17 --> Config Class Initialized
+INFO - 2020-04-26 18:53:17 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:17 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:17 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:17 --> URI Class Initialized
+INFO - 2020-04-26 18:53:17 --> Router Class Initialized
+INFO - 2020-04-26 18:53:17 --> Output Class Initialized
+INFO - 2020-04-26 18:53:17 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:17 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:17 --> Input Class Initialized
+INFO - 2020-04-26 18:53:17 --> Language Class Initialized
+INFO - 2020-04-26 18:53:17 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:17 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:17 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:17 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:17 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:17 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:18 --> Email Class Initialized
+INFO - 2020-04-26 18:53:18 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:18 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:18 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:53:18 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:53:18 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:53:18 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:53:18 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:18 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:53:18 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:18 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:18 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:18 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:18 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:18 --> Final output sent to browser
+DEBUG - 2020-04-26 18:53:18 --> Total execution time: 1.2151
+INFO - 2020-04-26 18:53:18 --> Config Class Initialized
+INFO - 2020-04-26 18:53:18 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:18 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:18 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:18 --> URI Class Initialized
+DEBUG - 2020-04-26 18:53:18 --> No URI present. Default controller set.
+INFO - 2020-04-26 18:53:18 --> Router Class Initialized
+INFO - 2020-04-26 18:53:18 --> Output Class Initialized
+INFO - 2020-04-26 18:53:19 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:19 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:19 --> Input Class Initialized
+INFO - 2020-04-26 18:53:19 --> Language Class Initialized
+INFO - 2020-04-26 18:53:19 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:19 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:19 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:19 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:19 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:19 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:19 --> Email Class Initialized
+INFO - 2020-04-26 18:53:19 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:19 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:19 --> Controller Class Initialized
+INFO - 2020-04-26 18:53:19 --> Helper loaded: utility_helper
+INFO - 2020-04-26 18:53:19 --> Helper loaded: language_helper
+INFO - 2020-04-26 18:53:19 --> Helper loaded: captcha_helper
+INFO - 2020-04-26 18:53:19 --> Config Class Initialized
+INFO - 2020-04-26 18:53:20 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:20 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:20 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:20 --> URI Class Initialized
+INFO - 2020-04-26 18:53:20 --> Router Class Initialized
+INFO - 2020-04-26 18:53:20 --> Output Class Initialized
+INFO - 2020-04-26 18:53:20 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:20 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:20 --> Input Class Initialized
+INFO - 2020-04-26 18:53:20 --> Language Class Initialized
+INFO - 2020-04-26 18:53:20 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:20 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:20 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:20 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:20 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:20 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:20 --> Email Class Initialized
+INFO - 2020-04-26 18:53:20 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:20 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:20 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:53:20 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:53:20 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:53:20 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:53:21 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:21 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:53:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:21 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:21 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:21 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:21 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:21 --> Final output sent to browser
+DEBUG - 2020-04-26 18:53:21 --> Total execution time: 1.3366
+DEBUG - 2020-04-26 18:53:21 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:21 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:21 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:21 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:21 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:21 --> Config Class Initialized
+INFO - 2020-04-26 18:53:21 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:21 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:21 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:21 --> URI Class Initialized
+INFO - 2020-04-26 18:53:21 --> Router Class Initialized
+INFO - 2020-04-26 18:53:21 --> Output Class Initialized
+INFO - 2020-04-26 18:53:21 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:21 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:22 --> Input Class Initialized
+INFO - 2020-04-26 18:53:22 --> Language Class Initialized
+INFO - 2020-04-26 18:53:22 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:22 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:22 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:22 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:22 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:22 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:22 --> Email Class Initialized
+INFO - 2020-04-26 18:53:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:22 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:22 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:53:22 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:53:22 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:53:22 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:53:22 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:22 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:53:22 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:22 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:22 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:22 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:22 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:22 --> Final output sent to browser
+DEBUG - 2020-04-26 18:53:22 --> Total execution time: 1.1910
+INFO - 2020-04-26 18:53:22 --> Config Class Initialized
+INFO - 2020-04-26 18:53:22 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:23 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:23 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:23 --> URI Class Initialized
+INFO - 2020-04-26 18:53:23 --> Router Class Initialized
+INFO - 2020-04-26 18:53:23 --> Output Class Initialized
+INFO - 2020-04-26 18:53:23 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:23 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:23 --> Input Class Initialized
+INFO - 2020-04-26 18:53:23 --> Language Class Initialized
+INFO - 2020-04-26 18:53:23 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:23 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:23 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:23 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:23 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:23 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:23 --> Email Class Initialized
+INFO - 2020-04-26 18:53:23 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:23 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:23 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:53:23 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:53:24 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:53:24 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:53:24 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:24 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:53:24 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:24 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:24 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:24 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:24 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:24 --> Final output sent to browser
+DEBUG - 2020-04-26 18:53:24 --> Total execution time: 1.4448
+INFO - 2020-04-26 18:53:24 --> Config Class Initialized
+INFO - 2020-04-26 18:53:24 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:24 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:24 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:24 --> URI Class Initialized
+INFO - 2020-04-26 18:53:24 --> Router Class Initialized
+INFO - 2020-04-26 18:53:24 --> Output Class Initialized
+INFO - 2020-04-26 18:53:24 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:24 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:24 --> Input Class Initialized
+INFO - 2020-04-26 18:53:25 --> Language Class Initialized
+INFO - 2020-04-26 18:53:25 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:25 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:25 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:25 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:25 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:25 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:25 --> Email Class Initialized
+INFO - 2020-04-26 18:53:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:25 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:25 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:53:25 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:53:25 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:53:25 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:53:25 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:25 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:53:25 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:25 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:25 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:25 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:25 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:26 --> Final output sent to browser
+DEBUG - 2020-04-26 18:53:26 --> Total execution time: 1.4723
+INFO - 2020-04-26 18:53:26 --> Config Class Initialized
+INFO - 2020-04-26 18:53:26 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:26 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:26 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:26 --> URI Class Initialized
+INFO - 2020-04-26 18:53:26 --> Router Class Initialized
+INFO - 2020-04-26 18:53:26 --> Output Class Initialized
+INFO - 2020-04-26 18:53:26 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:26 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:26 --> Input Class Initialized
+INFO - 2020-04-26 18:53:26 --> Language Class Initialized
+INFO - 2020-04-26 18:53:26 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:26 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:26 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:26 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:26 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:26 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:27 --> Email Class Initialized
+INFO - 2020-04-26 18:53:27 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:27 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:27 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:53:27 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:53:27 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:53:27 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:53:27 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:27 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:53:27 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:27 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:27 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:27 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:27 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:27 --> Final output sent to browser
+DEBUG - 2020-04-26 18:53:27 --> Total execution time: 1.4522
+INFO - 2020-04-26 18:53:27 --> Config Class Initialized
+INFO - 2020-04-26 18:53:27 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:27 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:27 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:27 --> URI Class Initialized
+INFO - 2020-04-26 18:53:28 --> Router Class Initialized
+INFO - 2020-04-26 18:53:28 --> Output Class Initialized
+INFO - 2020-04-26 18:53:28 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:28 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:28 --> Input Class Initialized
+INFO - 2020-04-26 18:53:28 --> Language Class Initialized
+INFO - 2020-04-26 18:53:28 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:28 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:28 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:28 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:28 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:28 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:28 --> Email Class Initialized
+INFO - 2020-04-26 18:53:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:28 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:28 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:53:28 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:53:28 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:53:28 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:53:28 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:28 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:53:28 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:29 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:29 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:29 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:29 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:29 --> Final output sent to browser
+DEBUG - 2020-04-26 18:53:29 --> Total execution time: 1.3898
+INFO - 2020-04-26 18:53:29 --> Config Class Initialized
+INFO - 2020-04-26 18:53:29 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:29 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:29 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:29 --> URI Class Initialized
+INFO - 2020-04-26 18:53:29 --> Router Class Initialized
+INFO - 2020-04-26 18:53:29 --> Output Class Initialized
+INFO - 2020-04-26 18:53:29 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:29 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:29 --> Input Class Initialized
+INFO - 2020-04-26 18:53:29 --> Language Class Initialized
+INFO - 2020-04-26 18:53:29 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:30 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:30 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:30 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:30 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:30 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:30 --> Email Class Initialized
+INFO - 2020-04-26 18:53:30 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:30 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:30 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:53:30 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:53:30 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:53:30 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:53:30 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:30 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:53:30 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:30 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:30 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:30 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:30 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:30 --> Final output sent to browser
+DEBUG - 2020-04-26 18:53:30 --> Total execution time: 1.6047
+INFO - 2020-04-26 18:53:31 --> Config Class Initialized
+INFO - 2020-04-26 18:53:31 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:31 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:31 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:31 --> URI Class Initialized
+INFO - 2020-04-26 18:53:31 --> Router Class Initialized
+INFO - 2020-04-26 18:53:31 --> Output Class Initialized
+INFO - 2020-04-26 18:53:31 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:31 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:31 --> Input Class Initialized
+INFO - 2020-04-26 18:53:31 --> Language Class Initialized
+INFO - 2020-04-26 18:53:31 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:31 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:31 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:31 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:31 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:31 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:31 --> Email Class Initialized
+INFO - 2020-04-26 18:53:31 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:31 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:32 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:53:32 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:53:32 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:53:32 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:53:32 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:32 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:53:32 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:32 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:32 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:32 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:32 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:32 --> Final output sent to browser
+DEBUG - 2020-04-26 18:53:32 --> Total execution time: 1.3092
+INFO - 2020-04-26 18:53:32 --> Config Class Initialized
+INFO - 2020-04-26 18:53:32 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:32 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:32 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:32 --> URI Class Initialized
+INFO - 2020-04-26 18:53:32 --> Router Class Initialized
+INFO - 2020-04-26 18:53:32 --> Output Class Initialized
+INFO - 2020-04-26 18:53:32 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:32 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:32 --> Input Class Initialized
+INFO - 2020-04-26 18:53:32 --> Language Class Initialized
+INFO - 2020-04-26 18:53:33 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:33 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:33 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:33 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:33 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:33 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:33 --> Email Class Initialized
+INFO - 2020-04-26 18:53:33 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:33 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:33 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:53:33 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:53:33 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:53:33 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:53:33 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:33 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:53:33 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:33 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:33 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:33 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:33 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:33 --> Final output sent to browser
+DEBUG - 2020-04-26 18:53:33 --> Total execution time: 1.3231
+INFO - 2020-04-26 18:53:33 --> Config Class Initialized
+INFO - 2020-04-26 18:53:34 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:34 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:34 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:34 --> URI Class Initialized
+INFO - 2020-04-26 18:53:34 --> Router Class Initialized
+INFO - 2020-04-26 18:53:34 --> Output Class Initialized
+INFO - 2020-04-26 18:53:34 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:34 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:34 --> Input Class Initialized
+INFO - 2020-04-26 18:53:34 --> Language Class Initialized
+INFO - 2020-04-26 18:53:34 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:34 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:34 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:34 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:34 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:34 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:34 --> Email Class Initialized
+INFO - 2020-04-26 18:53:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:34 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:34 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:53:34 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:53:35 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:53:35 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:53:35 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:35 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:53:35 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:35 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:35 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:35 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:35 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:35 --> Final output sent to browser
+DEBUG - 2020-04-26 18:53:35 --> Total execution time: 1.4244
+INFO - 2020-04-26 18:53:35 --> Config Class Initialized
+INFO - 2020-04-26 18:53:35 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:35 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:35 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:35 --> URI Class Initialized
+INFO - 2020-04-26 18:53:35 --> Router Class Initialized
+INFO - 2020-04-26 18:53:35 --> Output Class Initialized
+INFO - 2020-04-26 18:53:35 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:35 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:35 --> Input Class Initialized
+INFO - 2020-04-26 18:53:36 --> Language Class Initialized
+INFO - 2020-04-26 18:53:36 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:36 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:36 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:36 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:36 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:36 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:36 --> Email Class Initialized
+INFO - 2020-04-26 18:53:36 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:36 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:36 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:53:36 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:53:36 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:53:36 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:53:36 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:36 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:53:36 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:36 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:36 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:36 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:36 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:36 --> Final output sent to browser
+DEBUG - 2020-04-26 18:53:36 --> Total execution time: 1.4093
+INFO - 2020-04-26 18:53:37 --> Config Class Initialized
+INFO - 2020-04-26 18:53:37 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:37 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:37 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:37 --> URI Class Initialized
+INFO - 2020-04-26 18:53:37 --> Router Class Initialized
+INFO - 2020-04-26 18:53:37 --> Output Class Initialized
+INFO - 2020-04-26 18:53:37 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:37 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:37 --> Input Class Initialized
+INFO - 2020-04-26 18:53:37 --> Language Class Initialized
+INFO - 2020-04-26 18:53:37 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:37 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:37 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:37 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:37 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:37 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:38 --> Email Class Initialized
+INFO - 2020-04-26 18:53:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:38 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:38 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:53:38 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:53:38 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:53:38 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:53:38 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:38 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:53:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:38 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:38 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:38 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:38 --> Model "Api_model" initialized
+ERROR - 2020-04-26 18:53:38 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Api' does not have a method 'index_get' C:\xampp\htdocs\dps\app\libraries\REST_Controller.php 739
+INFO - 2020-04-26 18:53:38 --> Final output sent to browser
+DEBUG - 2020-04-26 18:53:38 --> Total execution time: 1.5719
+INFO - 2020-04-26 18:53:38 --> Config Class Initialized
+INFO - 2020-04-26 18:53:38 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:39 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:39 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:39 --> URI Class Initialized
+INFO - 2020-04-26 18:53:39 --> Router Class Initialized
+INFO - 2020-04-26 18:53:39 --> Output Class Initialized
+INFO - 2020-04-26 18:53:39 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:39 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:39 --> Input Class Initialized
+INFO - 2020-04-26 18:53:39 --> Language Class Initialized
+INFO - 2020-04-26 18:53:39 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:39 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:39 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:39 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:39 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:39 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:39 --> Email Class Initialized
+INFO - 2020-04-26 18:53:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:39 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:39 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:53:39 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:53:40 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:53:40 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:53:40 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:40 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:53:40 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:40 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:40 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:40 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:40 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:40 --> Final output sent to browser
+DEBUG - 2020-04-26 18:53:40 --> Total execution time: 1.5913
+INFO - 2020-04-26 18:53:40 --> Config Class Initialized
+INFO - 2020-04-26 18:53:40 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:40 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:40 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:40 --> URI Class Initialized
+INFO - 2020-04-26 18:53:40 --> Router Class Initialized
+INFO - 2020-04-26 18:53:40 --> Output Class Initialized
+INFO - 2020-04-26 18:53:40 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:41 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:41 --> Input Class Initialized
+INFO - 2020-04-26 18:53:41 --> Language Class Initialized
+INFO - 2020-04-26 18:53:41 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:41 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:41 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:41 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:41 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:41 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:41 --> Email Class Initialized
+INFO - 2020-04-26 18:53:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:41 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:41 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:53:41 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:53:41 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:53:41 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:53:41 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:41 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:53:41 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:41 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:41 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:41 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:41 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:42 --> Final output sent to browser
+DEBUG - 2020-04-26 18:53:42 --> Total execution time: 1.3437
+ERROR - 2020-04-26 18:53:42 --> Severity: Notice --> Undefined variable: hash C:\xampp\htdocs\dps\app\views\layouthtml.php 30
+INFO - 2020-04-26 18:53:42 --> File loaded: C:\xampp\htdocs\dps\app\views\templates/homehtml.php
+INFO - 2020-04-26 18:53:42 --> File loaded: C:\xampp\htdocs\dps\app\views\layouthtml.php
+INFO - 2020-04-26 18:53:42 --> Final output sent to browser
+DEBUG - 2020-04-26 18:53:42 --> Total execution time: 23.6287
+INFO - 2020-04-26 18:53:43 --> Config Class Initialized
+INFO - 2020-04-26 18:53:43 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:43 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:43 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:43 --> URI Class Initialized
+INFO - 2020-04-26 18:53:43 --> Router Class Initialized
+INFO - 2020-04-26 18:53:43 --> Output Class Initialized
+INFO - 2020-04-26 18:53:43 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:43 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:43 --> Input Class Initialized
+INFO - 2020-04-26 18:53:43 --> Language Class Initialized
+ERROR - 2020-04-26 18:53:43 --> 404 Page Not Found: Assets/fonts
+INFO - 2020-04-26 18:53:43 --> Config Class Initialized
+INFO - 2020-04-26 18:53:43 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:43 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:43 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:43 --> URI Class Initialized
+INFO - 2020-04-26 18:53:43 --> Router Class Initialized
+INFO - 2020-04-26 18:53:43 --> Output Class Initialized
+INFO - 2020-04-26 18:53:43 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:44 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:44 --> Input Class Initialized
+INFO - 2020-04-26 18:53:44 --> Language Class Initialized
+ERROR - 2020-04-26 18:53:44 --> 404 Page Not Found: Assets/fonts
+INFO - 2020-04-26 18:53:51 --> Config Class Initialized
+INFO - 2020-04-26 18:53:51 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:51 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:51 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:51 --> URI Class Initialized
+INFO - 2020-04-26 18:53:51 --> Router Class Initialized
+INFO - 2020-04-26 18:53:51 --> Output Class Initialized
+INFO - 2020-04-26 18:53:51 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:51 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:51 --> Input Class Initialized
+INFO - 2020-04-26 18:53:51 --> Language Class Initialized
+INFO - 2020-04-26 18:53:51 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:51 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:51 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:51 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:51 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:52 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:52 --> Email Class Initialized
+INFO - 2020-04-26 18:53:52 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:52 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:52 --> Controller Class Initialized
+INFO - 2020-04-26 18:53:52 --> Helper loaded: utility_helper
+INFO - 2020-04-26 18:53:52 --> Helper loaded: language_helper
+INFO - 2020-04-26 18:53:52 --> Helper loaded: captcha_helper
+INFO - 2020-04-26 18:53:52 --> Config Class Initialized
+INFO - 2020-04-26 18:53:52 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:52 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:52 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:52 --> URI Class Initialized
+INFO - 2020-04-26 18:53:52 --> Router Class Initialized
+INFO - 2020-04-26 18:53:52 --> Output Class Initialized
+INFO - 2020-04-26 18:53:52 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:52 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:52 --> Input Class Initialized
+INFO - 2020-04-26 18:53:52 --> Language Class Initialized
+INFO - 2020-04-26 18:53:52 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:53 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:53 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:53 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:53 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:53 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:53 --> Email Class Initialized
+INFO - 2020-04-26 18:53:53 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:53 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:53 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:53:53 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:53:53 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:53:53 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:53:53 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:53 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:53:53 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:53 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:53 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:53 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:53 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:53 --> Final output sent to browser
+DEBUG - 2020-04-26 18:53:53 --> Total execution time: 1.3306
+DEBUG - 2020-04-26 18:53:53 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:53 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:53 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:53 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:54 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:54 --> Config Class Initialized
+INFO - 2020-04-26 18:53:54 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:54 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:54 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:54 --> URI Class Initialized
+INFO - 2020-04-26 18:53:54 --> Router Class Initialized
+INFO - 2020-04-26 18:53:54 --> Output Class Initialized
+INFO - 2020-04-26 18:53:54 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:54 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:54 --> Input Class Initialized
+INFO - 2020-04-26 18:53:54 --> Language Class Initialized
+INFO - 2020-04-26 18:53:54 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:54 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:54 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:54 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:54 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:54 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:54 --> Email Class Initialized
+INFO - 2020-04-26 18:53:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:55 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:55 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:53:55 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:53:55 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:53:55 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:53:55 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:55 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:53:55 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:55 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:55 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:55 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:55 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:55 --> Final output sent to browser
+DEBUG - 2020-04-26 18:53:55 --> Total execution time: 1.3638
+INFO - 2020-04-26 18:53:55 --> Config Class Initialized
+INFO - 2020-04-26 18:53:55 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:55 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:55 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:55 --> URI Class Initialized
+DEBUG - 2020-04-26 18:53:55 --> No URI present. Default controller set.
+INFO - 2020-04-26 18:53:55 --> Router Class Initialized
+INFO - 2020-04-26 18:53:55 --> Output Class Initialized
+INFO - 2020-04-26 18:53:55 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:55 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:56 --> Input Class Initialized
+INFO - 2020-04-26 18:53:56 --> Language Class Initialized
+INFO - 2020-04-26 18:53:56 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:56 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:56 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:56 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:56 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:56 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:56 --> Email Class Initialized
+INFO - 2020-04-26 18:53:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:56 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:56 --> Controller Class Initialized
+INFO - 2020-04-26 18:53:56 --> Helper loaded: utility_helper
+INFO - 2020-04-26 18:53:56 --> Helper loaded: language_helper
+INFO - 2020-04-26 18:53:56 --> Helper loaded: captcha_helper
+INFO - 2020-04-26 18:53:56 --> Config Class Initialized
+INFO - 2020-04-26 18:53:56 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:56 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:56 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:56 --> URI Class Initialized
+INFO - 2020-04-26 18:53:56 --> Router Class Initialized
+INFO - 2020-04-26 18:53:57 --> Output Class Initialized
+INFO - 2020-04-26 18:53:57 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:57 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:57 --> Input Class Initialized
+INFO - 2020-04-26 18:53:57 --> Language Class Initialized
+INFO - 2020-04-26 18:53:57 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:57 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:57 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:57 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:57 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:57 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:57 --> Email Class Initialized
+INFO - 2020-04-26 18:53:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:57 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:57 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:53:57 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:53:57 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:53:57 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:53:57 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:57 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:53:57 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:57 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:57 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:58 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:58 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:58 --> Final output sent to browser
+DEBUG - 2020-04-26 18:53:58 --> Total execution time: 1.3291
+DEBUG - 2020-04-26 18:53:58 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:58 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:58 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:58 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:58 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:58 --> Config Class Initialized
+INFO - 2020-04-26 18:53:58 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:53:58 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:53:58 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:53:58 --> URI Class Initialized
+INFO - 2020-04-26 18:53:58 --> Router Class Initialized
+INFO - 2020-04-26 18:53:58 --> Output Class Initialized
+INFO - 2020-04-26 18:53:58 --> Security Class Initialized
+DEBUG - 2020-04-26 18:53:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:53:58 --> CSRF cookie sent
+INFO - 2020-04-26 18:53:58 --> Input Class Initialized
+INFO - 2020-04-26 18:53:58 --> Language Class Initialized
+INFO - 2020-04-26 18:53:58 --> Loader Class Initialized
+INFO - 2020-04-26 18:53:59 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:53:59 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:53:59 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:53:59 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:53:59 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:59 --> Email Class Initialized
+INFO - 2020-04-26 18:53:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:53:59 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:53:59 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:53:59 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:53:59 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:53:59 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:53:59 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:53:59 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:53:59 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:59 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:53:59 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:53:59 --> MY_Model class loaded
+INFO - 2020-04-26 18:53:59 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:53:59 --> Final output sent to browser
+DEBUG - 2020-04-26 18:53:59 --> Total execution time: 1.4534
+INFO - 2020-04-26 18:54:00 --> Config Class Initialized
+INFO - 2020-04-26 18:54:00 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:00 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:00 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:00 --> URI Class Initialized
+INFO - 2020-04-26 18:54:00 --> Router Class Initialized
+INFO - 2020-04-26 18:54:00 --> Output Class Initialized
+INFO - 2020-04-26 18:54:00 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:00 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:00 --> Input Class Initialized
+INFO - 2020-04-26 18:54:00 --> Language Class Initialized
+INFO - 2020-04-26 18:54:00 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:00 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:00 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:00 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:00 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:00 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:00 --> Email Class Initialized
+INFO - 2020-04-26 18:54:00 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:00 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:00 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:00 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:01 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:01 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:01 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:01 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:01 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:01 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:01 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:01 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:01 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:01 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:01 --> Total execution time: 1.3170
+INFO - 2020-04-26 18:54:01 --> Config Class Initialized
+INFO - 2020-04-26 18:54:01 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:01 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:01 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:01 --> URI Class Initialized
+INFO - 2020-04-26 18:54:01 --> Router Class Initialized
+INFO - 2020-04-26 18:54:01 --> Output Class Initialized
+INFO - 2020-04-26 18:54:01 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:01 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:01 --> Input Class Initialized
+INFO - 2020-04-26 18:54:01 --> Language Class Initialized
+INFO - 2020-04-26 18:54:01 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:02 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:02 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:02 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:02 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:02 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:02 --> Email Class Initialized
+INFO - 2020-04-26 18:54:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:02 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:02 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:02 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:02 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:02 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:02 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:02 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:02 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:02 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:02 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:02 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:02 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:02 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:02 --> Total execution time: 1.3327
+INFO - 2020-04-26 18:54:03 --> Config Class Initialized
+INFO - 2020-04-26 18:54:03 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:03 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:03 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:03 --> URI Class Initialized
+INFO - 2020-04-26 18:54:03 --> Router Class Initialized
+INFO - 2020-04-26 18:54:03 --> Output Class Initialized
+INFO - 2020-04-26 18:54:03 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:03 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:03 --> Input Class Initialized
+INFO - 2020-04-26 18:54:03 --> Language Class Initialized
+INFO - 2020-04-26 18:54:03 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:03 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:03 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:03 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:03 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:03 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:03 --> Email Class Initialized
+INFO - 2020-04-26 18:54:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:03 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:03 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:04 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:04 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:04 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:04 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:04 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:04 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:04 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:04 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:04 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:04 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:04 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:04 --> Total execution time: 1.4297
+INFO - 2020-04-26 18:54:04 --> Config Class Initialized
+INFO - 2020-04-26 18:54:04 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:04 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:04 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:04 --> URI Class Initialized
+INFO - 2020-04-26 18:54:04 --> Router Class Initialized
+INFO - 2020-04-26 18:54:04 --> Output Class Initialized
+INFO - 2020-04-26 18:54:04 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:04 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:05 --> Input Class Initialized
+INFO - 2020-04-26 18:54:05 --> Language Class Initialized
+INFO - 2020-04-26 18:54:05 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:05 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:05 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:05 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:05 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:05 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:05 --> Email Class Initialized
+INFO - 2020-04-26 18:54:05 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:05 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:05 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:05 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:05 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:05 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:05 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:05 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:05 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:05 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:05 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:05 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:05 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:05 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:05 --> Total execution time: 1.3650
+INFO - 2020-04-26 18:54:06 --> Config Class Initialized
+INFO - 2020-04-26 18:54:06 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:06 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:06 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:06 --> URI Class Initialized
+INFO - 2020-04-26 18:54:06 --> Router Class Initialized
+INFO - 2020-04-26 18:54:06 --> Output Class Initialized
+INFO - 2020-04-26 18:54:06 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:06 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:06 --> Input Class Initialized
+INFO - 2020-04-26 18:54:06 --> Language Class Initialized
+INFO - 2020-04-26 18:54:06 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:06 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:06 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:06 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:06 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:06 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:06 --> Email Class Initialized
+INFO - 2020-04-26 18:54:06 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:06 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:06 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:07 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:07 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:07 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:07 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:07 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:07 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:07 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:07 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:07 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:07 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:07 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:07 --> Total execution time: 1.3193
+INFO - 2020-04-26 18:54:07 --> Config Class Initialized
+INFO - 2020-04-26 18:54:07 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:07 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:07 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:07 --> URI Class Initialized
+INFO - 2020-04-26 18:54:07 --> Router Class Initialized
+INFO - 2020-04-26 18:54:07 --> Output Class Initialized
+INFO - 2020-04-26 18:54:07 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:08 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:08 --> Input Class Initialized
+INFO - 2020-04-26 18:54:08 --> Language Class Initialized
+INFO - 2020-04-26 18:54:08 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:08 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:08 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:08 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:08 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:08 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:08 --> Email Class Initialized
+INFO - 2020-04-26 18:54:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:08 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:08 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:08 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:08 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:08 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:08 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:08 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:08 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:08 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:08 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:08 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:09 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:09 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:09 --> Total execution time: 1.4705
+INFO - 2020-04-26 18:54:09 --> Config Class Initialized
+INFO - 2020-04-26 18:54:09 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:09 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:09 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:09 --> URI Class Initialized
+INFO - 2020-04-26 18:54:09 --> Router Class Initialized
+INFO - 2020-04-26 18:54:09 --> Output Class Initialized
+INFO - 2020-04-26 18:54:09 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:09 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:09 --> Input Class Initialized
+INFO - 2020-04-26 18:54:09 --> Language Class Initialized
+INFO - 2020-04-26 18:54:09 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:09 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:09 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:09 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:09 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:10 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:10 --> Email Class Initialized
+INFO - 2020-04-26 18:54:10 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:10 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:10 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:10 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:10 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:10 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:10 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:10 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:10 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:10 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:10 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:10 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:10 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:10 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:10 --> Total execution time: 1.3718
+INFO - 2020-04-26 18:54:10 --> Config Class Initialized
+INFO - 2020-04-26 18:54:10 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:10 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:10 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:10 --> URI Class Initialized
+INFO - 2020-04-26 18:54:10 --> Router Class Initialized
+INFO - 2020-04-26 18:54:11 --> Output Class Initialized
+INFO - 2020-04-26 18:54:11 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:11 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:11 --> Input Class Initialized
+INFO - 2020-04-26 18:54:11 --> Language Class Initialized
+INFO - 2020-04-26 18:54:11 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:11 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:11 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:11 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:11 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:11 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:11 --> Email Class Initialized
+INFO - 2020-04-26 18:54:11 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:11 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:11 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:11 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:11 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:11 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:11 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:11 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:11 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:11 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:11 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:11 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:12 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:12 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:12 --> Total execution time: 1.2953
+INFO - 2020-04-26 18:54:12 --> Config Class Initialized
+INFO - 2020-04-26 18:54:12 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:12 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:12 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:12 --> URI Class Initialized
+INFO - 2020-04-26 18:54:12 --> Router Class Initialized
+INFO - 2020-04-26 18:54:12 --> Output Class Initialized
+INFO - 2020-04-26 18:54:12 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:12 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:12 --> Input Class Initialized
+INFO - 2020-04-26 18:54:12 --> Language Class Initialized
+INFO - 2020-04-26 18:54:12 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:12 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:12 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:12 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:12 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:12 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:13 --> Email Class Initialized
+INFO - 2020-04-26 18:54:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:13 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:13 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:13 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:13 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:13 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:13 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:13 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:13 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:13 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:13 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:13 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:13 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:13 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:13 --> Total execution time: 1.4822
+INFO - 2020-04-26 18:54:13 --> Config Class Initialized
+INFO - 2020-04-26 18:54:13 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:13 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:14 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:14 --> URI Class Initialized
+INFO - 2020-04-26 18:54:14 --> Router Class Initialized
+INFO - 2020-04-26 18:54:14 --> Output Class Initialized
+INFO - 2020-04-26 18:54:14 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:14 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:14 --> Input Class Initialized
+INFO - 2020-04-26 18:54:14 --> Language Class Initialized
+INFO - 2020-04-26 18:54:14 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:14 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:14 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:14 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:14 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:14 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:14 --> Email Class Initialized
+INFO - 2020-04-26 18:54:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:14 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:14 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:14 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:15 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:15 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:15 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:15 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:15 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:15 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:15 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:15 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:15 --> Model "Api_model" initialized
+ERROR - 2020-04-26 18:54:15 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Api' does not have a method 'index_get' C:\xampp\htdocs\dps\app\libraries\REST_Controller.php 739
+INFO - 2020-04-26 18:54:15 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:15 --> Total execution time: 1.5150
+INFO - 2020-04-26 18:54:15 --> Config Class Initialized
+INFO - 2020-04-26 18:54:15 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:15 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:15 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:15 --> URI Class Initialized
+INFO - 2020-04-26 18:54:15 --> Router Class Initialized
+INFO - 2020-04-26 18:54:15 --> Output Class Initialized
+INFO - 2020-04-26 18:54:15 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:15 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:16 --> Input Class Initialized
+INFO - 2020-04-26 18:54:16 --> Language Class Initialized
+INFO - 2020-04-26 18:54:16 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:16 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:16 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:16 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:16 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:16 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:16 --> Email Class Initialized
+INFO - 2020-04-26 18:54:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:16 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:16 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:16 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:16 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:16 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:16 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:16 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:16 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:16 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:16 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:16 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:16 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:16 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:17 --> Total execution time: 1.4501
+INFO - 2020-04-26 18:54:17 --> Config Class Initialized
+INFO - 2020-04-26 18:54:17 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:17 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:17 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:17 --> URI Class Initialized
+INFO - 2020-04-26 18:54:17 --> Router Class Initialized
+INFO - 2020-04-26 18:54:17 --> Output Class Initialized
+INFO - 2020-04-26 18:54:17 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:17 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:17 --> Input Class Initialized
+INFO - 2020-04-26 18:54:17 --> Language Class Initialized
+INFO - 2020-04-26 18:54:17 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:17 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:17 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:17 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:17 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:17 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:17 --> Email Class Initialized
+INFO - 2020-04-26 18:54:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:17 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:17 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:17 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:18 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:18 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:18 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:18 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:18 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:18 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:18 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:18 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:18 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:18 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:18 --> Total execution time: 1.2059
+ERROR - 2020-04-26 18:54:18 --> Severity: Notice --> Undefined variable: hash C:\xampp\htdocs\dps\app\views\layouthtml.php 30
+INFO - 2020-04-26 18:54:18 --> File loaded: C:\xampp\htdocs\dps\app\views\templates/homehtml.php
+INFO - 2020-04-26 18:54:18 --> File loaded: C:\xampp\htdocs\dps\app\views\layouthtml.php
+INFO - 2020-04-26 18:54:18 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:18 --> Total execution time: 22.9162
+INFO - 2020-04-26 18:54:18 --> Config Class Initialized
+INFO - 2020-04-26 18:54:18 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:19 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:19 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:19 --> URI Class Initialized
+INFO - 2020-04-26 18:54:19 --> Router Class Initialized
+INFO - 2020-04-26 18:54:19 --> Output Class Initialized
+INFO - 2020-04-26 18:54:19 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:19 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:19 --> Input Class Initialized
+INFO - 2020-04-26 18:54:19 --> Language Class Initialized
+ERROR - 2020-04-26 18:54:19 --> 404 Page Not Found: Assets/fonts
+INFO - 2020-04-26 18:54:19 --> Config Class Initialized
+INFO - 2020-04-26 18:54:19 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:19 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:19 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:19 --> URI Class Initialized
+INFO - 2020-04-26 18:54:19 --> Router Class Initialized
+INFO - 2020-04-26 18:54:19 --> Output Class Initialized
+INFO - 2020-04-26 18:54:19 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:19 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:19 --> Input Class Initialized
+INFO - 2020-04-26 18:54:19 --> Language Class Initialized
+ERROR - 2020-04-26 18:54:19 --> 404 Page Not Found: Assets/fonts
+INFO - 2020-04-26 18:54:24 --> Config Class Initialized
+INFO - 2020-04-26 18:54:24 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:24 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:24 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:24 --> URI Class Initialized
+INFO - 2020-04-26 18:54:24 --> Router Class Initialized
+INFO - 2020-04-26 18:54:24 --> Output Class Initialized
+INFO - 2020-04-26 18:54:24 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:24 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:24 --> Input Class Initialized
+INFO - 2020-04-26 18:54:24 --> Language Class Initialized
+INFO - 2020-04-26 18:54:25 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:25 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:25 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:25 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:25 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:25 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:25 --> Email Class Initialized
+INFO - 2020-04-26 18:54:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:25 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:25 --> Controller Class Initialized
+INFO - 2020-04-26 18:54:25 --> Helper loaded: utility_helper
+INFO - 2020-04-26 18:54:25 --> Helper loaded: language_helper
+INFO - 2020-04-26 18:54:25 --> Helper loaded: captcha_helper
+INFO - 2020-04-26 18:54:25 --> Config Class Initialized
+INFO - 2020-04-26 18:54:25 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:25 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:25 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:25 --> URI Class Initialized
+INFO - 2020-04-26 18:54:26 --> Router Class Initialized
+INFO - 2020-04-26 18:54:26 --> Output Class Initialized
+INFO - 2020-04-26 18:54:26 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:26 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:26 --> Input Class Initialized
+INFO - 2020-04-26 18:54:26 --> Language Class Initialized
+INFO - 2020-04-26 18:54:26 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:26 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:26 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:26 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:26 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:26 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:26 --> Email Class Initialized
+INFO - 2020-04-26 18:54:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:26 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:26 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:26 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:26 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:26 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:26 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:26 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:26 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:27 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:27 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:27 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:27 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:27 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:27 --> Total execution time: 1.4208
+DEBUG - 2020-04-26 18:54:27 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:27 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:27 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:27 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:27 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:27 --> Config Class Initialized
+INFO - 2020-04-26 18:54:27 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:27 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:27 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:27 --> URI Class Initialized
+INFO - 2020-04-26 18:54:27 --> Router Class Initialized
+INFO - 2020-04-26 18:54:27 --> Output Class Initialized
+INFO - 2020-04-26 18:54:27 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:27 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:27 --> Input Class Initialized
+INFO - 2020-04-26 18:54:28 --> Language Class Initialized
+INFO - 2020-04-26 18:54:28 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:28 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:28 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:28 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:28 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:28 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:28 --> Email Class Initialized
+INFO - 2020-04-26 18:54:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:28 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:28 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:28 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:28 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:28 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:28 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:28 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:28 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:28 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:28 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:28 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:28 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:28 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:28 --> Total execution time: 1.3674
+INFO - 2020-04-26 18:54:28 --> Config Class Initialized
+INFO - 2020-04-26 18:54:29 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:29 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:29 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:29 --> URI Class Initialized
+DEBUG - 2020-04-26 18:54:29 --> No URI present. Default controller set.
+INFO - 2020-04-26 18:54:29 --> Router Class Initialized
+INFO - 2020-04-26 18:54:29 --> Output Class Initialized
+INFO - 2020-04-26 18:54:29 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:29 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:29 --> Input Class Initialized
+INFO - 2020-04-26 18:54:29 --> Language Class Initialized
+INFO - 2020-04-26 18:54:29 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:29 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:29 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:29 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:29 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:29 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:29 --> Email Class Initialized
+INFO - 2020-04-26 18:54:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:29 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:29 --> Controller Class Initialized
+INFO - 2020-04-26 18:54:29 --> Helper loaded: utility_helper
+INFO - 2020-04-26 18:54:29 --> Helper loaded: language_helper
+INFO - 2020-04-26 18:54:30 --> Helper loaded: captcha_helper
+INFO - 2020-04-26 18:54:30 --> Config Class Initialized
+INFO - 2020-04-26 18:54:30 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:30 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:30 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:30 --> URI Class Initialized
+INFO - 2020-04-26 18:54:30 --> Router Class Initialized
+INFO - 2020-04-26 18:54:30 --> Output Class Initialized
+INFO - 2020-04-26 18:54:30 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:30 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:30 --> Input Class Initialized
+INFO - 2020-04-26 18:54:30 --> Language Class Initialized
+INFO - 2020-04-26 18:54:30 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:30 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:30 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:30 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:30 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:30 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:31 --> Email Class Initialized
+INFO - 2020-04-26 18:54:31 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:31 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:31 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:31 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:31 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:31 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:31 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:31 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:31 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:31 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:31 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:31 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:31 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:31 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:31 --> Total execution time: 1.4539
+DEBUG - 2020-04-26 18:54:31 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:31 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:31 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:31 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:31 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:31 --> Config Class Initialized
+INFO - 2020-04-26 18:54:31 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:32 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:32 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:32 --> URI Class Initialized
+INFO - 2020-04-26 18:54:32 --> Router Class Initialized
+INFO - 2020-04-26 18:54:32 --> Output Class Initialized
+INFO - 2020-04-26 18:54:32 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:32 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:32 --> Input Class Initialized
+INFO - 2020-04-26 18:54:32 --> Language Class Initialized
+INFO - 2020-04-26 18:54:32 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:32 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:32 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:32 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:32 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:32 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:32 --> Email Class Initialized
+INFO - 2020-04-26 18:54:32 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:32 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:32 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:32 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:32 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:33 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:33 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:33 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:33 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:33 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:33 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:33 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:33 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:33 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:33 --> Total execution time: 1.3918
+INFO - 2020-04-26 18:54:33 --> Config Class Initialized
+INFO - 2020-04-26 18:54:33 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:33 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:33 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:33 --> URI Class Initialized
+INFO - 2020-04-26 18:54:33 --> Router Class Initialized
+INFO - 2020-04-26 18:54:33 --> Output Class Initialized
+INFO - 2020-04-26 18:54:33 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:33 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:33 --> Input Class Initialized
+INFO - 2020-04-26 18:54:33 --> Language Class Initialized
+INFO - 2020-04-26 18:54:33 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:34 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:34 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:34 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:34 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:34 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:34 --> Email Class Initialized
+INFO - 2020-04-26 18:54:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:34 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:34 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:34 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:34 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:34 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:34 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:34 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:34 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:34 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:34 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:34 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:34 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:34 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:34 --> Total execution time: 1.4093
+INFO - 2020-04-26 18:54:35 --> Config Class Initialized
+INFO - 2020-04-26 18:54:35 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:35 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:35 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:35 --> URI Class Initialized
+INFO - 2020-04-26 18:54:35 --> Router Class Initialized
+INFO - 2020-04-26 18:54:35 --> Output Class Initialized
+INFO - 2020-04-26 18:54:35 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:35 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:35 --> Input Class Initialized
+INFO - 2020-04-26 18:54:35 --> Language Class Initialized
+INFO - 2020-04-26 18:54:35 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:35 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:35 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:35 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:35 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:35 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:35 --> Email Class Initialized
+INFO - 2020-04-26 18:54:35 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:35 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:35 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:36 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:36 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:36 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:36 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:36 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:36 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:36 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:36 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:36 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:36 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:36 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:36 --> Total execution time: 1.3879
+INFO - 2020-04-26 18:54:36 --> Config Class Initialized
+INFO - 2020-04-26 18:54:36 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:36 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:36 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:36 --> URI Class Initialized
+INFO - 2020-04-26 18:54:36 --> Router Class Initialized
+INFO - 2020-04-26 18:54:36 --> Output Class Initialized
+INFO - 2020-04-26 18:54:36 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:36 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:37 --> Input Class Initialized
+INFO - 2020-04-26 18:54:37 --> Language Class Initialized
+INFO - 2020-04-26 18:54:37 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:37 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:37 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:37 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:37 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:37 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:37 --> Email Class Initialized
+INFO - 2020-04-26 18:54:37 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:37 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:37 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:37 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:37 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:37 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:37 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:37 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:37 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:37 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:37 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:37 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:37 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:37 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:37 --> Total execution time: 1.3750
+INFO - 2020-04-26 18:54:38 --> Config Class Initialized
+INFO - 2020-04-26 18:54:38 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:38 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:38 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:38 --> URI Class Initialized
+INFO - 2020-04-26 18:54:38 --> Router Class Initialized
+INFO - 2020-04-26 18:54:38 --> Output Class Initialized
+INFO - 2020-04-26 18:54:38 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:38 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:38 --> Input Class Initialized
+INFO - 2020-04-26 18:54:38 --> Language Class Initialized
+INFO - 2020-04-26 18:54:38 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:38 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:38 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:38 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:38 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:38 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:38 --> Email Class Initialized
+INFO - 2020-04-26 18:54:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:38 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:38 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:39 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:39 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:39 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:39 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:39 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:39 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:39 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:39 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:39 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:39 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:39 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:39 --> Total execution time: 1.2334
+INFO - 2020-04-26 18:54:39 --> Config Class Initialized
+INFO - 2020-04-26 18:54:39 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:39 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:39 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:39 --> URI Class Initialized
+INFO - 2020-04-26 18:54:39 --> Router Class Initialized
+INFO - 2020-04-26 18:54:39 --> Output Class Initialized
+INFO - 2020-04-26 18:54:39 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:39 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:39 --> Input Class Initialized
+INFO - 2020-04-26 18:54:39 --> Language Class Initialized
+INFO - 2020-04-26 18:54:39 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:40 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:40 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:40 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:40 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:40 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:40 --> Email Class Initialized
+INFO - 2020-04-26 18:54:40 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:40 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:40 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:40 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:40 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:40 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:40 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:40 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:40 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:40 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:40 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:40 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:40 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:40 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:40 --> Total execution time: 1.3539
+INFO - 2020-04-26 18:54:41 --> Config Class Initialized
+INFO - 2020-04-26 18:54:41 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:41 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:41 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:41 --> URI Class Initialized
+INFO - 2020-04-26 18:54:41 --> Router Class Initialized
+INFO - 2020-04-26 18:54:41 --> Output Class Initialized
+INFO - 2020-04-26 18:54:41 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:41 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:41 --> Input Class Initialized
+INFO - 2020-04-26 18:54:41 --> Language Class Initialized
+INFO - 2020-04-26 18:54:41 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:41 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:41 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:41 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:41 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:41 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:41 --> Email Class Initialized
+INFO - 2020-04-26 18:54:42 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:42 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:42 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:42 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:42 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:42 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:42 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:42 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:42 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:42 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:42 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:42 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:42 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:42 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:42 --> Total execution time: 1.5704
+INFO - 2020-04-26 18:54:42 --> Config Class Initialized
+INFO - 2020-04-26 18:54:42 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:42 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:42 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:42 --> URI Class Initialized
+INFO - 2020-04-26 18:54:42 --> Router Class Initialized
+INFO - 2020-04-26 18:54:42 --> Output Class Initialized
+INFO - 2020-04-26 18:54:43 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:43 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:43 --> Input Class Initialized
+INFO - 2020-04-26 18:54:43 --> Language Class Initialized
+INFO - 2020-04-26 18:54:43 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:43 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:43 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:43 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:43 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:43 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:43 --> Email Class Initialized
+INFO - 2020-04-26 18:54:43 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:43 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:43 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:43 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:43 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:43 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:43 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:43 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:43 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:43 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:44 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:44 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:44 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:44 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:44 --> Total execution time: 1.4403
+INFO - 2020-04-26 18:54:44 --> Config Class Initialized
+INFO - 2020-04-26 18:54:44 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:44 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:44 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:44 --> URI Class Initialized
+INFO - 2020-04-26 18:54:44 --> Router Class Initialized
+INFO - 2020-04-26 18:54:44 --> Output Class Initialized
+INFO - 2020-04-26 18:54:44 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:44 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:44 --> Input Class Initialized
+INFO - 2020-04-26 18:54:44 --> Language Class Initialized
+INFO - 2020-04-26 18:54:44 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:44 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:44 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:45 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:45 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:45 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:45 --> Email Class Initialized
+INFO - 2020-04-26 18:54:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:45 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:45 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:45 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:45 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:45 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:45 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:45 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:45 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:45 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:45 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:45 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:45 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:45 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:45 --> Total execution time: 1.3882
+INFO - 2020-04-26 18:54:45 --> Config Class Initialized
+INFO - 2020-04-26 18:54:45 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:46 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:46 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:46 --> URI Class Initialized
+INFO - 2020-04-26 18:54:46 --> Router Class Initialized
+INFO - 2020-04-26 18:54:46 --> Output Class Initialized
+INFO - 2020-04-26 18:54:46 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:46 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:46 --> Input Class Initialized
+INFO - 2020-04-26 18:54:46 --> Language Class Initialized
+INFO - 2020-04-26 18:54:46 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:46 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:46 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:46 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:46 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:46 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:46 --> Email Class Initialized
+INFO - 2020-04-26 18:54:46 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:46 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:46 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:46 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:47 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:47 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:47 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:47 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:47 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:47 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:47 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:47 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:47 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:47 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:47 --> Total execution time: 1.4490
+INFO - 2020-04-26 18:54:47 --> Config Class Initialized
+INFO - 2020-04-26 18:54:47 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:47 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:47 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:47 --> URI Class Initialized
+INFO - 2020-04-26 18:54:47 --> Router Class Initialized
+INFO - 2020-04-26 18:54:47 --> Output Class Initialized
+INFO - 2020-04-26 18:54:47 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:47 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:47 --> Input Class Initialized
+INFO - 2020-04-26 18:54:47 --> Language Class Initialized
+INFO - 2020-04-26 18:54:47 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:48 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:48 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:48 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:48 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:48 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:48 --> Email Class Initialized
+INFO - 2020-04-26 18:54:48 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:48 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:48 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:48 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:48 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:48 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:48 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:48 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:48 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:48 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:48 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:48 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:48 --> Model "Api_model" initialized
+ERROR - 2020-04-26 18:54:48 --> Severity: Warning --> call_user_func_array() expects parameter 1 to be a valid callback, class 'Api' does not have a method 'index_get' C:\xampp\htdocs\dps\app\libraries\REST_Controller.php 739
+INFO - 2020-04-26 18:54:48 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:48 --> Total execution time: 1.4539
+INFO - 2020-04-26 18:54:49 --> Config Class Initialized
+INFO - 2020-04-26 18:54:49 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:49 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:49 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:49 --> URI Class Initialized
+INFO - 2020-04-26 18:54:49 --> Router Class Initialized
+INFO - 2020-04-26 18:54:49 --> Output Class Initialized
+INFO - 2020-04-26 18:54:49 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:49 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:49 --> Input Class Initialized
+INFO - 2020-04-26 18:54:49 --> Language Class Initialized
+INFO - 2020-04-26 18:54:49 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:49 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:49 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:49 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:49 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:49 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:49 --> Email Class Initialized
+INFO - 2020-04-26 18:54:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:49 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:50 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:50 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:50 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:50 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:50 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:50 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:50 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:50 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:50 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:50 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:50 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:50 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:50 --> Total execution time: 1.3793
+INFO - 2020-04-26 18:54:50 --> Config Class Initialized
+INFO - 2020-04-26 18:54:50 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:50 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:50 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:50 --> URI Class Initialized
+INFO - 2020-04-26 18:54:50 --> Router Class Initialized
+INFO - 2020-04-26 18:54:50 --> Output Class Initialized
+INFO - 2020-04-26 18:54:50 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:51 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:51 --> Input Class Initialized
+INFO - 2020-04-26 18:54:51 --> Language Class Initialized
+INFO - 2020-04-26 18:54:51 --> Loader Class Initialized
+INFO - 2020-04-26 18:54:51 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:54:51 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:54:51 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:54:51 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:54:51 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:51 --> Email Class Initialized
+INFO - 2020-04-26 18:54:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:54:51 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:54:51 --> Controller Class Initialized
+DEBUG - 2020-04-26 18:54:51 --> Config file loaded: C:\xampp\htdocs\dps\app\config/rest.php
+INFO - 2020-04-26 18:54:51 --> Helper loaded: inflector_helper
+INFO - 2020-04-26 18:54:51 --> Language file loaded: language/english/rest_controller_lang.php
+INFO - 2020-04-26 18:54:51 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:54:51 --> Helper loaded: utility_helper
+DEBUG - 2020-04-26 18:54:51 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:51 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:54:52 --> Config file loaded: C:\xampp\htdocs\dps\app\config/recaptcha.php
+INFO - 2020-04-26 18:54:52 --> MY_Model class loaded
+INFO - 2020-04-26 18:54:52 --> Model "Api_model" initialized
+INFO - 2020-04-26 18:54:52 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:52 --> Total execution time: 1.5564
+ERROR - 2020-04-26 18:54:52 --> Severity: Notice --> Undefined variable: hash C:\xampp\htdocs\dps\app\views\layouthtml.php 30
+INFO - 2020-04-26 18:54:52 --> File loaded: C:\xampp\htdocs\dps\app\views\templates/homehtml.php
+INFO - 2020-04-26 18:54:52 --> File loaded: C:\xampp\htdocs\dps\app\views\layouthtml.php
+INFO - 2020-04-26 18:54:52 --> Final output sent to browser
+DEBUG - 2020-04-26 18:54:52 --> Total execution time: 23.3793
+INFO - 2020-04-26 18:54:53 --> Config Class Initialized
+INFO - 2020-04-26 18:54:53 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:53 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:53 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:53 --> URI Class Initialized
+INFO - 2020-04-26 18:54:53 --> Router Class Initialized
+INFO - 2020-04-26 18:54:53 --> Output Class Initialized
+INFO - 2020-04-26 18:54:53 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:53 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:53 --> Input Class Initialized
+INFO - 2020-04-26 18:54:53 --> Language Class Initialized
+ERROR - 2020-04-26 18:54:53 --> 404 Page Not Found: Assets/fonts
+INFO - 2020-04-26 18:54:53 --> Config Class Initialized
+INFO - 2020-04-26 18:54:53 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:54:53 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:54:53 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:54:53 --> URI Class Initialized
+INFO - 2020-04-26 18:54:54 --> Router Class Initialized
+INFO - 2020-04-26 18:54:54 --> Output Class Initialized
+INFO - 2020-04-26 18:54:54 --> Security Class Initialized
+DEBUG - 2020-04-26 18:54:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:54:54 --> CSRF cookie sent
+INFO - 2020-04-26 18:54:54 --> Input Class Initialized
+INFO - 2020-04-26 18:54:54 --> Language Class Initialized
+ERROR - 2020-04-26 18:54:54 --> 404 Page Not Found: Assets/fonts
+INFO - 2020-04-26 18:55:58 --> Config Class Initialized
+INFO - 2020-04-26 18:55:58 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:55:58 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:55:58 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:55:58 --> URI Class Initialized
+DEBUG - 2020-04-26 18:55:58 --> No URI present. Default controller set.
+INFO - 2020-04-26 18:55:58 --> Router Class Initialized
+INFO - 2020-04-26 18:55:58 --> Output Class Initialized
+INFO - 2020-04-26 18:55:58 --> Security Class Initialized
+DEBUG - 2020-04-26 18:55:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:55:58 --> CSRF cookie sent
+INFO - 2020-04-26 18:55:58 --> Input Class Initialized
+INFO - 2020-04-26 18:55:59 --> Language Class Initialized
+INFO - 2020-04-26 18:55:59 --> Loader Class Initialized
+INFO - 2020-04-26 18:55:59 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:55:59 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:55:59 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:55:59 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:55:59 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:55:59 --> Email Class Initialized
+INFO - 2020-04-26 18:55:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:55:59 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:55:59 --> Controller Class Initialized
+INFO - 2020-04-26 18:55:59 --> Helper loaded: myadmin_helper
+DEBUG - 2020-04-26 18:55:59 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:55:59 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-04-26 18:55:59 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-04-26 18:55:59 --> Pagination Class Initialized
+INFO - 2020-04-26 18:55:59 --> MY_Model class loaded
+INFO - 2020-04-26 18:55:59 --> Model "Dashboard_model" initialized
+DEBUG - 2020-04-26 18:55:59 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:55:59 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-04-26 18:55:59 --> Helper loaded: captcha_helper
+INFO - 2020-04-26 18:56:00 --> File loaded: C:\xampp\htdocs\dps\app\views\loginhtml.php
+INFO - 2020-04-26 18:56:00 --> Final output sent to browser
+DEBUG - 2020-04-26 18:56:00 --> Total execution time: 1.5427
+INFO - 2020-04-26 18:56:00 --> Config Class Initialized
+INFO - 2020-04-26 18:56:00 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:56:01 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:56:01 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:56:01 --> URI Class Initialized
+INFO - 2020-04-26 18:56:01 --> Router Class Initialized
+INFO - 2020-04-26 18:56:01 --> Output Class Initialized
+INFO - 2020-04-26 18:56:01 --> Security Class Initialized
+DEBUG - 2020-04-26 18:56:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:56:01 --> CSRF cookie sent
+INFO - 2020-04-26 18:56:01 --> Input Class Initialized
+INFO - 2020-04-26 18:56:01 --> Language Class Initialized
+ERROR - 2020-04-26 18:56:01 --> 404 Page Not Found: Img/favicon.png
+INFO - 2020-04-26 18:56:11 --> Config Class Initialized
+INFO - 2020-04-26 18:56:11 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:56:11 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:56:11 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:56:11 --> URI Class Initialized
+INFO - 2020-04-26 18:56:12 --> Router Class Initialized
+INFO - 2020-04-26 18:56:12 --> Output Class Initialized
+INFO - 2020-04-26 18:56:12 --> Security Class Initialized
+DEBUG - 2020-04-26 18:56:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:56:12 --> CSRF cookie sent
+INFO - 2020-04-26 18:56:12 --> CSRF token verified
+INFO - 2020-04-26 18:56:12 --> Input Class Initialized
+INFO - 2020-04-26 18:56:12 --> Language Class Initialized
+INFO - 2020-04-26 18:56:12 --> Loader Class Initialized
+INFO - 2020-04-26 18:56:12 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:56:12 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:56:12 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:56:12 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:56:12 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:56:12 --> Email Class Initialized
+INFO - 2020-04-26 18:56:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:56:12 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:56:12 --> Controller Class Initialized
+INFO - 2020-04-26 18:56:12 --> Helper loaded: myadmin_helper
+DEBUG - 2020-04-26 18:56:12 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:56:12 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-04-26 18:56:12 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-04-26 18:56:12 --> Pagination Class Initialized
+INFO - 2020-04-26 18:56:12 --> MY_Model class loaded
+INFO - 2020-04-26 18:56:12 --> Model "Dashboard_model" initialized
+DEBUG - 2020-04-26 18:56:12 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:56:12 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-04-26 18:56:12 --> Helper loaded: captcha_helper
+INFO - 2020-04-26 18:56:13 --> Language file loaded: language/en/form_validation_lang.php
+INFO - 2020-04-26 18:56:13 --> Config Class Initialized
+INFO - 2020-04-26 18:56:13 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:56:13 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:56:13 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:56:13 --> URI Class Initialized
+INFO - 2020-04-26 18:56:13 --> Router Class Initialized
+INFO - 2020-04-26 18:56:13 --> Output Class Initialized
+INFO - 2020-04-26 18:56:13 --> Security Class Initialized
+DEBUG - 2020-04-26 18:56:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:56:13 --> CSRF cookie sent
+INFO - 2020-04-26 18:56:13 --> Input Class Initialized
+INFO - 2020-04-26 18:56:13 --> Language Class Initialized
+INFO - 2020-04-26 18:56:13 --> Loader Class Initialized
+INFO - 2020-04-26 18:56:13 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:56:13 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:56:14 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:56:14 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:56:14 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:56:14 --> Email Class Initialized
+INFO - 2020-04-26 18:56:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:56:14 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:56:14 --> Controller Class Initialized
+INFO - 2020-04-26 18:56:14 --> Helper loaded: myadmin_helper
+DEBUG - 2020-04-26 18:56:14 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:56:14 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-04-26 18:56:14 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-04-26 18:56:14 --> Pagination Class Initialized
+INFO - 2020-04-26 18:56:14 --> MY_Model class loaded
+INFO - 2020-04-26 18:56:14 --> Model "Dashboard_model" initialized
+INFO - 2020-04-26 18:56:15 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/headerhtml.php
+INFO - 2020-04-26 18:56:15 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/cmspageslisthtml.php
+INFO - 2020-04-26 18:56:16 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/footerhtml.php
+INFO - 2020-04-26 18:56:16 --> Final output sent to browser
+DEBUG - 2020-04-26 18:56:16 --> Total execution time: 2.8845
+INFO - 2020-04-26 18:56:16 --> Config Class Initialized
+INFO - 2020-04-26 18:56:16 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:56:16 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:56:16 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:56:17 --> URI Class Initialized
+INFO - 2020-04-26 18:56:17 --> Router Class Initialized
+INFO - 2020-04-26 18:56:17 --> Output Class Initialized
+INFO - 2020-04-26 18:56:17 --> Security Class Initialized
+DEBUG - 2020-04-26 18:56:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:56:17 --> CSRF cookie sent
+INFO - 2020-04-26 18:56:17 --> Input Class Initialized
+INFO - 2020-04-26 18:56:17 --> Language Class Initialized
+ERROR - 2020-04-26 18:56:17 --> 404 Page Not Found: administrator/Img/favicon.png
+INFO - 2020-04-26 18:56:27 --> Config Class Initialized
+INFO - 2020-04-26 18:56:27 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:56:27 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:56:27 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:56:27 --> URI Class Initialized
+INFO - 2020-04-26 18:56:27 --> Router Class Initialized
+INFO - 2020-04-26 18:56:27 --> Output Class Initialized
+INFO - 2020-04-26 18:56:27 --> Security Class Initialized
+DEBUG - 2020-04-26 18:56:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:56:27 --> CSRF cookie sent
+INFO - 2020-04-26 18:56:27 --> Input Class Initialized
+INFO - 2020-04-26 18:56:27 --> Language Class Initialized
+INFO - 2020-04-26 18:56:27 --> Loader Class Initialized
+INFO - 2020-04-26 18:56:27 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:56:28 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:56:28 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:56:28 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:56:28 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:56:28 --> Email Class Initialized
+INFO - 2020-04-26 18:56:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:56:28 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:56:28 --> Controller Class Initialized
+INFO - 2020-04-26 18:56:28 --> Helper loaded: myadmin_helper
+DEBUG - 2020-04-26 18:56:28 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:56:28 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-04-26 18:56:28 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-04-26 18:56:28 --> Pagination Class Initialized
+INFO - 2020-04-26 18:56:28 --> MY_Model class loaded
+INFO - 2020-04-26 18:56:28 --> Model "Dashboard_model" initialized
+INFO - 2020-04-26 18:56:28 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/headerhtml.php
+INFO - 2020-04-26 18:56:28 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/addbloghtml.php
+INFO - 2020-04-26 18:56:28 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/footerhtml.php
+INFO - 2020-04-26 18:56:28 --> Final output sent to browser
+DEBUG - 2020-04-26 18:56:28 --> Total execution time: 1.3815
+INFO - 2020-04-26 18:56:33 --> Config Class Initialized
+INFO - 2020-04-26 18:56:33 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:56:33 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:56:33 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:56:33 --> URI Class Initialized
+INFO - 2020-04-26 18:56:34 --> Router Class Initialized
+INFO - 2020-04-26 18:56:34 --> Output Class Initialized
+INFO - 2020-04-26 18:56:34 --> Security Class Initialized
+DEBUG - 2020-04-26 18:56:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:56:34 --> CSRF cookie sent
+INFO - 2020-04-26 18:56:34 --> Input Class Initialized
+INFO - 2020-04-26 18:56:34 --> Language Class Initialized
+INFO - 2020-04-26 18:56:34 --> Loader Class Initialized
+INFO - 2020-04-26 18:56:34 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:56:34 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:56:34 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:56:34 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:56:34 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:56:34 --> Email Class Initialized
+INFO - 2020-04-26 18:56:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:56:34 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:56:34 --> Controller Class Initialized
+INFO - 2020-04-26 18:56:34 --> Helper loaded: myadmin_helper
+DEBUG - 2020-04-26 18:56:34 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:56:34 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-04-26 18:56:34 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-04-26 18:56:34 --> Pagination Class Initialized
+INFO - 2020-04-26 18:56:34 --> MY_Model class loaded
+INFO - 2020-04-26 18:56:34 --> Model "Dashboard_model" initialized
+INFO - 2020-04-26 18:56:34 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/headerhtml.php
+INFO - 2020-04-26 18:56:35 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/blogpageshtml.php
+INFO - 2020-04-26 18:56:35 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/footerhtml.php
+INFO - 2020-04-26 18:56:35 --> Final output sent to browser
+DEBUG - 2020-04-26 18:56:35 --> Total execution time: 1.3413
+INFO - 2020-04-26 18:56:35 --> Config Class Initialized
+INFO - 2020-04-26 18:56:35 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:56:35 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:56:35 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:56:35 --> URI Class Initialized
+INFO - 2020-04-26 18:56:35 --> Router Class Initialized
+INFO - 2020-04-26 18:56:35 --> Output Class Initialized
+INFO - 2020-04-26 18:56:35 --> Security Class Initialized
+DEBUG - 2020-04-26 18:56:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:56:36 --> CSRF cookie sent
+INFO - 2020-04-26 18:56:36 --> Input Class Initialized
+INFO - 2020-04-26 18:56:36 --> Language Class Initialized
+ERROR - 2020-04-26 18:56:36 --> 404 Page Not Found: administrator/Dashboard/img
+INFO - 2020-04-26 18:56:41 --> Config Class Initialized
+INFO - 2020-04-26 18:56:41 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:56:41 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:56:41 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:56:41 --> URI Class Initialized
+INFO - 2020-04-26 18:56:41 --> Router Class Initialized
+INFO - 2020-04-26 18:56:41 --> Output Class Initialized
+INFO - 2020-04-26 18:56:41 --> Security Class Initialized
+DEBUG - 2020-04-26 18:56:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:56:41 --> CSRF cookie sent
+INFO - 2020-04-26 18:56:41 --> Input Class Initialized
+INFO - 2020-04-26 18:56:41 --> Language Class Initialized
+INFO - 2020-04-26 18:56:41 --> Loader Class Initialized
+INFO - 2020-04-26 18:56:41 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:56:41 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:56:41 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:56:41 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:56:41 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:56:41 --> Email Class Initialized
+INFO - 2020-04-26 18:56:41 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:56:41 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:56:41 --> Controller Class Initialized
+INFO - 2020-04-26 18:56:42 --> Helper loaded: myadmin_helper
+DEBUG - 2020-04-26 18:56:42 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:56:42 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-04-26 18:56:42 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-04-26 18:56:42 --> Pagination Class Initialized
+INFO - 2020-04-26 18:56:42 --> MY_Model class loaded
+INFO - 2020-04-26 18:56:42 --> Model "Dashboard_model" initialized
+INFO - 2020-04-26 18:56:42 --> Final output sent to browser
+DEBUG - 2020-04-26 18:56:42 --> Total execution time: 0.9943
+INFO - 2020-04-26 18:56:45 --> Config Class Initialized
+INFO - 2020-04-26 18:56:45 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:56:45 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:56:45 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:56:45 --> URI Class Initialized
+INFO - 2020-04-26 18:56:45 --> Router Class Initialized
+INFO - 2020-04-26 18:56:45 --> Output Class Initialized
+INFO - 2020-04-26 18:56:45 --> Security Class Initialized
+DEBUG - 2020-04-26 18:56:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:56:45 --> CSRF cookie sent
+INFO - 2020-04-26 18:56:45 --> Input Class Initialized
+INFO - 2020-04-26 18:56:45 --> Language Class Initialized
+INFO - 2020-04-26 18:56:45 --> Loader Class Initialized
+INFO - 2020-04-26 18:56:45 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:56:45 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:56:45 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:56:45 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:56:45 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:56:45 --> Email Class Initialized
+INFO - 2020-04-26 18:56:45 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:56:45 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:56:45 --> Controller Class Initialized
+INFO - 2020-04-26 18:56:46 --> Helper loaded: myadmin_helper
+DEBUG - 2020-04-26 18:56:46 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:56:46 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-04-26 18:56:46 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-04-26 18:56:46 --> Pagination Class Initialized
+INFO - 2020-04-26 18:56:46 --> MY_Model class loaded
+INFO - 2020-04-26 18:56:46 --> Model "Dashboard_model" initialized
+INFO - 2020-04-26 18:56:46 --> Final output sent to browser
+DEBUG - 2020-04-26 18:56:46 --> Total execution time: 1.0828
+INFO - 2020-04-26 18:56:49 --> Config Class Initialized
+INFO - 2020-04-26 18:56:49 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:56:49 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:56:49 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:56:49 --> URI Class Initialized
+INFO - 2020-04-26 18:56:49 --> Router Class Initialized
+INFO - 2020-04-26 18:56:49 --> Output Class Initialized
+INFO - 2020-04-26 18:56:49 --> Security Class Initialized
+DEBUG - 2020-04-26 18:56:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:56:49 --> CSRF cookie sent
+INFO - 2020-04-26 18:56:49 --> Input Class Initialized
+INFO - 2020-04-26 18:56:49 --> Language Class Initialized
+INFO - 2020-04-26 18:56:49 --> Loader Class Initialized
+INFO - 2020-04-26 18:56:49 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:56:49 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:56:49 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:56:49 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:56:49 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:56:49 --> Email Class Initialized
+INFO - 2020-04-26 18:56:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:56:49 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:56:49 --> Controller Class Initialized
+INFO - 2020-04-26 18:56:49 --> Helper loaded: myadmin_helper
+DEBUG - 2020-04-26 18:56:49 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:56:50 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-04-26 18:56:50 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-04-26 18:56:50 --> Pagination Class Initialized
+INFO - 2020-04-26 18:56:50 --> MY_Model class loaded
+INFO - 2020-04-26 18:56:50 --> Model "Dashboard_model" initialized
+INFO - 2020-04-26 18:56:50 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/headerhtml.php
+INFO - 2020-04-26 18:56:50 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/addbloghtml.php
+INFO - 2020-04-26 18:56:50 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/footerhtml.php
+INFO - 2020-04-26 18:56:50 --> Final output sent to browser
+DEBUG - 2020-04-26 18:56:50 --> Total execution time: 1.2532
+INFO - 2020-04-26 18:56:52 --> Config Class Initialized
+INFO - 2020-04-26 18:56:52 --> Hooks Class Initialized
+DEBUG - 2020-04-26 18:56:52 --> UTF-8 Support Enabled
+INFO - 2020-04-26 18:56:52 --> Utf8 Class Initialized
+INFO - 2020-04-26 18:56:52 --> URI Class Initialized
+INFO - 2020-04-26 18:56:52 --> Router Class Initialized
+INFO - 2020-04-26 18:56:52 --> Output Class Initialized
+INFO - 2020-04-26 18:56:52 --> Security Class Initialized
+DEBUG - 2020-04-26 18:56:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-04-26 18:56:52 --> CSRF cookie sent
+INFO - 2020-04-26 18:56:52 --> Input Class Initialized
+INFO - 2020-04-26 18:56:52 --> Language Class Initialized
+INFO - 2020-04-26 18:56:52 --> Loader Class Initialized
+INFO - 2020-04-26 18:56:52 --> Helper loaded: url_helper
+INFO - 2020-04-26 18:56:52 --> Helper loaded: file_helper
+INFO - 2020-04-26 18:56:52 --> Helper loaded: form_helper
+INFO - 2020-04-26 18:56:53 --> Helper loaded: security_helper
+INFO - 2020-04-26 18:56:53 --> Database Driver Class Initialized
+INFO - 2020-04-26 18:56:53 --> Email Class Initialized
+INFO - 2020-04-26 18:56:53 --> Session: Class initialized using 'files' driver.
+INFO - 2020-04-26 18:56:53 --> Form Validation Class Initialized
+INFO - 2020-04-26 18:56:53 --> Controller Class Initialized
+INFO - 2020-04-26 18:56:53 --> Helper loaded: myadmin_helper
+DEBUG - 2020-04-26 18:56:53 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-04-26 18:56:53 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-04-26 18:56:53 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-04-26 18:56:53 --> Pagination Class Initialized
+INFO - 2020-04-26 18:56:53 --> MY_Model class loaded
+INFO - 2020-04-26 18:56:53 --> Model "Dashboard_model" initialized
+INFO - 2020-04-26 18:56:53 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/headerhtml.php
+INFO - 2020-04-26 18:56:53 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/addbloghtml.php
+INFO - 2020-04-26 18:56:53 --> File loaded: C:\xampp\htdocs\dps\app\views\administrator/footerhtml.php
+INFO - 2020-04-26 18:56:53 --> Final output sent to browser
+DEBUG - 2020-04-26 18:56:53 --> Total execution time: 1.0640

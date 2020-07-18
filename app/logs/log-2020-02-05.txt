@@ -1,0 +1,1536 @@
+INFO - 2020-02-05 11:22:38 --> Config Class Initialized
+INFO - 2020-02-05 11:22:38 --> Hooks Class Initialized
+DEBUG - 2020-02-05 11:22:38 --> UTF-8 Support Enabled
+INFO - 2020-02-05 11:22:38 --> Utf8 Class Initialized
+INFO - 2020-02-05 11:22:38 --> URI Class Initialized
+INFO - 2020-02-05 11:22:38 --> Router Class Initialized
+INFO - 2020-02-05 11:22:38 --> Output Class Initialized
+INFO - 2020-02-05 11:22:38 --> Security Class Initialized
+DEBUG - 2020-02-05 11:22:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 11:22:38 --> CSRF cookie sent
+INFO - 2020-02-05 11:22:38 --> Input Class Initialized
+INFO - 2020-02-05 11:22:38 --> Language Class Initialized
+INFO - 2020-02-05 11:22:38 --> Loader Class Initialized
+INFO - 2020-02-05 11:22:38 --> Helper loaded: url_helper
+INFO - 2020-02-05 11:22:38 --> Helper loaded: file_helper
+INFO - 2020-02-05 11:22:38 --> Helper loaded: form_helper
+INFO - 2020-02-05 11:22:38 --> Helper loaded: security_helper
+INFO - 2020-02-05 11:22:38 --> Database Driver Class Initialized
+INFO - 2020-02-05 11:22:39 --> Email Class Initialized
+INFO - 2020-02-05 11:22:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 11:22:39 --> Form Validation Class Initialized
+INFO - 2020-02-05 11:22:39 --> Controller Class Initialized
+INFO - 2020-02-05 11:22:39 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 11:22:39 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 11:22:39 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 11:22:39 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 11:22:39 --> Pagination Class Initialized
+INFO - 2020-02-05 11:22:39 --> MY_Model class loaded
+INFO - 2020-02-05 11:22:39 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 11:22:39 --> Config Class Initialized
+INFO - 2020-02-05 11:22:39 --> Hooks Class Initialized
+DEBUG - 2020-02-05 11:22:39 --> UTF-8 Support Enabled
+INFO - 2020-02-05 11:22:39 --> Utf8 Class Initialized
+INFO - 2020-02-05 11:22:39 --> URI Class Initialized
+DEBUG - 2020-02-05 11:22:39 --> No URI present. Default controller set.
+INFO - 2020-02-05 11:22:39 --> Router Class Initialized
+INFO - 2020-02-05 11:22:39 --> Output Class Initialized
+INFO - 2020-02-05 11:22:39 --> Security Class Initialized
+DEBUG - 2020-02-05 11:22:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 11:22:39 --> CSRF cookie sent
+INFO - 2020-02-05 11:22:39 --> Input Class Initialized
+INFO - 2020-02-05 11:22:39 --> Language Class Initialized
+INFO - 2020-02-05 11:22:39 --> Loader Class Initialized
+INFO - 2020-02-05 11:22:39 --> Helper loaded: url_helper
+INFO - 2020-02-05 11:22:39 --> Helper loaded: file_helper
+INFO - 2020-02-05 11:22:39 --> Helper loaded: form_helper
+INFO - 2020-02-05 11:22:39 --> Helper loaded: security_helper
+INFO - 2020-02-05 11:22:39 --> Database Driver Class Initialized
+INFO - 2020-02-05 11:22:39 --> Email Class Initialized
+INFO - 2020-02-05 11:22:39 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 11:22:39 --> Form Validation Class Initialized
+INFO - 2020-02-05 11:22:39 --> Controller Class Initialized
+INFO - 2020-02-05 11:22:39 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 11:22:39 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 11:22:39 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 11:22:39 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 11:22:39 --> Pagination Class Initialized
+INFO - 2020-02-05 11:22:39 --> MY_Model class loaded
+INFO - 2020-02-05 11:22:39 --> Model "Dashboard_model" initialized
+DEBUG - 2020-02-05 11:22:39 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 11:22:39 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 11:22:39 --> Helper loaded: captcha_helper
+INFO - 2020-02-05 11:22:40 --> File loaded: C:\laragon\www\hira\app\views\loginhtml.php
+INFO - 2020-02-05 11:22:40 --> Final output sent to browser
+DEBUG - 2020-02-05 11:22:40 --> Total execution time: 0.4734
+INFO - 2020-02-05 11:22:40 --> Config Class Initialized
+INFO - 2020-02-05 11:22:40 --> Hooks Class Initialized
+DEBUG - 2020-02-05 11:22:40 --> UTF-8 Support Enabled
+INFO - 2020-02-05 11:22:40 --> Utf8 Class Initialized
+INFO - 2020-02-05 11:22:40 --> URI Class Initialized
+INFO - 2020-02-05 11:22:40 --> Router Class Initialized
+INFO - 2020-02-05 11:22:40 --> Output Class Initialized
+INFO - 2020-02-05 11:22:40 --> Security Class Initialized
+DEBUG - 2020-02-05 11:22:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 11:22:40 --> CSRF cookie sent
+INFO - 2020-02-05 11:22:40 --> Input Class Initialized
+INFO - 2020-02-05 11:22:40 --> Language Class Initialized
+ERROR - 2020-02-05 11:22:40 --> 404 Page Not Found: Img/favicon.png
+INFO - 2020-02-05 11:22:43 --> Config Class Initialized
+INFO - 2020-02-05 11:22:43 --> Hooks Class Initialized
+DEBUG - 2020-02-05 11:22:43 --> UTF-8 Support Enabled
+INFO - 2020-02-05 11:22:43 --> Utf8 Class Initialized
+INFO - 2020-02-05 11:22:43 --> URI Class Initialized
+DEBUG - 2020-02-05 11:22:43 --> No URI present. Default controller set.
+INFO - 2020-02-05 11:22:43 --> Router Class Initialized
+INFO - 2020-02-05 11:22:43 --> Output Class Initialized
+INFO - 2020-02-05 11:22:43 --> Security Class Initialized
+DEBUG - 2020-02-05 11:22:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 11:22:43 --> CSRF cookie sent
+INFO - 2020-02-05 11:22:43 --> Input Class Initialized
+INFO - 2020-02-05 11:22:43 --> Language Class Initialized
+INFO - 2020-02-05 11:22:43 --> Loader Class Initialized
+INFO - 2020-02-05 11:22:43 --> Helper loaded: url_helper
+INFO - 2020-02-05 11:22:43 --> Helper loaded: file_helper
+INFO - 2020-02-05 11:22:43 --> Helper loaded: form_helper
+INFO - 2020-02-05 11:22:43 --> Helper loaded: security_helper
+INFO - 2020-02-05 11:22:43 --> Database Driver Class Initialized
+INFO - 2020-02-05 11:22:43 --> Email Class Initialized
+INFO - 2020-02-05 11:22:43 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 11:22:43 --> Form Validation Class Initialized
+INFO - 2020-02-05 11:22:43 --> Controller Class Initialized
+INFO - 2020-02-05 11:22:43 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 11:22:43 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 11:22:43 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 11:22:43 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 11:22:43 --> Pagination Class Initialized
+INFO - 2020-02-05 11:22:43 --> MY_Model class loaded
+INFO - 2020-02-05 11:22:43 --> Model "Dashboard_model" initialized
+DEBUG - 2020-02-05 11:22:43 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 11:22:43 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 11:22:43 --> Helper loaded: captcha_helper
+INFO - 2020-02-05 11:22:43 --> File loaded: C:\laragon\www\hira\app\views\loginhtml.php
+INFO - 2020-02-05 11:22:43 --> Final output sent to browser
+DEBUG - 2020-02-05 11:22:43 --> Total execution time: 0.3273
+INFO - 2020-02-05 11:22:52 --> Config Class Initialized
+INFO - 2020-02-05 11:22:52 --> Hooks Class Initialized
+DEBUG - 2020-02-05 11:22:52 --> UTF-8 Support Enabled
+INFO - 2020-02-05 11:22:52 --> Utf8 Class Initialized
+INFO - 2020-02-05 11:22:52 --> URI Class Initialized
+INFO - 2020-02-05 11:22:52 --> Router Class Initialized
+INFO - 2020-02-05 11:22:52 --> Output Class Initialized
+INFO - 2020-02-05 11:22:53 --> Security Class Initialized
+DEBUG - 2020-02-05 11:22:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 11:22:53 --> CSRF cookie sent
+INFO - 2020-02-05 11:22:53 --> CSRF token verified
+INFO - 2020-02-05 11:22:53 --> Input Class Initialized
+INFO - 2020-02-05 11:22:53 --> Language Class Initialized
+INFO - 2020-02-05 11:22:53 --> Loader Class Initialized
+INFO - 2020-02-05 11:22:53 --> Helper loaded: url_helper
+INFO - 2020-02-05 11:22:53 --> Helper loaded: file_helper
+INFO - 2020-02-05 11:22:53 --> Helper loaded: form_helper
+INFO - 2020-02-05 11:22:53 --> Helper loaded: security_helper
+INFO - 2020-02-05 11:22:53 --> Database Driver Class Initialized
+INFO - 2020-02-05 11:22:53 --> Email Class Initialized
+INFO - 2020-02-05 11:22:53 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 11:22:53 --> Form Validation Class Initialized
+INFO - 2020-02-05 11:22:53 --> Controller Class Initialized
+INFO - 2020-02-05 11:22:53 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 11:22:53 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 11:22:53 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 11:22:53 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 11:22:53 --> Pagination Class Initialized
+INFO - 2020-02-05 11:22:53 --> MY_Model class loaded
+INFO - 2020-02-05 11:22:53 --> Model "Dashboard_model" initialized
+DEBUG - 2020-02-05 11:22:53 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 11:22:53 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 11:22:53 --> Helper loaded: captcha_helper
+INFO - 2020-02-05 11:22:53 --> Language file loaded: language/en/form_validation_lang.php
+INFO - 2020-02-05 11:22:53 --> Config Class Initialized
+INFO - 2020-02-05 11:22:53 --> Hooks Class Initialized
+DEBUG - 2020-02-05 11:22:53 --> UTF-8 Support Enabled
+INFO - 2020-02-05 11:22:53 --> Utf8 Class Initialized
+INFO - 2020-02-05 11:22:53 --> URI Class Initialized
+INFO - 2020-02-05 11:22:53 --> Router Class Initialized
+INFO - 2020-02-05 11:22:53 --> Output Class Initialized
+INFO - 2020-02-05 11:22:53 --> Security Class Initialized
+DEBUG - 2020-02-05 11:22:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 11:22:53 --> CSRF cookie sent
+INFO - 2020-02-05 11:22:53 --> Input Class Initialized
+INFO - 2020-02-05 11:22:53 --> Language Class Initialized
+INFO - 2020-02-05 11:22:53 --> Loader Class Initialized
+INFO - 2020-02-05 11:22:53 --> Helper loaded: url_helper
+INFO - 2020-02-05 11:22:53 --> Helper loaded: file_helper
+INFO - 2020-02-05 11:22:53 --> Helper loaded: form_helper
+INFO - 2020-02-05 11:22:53 --> Helper loaded: security_helper
+INFO - 2020-02-05 11:22:53 --> Database Driver Class Initialized
+INFO - 2020-02-05 11:22:53 --> Email Class Initialized
+INFO - 2020-02-05 11:22:53 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 11:22:53 --> Form Validation Class Initialized
+INFO - 2020-02-05 11:22:53 --> Controller Class Initialized
+INFO - 2020-02-05 11:22:53 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 11:22:53 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 11:22:53 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 11:22:53 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 11:22:53 --> Pagination Class Initialized
+INFO - 2020-02-05 11:22:53 --> MY_Model class loaded
+INFO - 2020-02-05 11:22:53 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 11:22:53 --> File loaded: C:\laragon\www\hira\app\views\administrator/headerhtml.php
+INFO - 2020-02-05 11:22:53 --> File loaded: C:\laragon\www\hira\app\views\administrator/cmspageslisthtml.php
+INFO - 2020-02-05 11:22:54 --> File loaded: C:\laragon\www\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 11:22:54 --> Final output sent to browser
+DEBUG - 2020-02-05 11:22:54 --> Total execution time: 0.4442
+INFO - 2020-02-05 11:22:54 --> Config Class Initialized
+INFO - 2020-02-05 11:22:54 --> Hooks Class Initialized
+DEBUG - 2020-02-05 11:22:54 --> UTF-8 Support Enabled
+INFO - 2020-02-05 11:22:54 --> Utf8 Class Initialized
+INFO - 2020-02-05 11:22:54 --> URI Class Initialized
+INFO - 2020-02-05 11:22:54 --> Router Class Initialized
+INFO - 2020-02-05 11:22:54 --> Output Class Initialized
+INFO - 2020-02-05 11:22:54 --> Security Class Initialized
+DEBUG - 2020-02-05 11:22:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 11:22:54 --> CSRF cookie sent
+INFO - 2020-02-05 11:22:54 --> Input Class Initialized
+INFO - 2020-02-05 11:22:54 --> Language Class Initialized
+ERROR - 2020-02-05 11:22:54 --> 404 Page Not Found: administrator/Img/favicon.png
+INFO - 2020-02-05 11:22:57 --> Config Class Initialized
+INFO - 2020-02-05 11:22:57 --> Hooks Class Initialized
+DEBUG - 2020-02-05 11:22:57 --> UTF-8 Support Enabled
+INFO - 2020-02-05 11:22:57 --> Utf8 Class Initialized
+INFO - 2020-02-05 11:22:57 --> URI Class Initialized
+INFO - 2020-02-05 11:22:57 --> Router Class Initialized
+INFO - 2020-02-05 11:22:57 --> Output Class Initialized
+INFO - 2020-02-05 11:22:57 --> Security Class Initialized
+DEBUG - 2020-02-05 11:22:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 11:22:57 --> CSRF cookie sent
+INFO - 2020-02-05 11:22:57 --> Input Class Initialized
+INFO - 2020-02-05 11:22:57 --> Language Class Initialized
+INFO - 2020-02-05 11:22:57 --> Loader Class Initialized
+INFO - 2020-02-05 11:22:57 --> Helper loaded: url_helper
+INFO - 2020-02-05 11:22:57 --> Helper loaded: file_helper
+INFO - 2020-02-05 11:22:57 --> Helper loaded: form_helper
+INFO - 2020-02-05 11:22:57 --> Helper loaded: security_helper
+INFO - 2020-02-05 11:22:57 --> Database Driver Class Initialized
+INFO - 2020-02-05 11:22:57 --> Email Class Initialized
+INFO - 2020-02-05 11:22:57 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 11:22:57 --> Form Validation Class Initialized
+INFO - 2020-02-05 11:22:57 --> Controller Class Initialized
+INFO - 2020-02-05 11:22:57 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 11:22:57 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 11:22:57 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 11:22:57 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 11:22:57 --> Pagination Class Initialized
+INFO - 2020-02-05 11:22:57 --> MY_Model class loaded
+INFO - 2020-02-05 11:22:57 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 11:22:57 --> File loaded: C:\laragon\www\hira\app\views\administrator/headerhtml.php
+INFO - 2020-02-05 11:22:57 --> File loaded: C:\laragon\www\hira\app\views\administrator/addalbumsimageshtml.php
+INFO - 2020-02-05 11:22:57 --> File loaded: C:\laragon\www\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 11:22:57 --> Final output sent to browser
+DEBUG - 2020-02-05 11:22:57 --> Total execution time: 0.2576
+INFO - 2020-02-05 11:23:01 --> Config Class Initialized
+INFO - 2020-02-05 11:23:01 --> Hooks Class Initialized
+DEBUG - 2020-02-05 11:23:01 --> UTF-8 Support Enabled
+INFO - 2020-02-05 11:23:01 --> Utf8 Class Initialized
+INFO - 2020-02-05 11:23:01 --> URI Class Initialized
+INFO - 2020-02-05 11:23:01 --> Router Class Initialized
+INFO - 2020-02-05 11:23:01 --> Output Class Initialized
+INFO - 2020-02-05 11:23:01 --> Security Class Initialized
+DEBUG - 2020-02-05 11:23:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 11:23:01 --> CSRF cookie sent
+INFO - 2020-02-05 11:23:01 --> Input Class Initialized
+INFO - 2020-02-05 11:23:01 --> Language Class Initialized
+ERROR - 2020-02-05 11:23:01 --> 404 Page Not Found: administrator/Dashboard/img
+INFO - 2020-02-05 11:23:13 --> Config Class Initialized
+INFO - 2020-02-05 11:23:13 --> Hooks Class Initialized
+INFO - 2020-02-05 11:23:13 --> Config Class Initialized
+INFO - 2020-02-05 11:23:13 --> Hooks Class Initialized
+DEBUG - 2020-02-05 11:23:13 --> UTF-8 Support Enabled
+DEBUG - 2020-02-05 11:23:13 --> UTF-8 Support Enabled
+INFO - 2020-02-05 11:23:13 --> Utf8 Class Initialized
+INFO - 2020-02-05 11:23:13 --> URI Class Initialized
+INFO - 2020-02-05 11:23:13 --> Utf8 Class Initialized
+INFO - 2020-02-05 11:23:13 --> Router Class Initialized
+INFO - 2020-02-05 11:23:13 --> URI Class Initialized
+INFO - 2020-02-05 11:23:13 --> Output Class Initialized
+INFO - 2020-02-05 11:23:13 --> Router Class Initialized
+INFO - 2020-02-05 11:23:13 --> Security Class Initialized
+INFO - 2020-02-05 11:23:13 --> Output Class Initialized
+DEBUG - 2020-02-05 11:23:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 11:23:13 --> CSRF cookie sent
+INFO - 2020-02-05 11:23:13 --> CSRF token verified
+INFO - 2020-02-05 11:23:13 --> Security Class Initialized
+INFO - 2020-02-05 11:23:13 --> Input Class Initialized
+INFO - 2020-02-05 11:23:13 --> Language Class Initialized
+DEBUG - 2020-02-05 11:23:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 11:23:13 --> CSRF cookie sent
+INFO - 2020-02-05 11:23:13 --> CSRF token verified
+INFO - 2020-02-05 11:23:13 --> Input Class Initialized
+INFO - 2020-02-05 11:23:13 --> Language Class Initialized
+INFO - 2020-02-05 11:23:13 --> Loader Class Initialized
+INFO - 2020-02-05 11:23:13 --> Helper loaded: url_helper
+INFO - 2020-02-05 11:23:13 --> Loader Class Initialized
+INFO - 2020-02-05 11:23:13 --> Helper loaded: file_helper
+INFO - 2020-02-05 11:23:13 --> Helper loaded: url_helper
+INFO - 2020-02-05 11:23:13 --> Helper loaded: form_helper
+INFO - 2020-02-05 11:23:13 --> Helper loaded: file_helper
+INFO - 2020-02-05 11:23:13 --> Helper loaded: security_helper
+INFO - 2020-02-05 11:23:13 --> Helper loaded: form_helper
+INFO - 2020-02-05 11:23:13 --> Helper loaded: security_helper
+INFO - 2020-02-05 11:23:13 --> Database Driver Class Initialized
+INFO - 2020-02-05 11:23:13 --> Database Driver Class Initialized
+INFO - 2020-02-05 11:23:13 --> Email Class Initialized
+INFO - 2020-02-05 11:23:13 --> Email Class Initialized
+INFO - 2020-02-05 11:23:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 11:23:13 --> Form Validation Class Initialized
+INFO - 2020-02-05 11:23:13 --> Controller Class Initialized
+INFO - 2020-02-05 11:23:13 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 11:23:13 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 11:23:13 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 11:23:13 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 11:23:13 --> Pagination Class Initialized
+INFO - 2020-02-05 11:23:13 --> MY_Model class loaded
+INFO - 2020-02-05 11:23:13 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 11:23:13 --> Language file loaded: language/en/form_validation_lang.php
+ERROR - 2020-02-05 11:23:13 --> Could not find the language line "form_validation_required"
+INFO - 2020-02-05 11:23:13 --> Final output sent to browser
+DEBUG - 2020-02-05 11:23:13 --> Total execution time: 0.2077
+INFO - 2020-02-05 11:23:13 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 11:23:13 --> Form Validation Class Initialized
+INFO - 2020-02-05 11:23:13 --> Controller Class Initialized
+INFO - 2020-02-05 11:23:13 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 11:23:13 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 11:23:13 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 11:23:13 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 11:23:13 --> Pagination Class Initialized
+INFO - 2020-02-05 11:23:13 --> MY_Model class loaded
+INFO - 2020-02-05 11:23:13 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 11:23:13 --> Language file loaded: language/en/form_validation_lang.php
+ERROR - 2020-02-05 11:23:13 --> Could not find the language line "form_validation_required"
+INFO - 2020-02-05 11:23:13 --> Final output sent to browser
+DEBUG - 2020-02-05 11:23:13 --> Total execution time: 0.2824
+INFO - 2020-02-05 11:41:48 --> Config Class Initialized
+INFO - 2020-02-05 11:41:48 --> Hooks Class Initialized
+DEBUG - 2020-02-05 11:41:48 --> UTF-8 Support Enabled
+INFO - 2020-02-05 11:41:48 --> Utf8 Class Initialized
+INFO - 2020-02-05 11:41:48 --> URI Class Initialized
+INFO - 2020-02-05 11:41:48 --> Router Class Initialized
+INFO - 2020-02-05 11:41:48 --> Output Class Initialized
+INFO - 2020-02-05 11:41:48 --> Security Class Initialized
+DEBUG - 2020-02-05 11:41:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 11:41:48 --> CSRF cookie sent
+INFO - 2020-02-05 11:41:48 --> Input Class Initialized
+INFO - 2020-02-05 11:41:48 --> Language Class Initialized
+INFO - 2020-02-05 11:41:48 --> Loader Class Initialized
+INFO - 2020-02-05 11:41:48 --> Helper loaded: url_helper
+INFO - 2020-02-05 11:41:48 --> Helper loaded: file_helper
+INFO - 2020-02-05 11:41:48 --> Helper loaded: form_helper
+INFO - 2020-02-05 11:41:48 --> Helper loaded: security_helper
+INFO - 2020-02-05 11:41:48 --> Database Driver Class Initialized
+INFO - 2020-02-05 11:41:48 --> Email Class Initialized
+INFO - 2020-02-05 11:41:48 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 11:41:48 --> Form Validation Class Initialized
+INFO - 2020-02-05 11:41:48 --> Controller Class Initialized
+INFO - 2020-02-05 11:41:48 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 11:41:48 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 11:41:48 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 11:41:49 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 11:41:49 --> Pagination Class Initialized
+INFO - 2020-02-05 11:41:49 --> MY_Model class loaded
+INFO - 2020-02-05 11:41:49 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 11:41:49 --> File loaded: C:\laragon\www\hira\app\views\administrator/headerhtml.php
+INFO - 2020-02-05 11:41:49 --> File loaded: C:\laragon\www\hira\app\views\administrator/addalbumsimageshtml.php
+INFO - 2020-02-05 11:41:49 --> File loaded: C:\laragon\www\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 11:41:49 --> Final output sent to browser
+DEBUG - 2020-02-05 11:41:49 --> Total execution time: 0.7190
+INFO - 2020-02-05 18:21:32 --> Config Class Initialized
+INFO - 2020-02-05 18:21:33 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:21:33 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:21:33 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:21:33 --> URI Class Initialized
+DEBUG - 2020-02-05 18:21:33 --> No URI present. Default controller set.
+INFO - 2020-02-05 18:21:33 --> Router Class Initialized
+INFO - 2020-02-05 18:21:33 --> Output Class Initialized
+INFO - 2020-02-05 18:21:33 --> Security Class Initialized
+DEBUG - 2020-02-05 18:21:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:21:33 --> CSRF cookie sent
+INFO - 2020-02-05 18:21:33 --> Input Class Initialized
+INFO - 2020-02-05 18:21:33 --> Language Class Initialized
+INFO - 2020-02-05 18:21:34 --> Loader Class Initialized
+INFO - 2020-02-05 18:21:34 --> Helper loaded: url_helper
+INFO - 2020-02-05 18:21:34 --> Helper loaded: file_helper
+INFO - 2020-02-05 18:21:34 --> Helper loaded: form_helper
+INFO - 2020-02-05 18:21:34 --> Helper loaded: security_helper
+INFO - 2020-02-05 18:21:34 --> Database Driver Class Initialized
+INFO - 2020-02-05 18:21:34 --> Email Class Initialized
+INFO - 2020-02-05 18:21:34 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 18:21:34 --> Form Validation Class Initialized
+INFO - 2020-02-05 18:21:34 --> Controller Class Initialized
+INFO - 2020-02-05 18:21:35 --> Final output sent to browser
+DEBUG - 2020-02-05 18:21:35 --> Total execution time: 2.2997
+INFO - 2020-02-05 18:21:43 --> Config Class Initialized
+INFO - 2020-02-05 18:21:43 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:21:43 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:21:43 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:21:43 --> URI Class Initialized
+DEBUG - 2020-02-05 18:21:43 --> No URI present. Default controller set.
+INFO - 2020-02-05 18:21:43 --> Router Class Initialized
+INFO - 2020-02-05 18:21:43 --> Output Class Initialized
+INFO - 2020-02-05 18:21:43 --> Security Class Initialized
+DEBUG - 2020-02-05 18:21:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:21:43 --> CSRF cookie sent
+INFO - 2020-02-05 18:21:43 --> Input Class Initialized
+INFO - 2020-02-05 18:21:43 --> Language Class Initialized
+INFO - 2020-02-05 18:21:43 --> Loader Class Initialized
+INFO - 2020-02-05 18:21:43 --> Helper loaded: url_helper
+INFO - 2020-02-05 18:21:43 --> Helper loaded: file_helper
+INFO - 2020-02-05 18:21:43 --> Helper loaded: form_helper
+INFO - 2020-02-05 18:21:43 --> Helper loaded: security_helper
+INFO - 2020-02-05 18:21:43 --> Database Driver Class Initialized
+INFO - 2020-02-05 18:21:43 --> Email Class Initialized
+INFO - 2020-02-05 18:21:43 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 18:21:43 --> Form Validation Class Initialized
+INFO - 2020-02-05 18:21:43 --> Controller Class Initialized
+INFO - 2020-02-05 18:21:43 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 18:21:43 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:21:43 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:21:43 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 18:21:43 --> Pagination Class Initialized
+INFO - 2020-02-05 18:21:44 --> MY_Model class loaded
+INFO - 2020-02-05 18:21:44 --> Model "Dashboard_model" initialized
+DEBUG - 2020-02-05 18:21:44 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:21:44 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:21:44 --> Helper loaded: captcha_helper
+INFO - 2020-02-05 18:21:44 --> File loaded: E:\xampp\htdocs\hira\app\views\loginhtml.php
+INFO - 2020-02-05 18:21:44 --> Final output sent to browser
+DEBUG - 2020-02-05 18:21:44 --> Total execution time: 1.4522
+INFO - 2020-02-05 18:21:46 --> Config Class Initialized
+INFO - 2020-02-05 18:21:46 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:21:46 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:21:46 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:21:46 --> URI Class Initialized
+INFO - 2020-02-05 18:21:46 --> Router Class Initialized
+INFO - 2020-02-05 18:21:46 --> Output Class Initialized
+INFO - 2020-02-05 18:21:46 --> Security Class Initialized
+DEBUG - 2020-02-05 18:21:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:21:46 --> CSRF cookie sent
+INFO - 2020-02-05 18:21:46 --> Input Class Initialized
+INFO - 2020-02-05 18:21:46 --> Language Class Initialized
+ERROR - 2020-02-05 18:21:47 --> 404 Page Not Found: Img/favicon.png
+INFO - 2020-02-05 18:23:28 --> Config Class Initialized
+INFO - 2020-02-05 18:23:28 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:23:28 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:23:28 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:23:28 --> URI Class Initialized
+INFO - 2020-02-05 18:23:28 --> Router Class Initialized
+INFO - 2020-02-05 18:23:28 --> Output Class Initialized
+INFO - 2020-02-05 18:23:28 --> Security Class Initialized
+DEBUG - 2020-02-05 18:23:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:23:29 --> CSRF cookie sent
+INFO - 2020-02-05 18:23:29 --> CSRF token verified
+INFO - 2020-02-05 18:23:29 --> Input Class Initialized
+INFO - 2020-02-05 18:23:29 --> Language Class Initialized
+INFO - 2020-02-05 18:23:29 --> Loader Class Initialized
+INFO - 2020-02-05 18:23:29 --> Helper loaded: url_helper
+INFO - 2020-02-05 18:23:29 --> Helper loaded: file_helper
+INFO - 2020-02-05 18:23:29 --> Helper loaded: form_helper
+INFO - 2020-02-05 18:23:29 --> Helper loaded: security_helper
+INFO - 2020-02-05 18:23:29 --> Database Driver Class Initialized
+INFO - 2020-02-05 18:23:29 --> Email Class Initialized
+INFO - 2020-02-05 18:23:29 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 18:23:29 --> Form Validation Class Initialized
+INFO - 2020-02-05 18:23:29 --> Controller Class Initialized
+INFO - 2020-02-05 18:23:29 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 18:23:29 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:23:29 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:23:29 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 18:23:29 --> Pagination Class Initialized
+INFO - 2020-02-05 18:23:29 --> MY_Model class loaded
+INFO - 2020-02-05 18:23:29 --> Model "Dashboard_model" initialized
+DEBUG - 2020-02-05 18:23:29 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:23:29 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:23:29 --> Helper loaded: captcha_helper
+INFO - 2020-02-05 18:23:29 --> Language file loaded: language/en/form_validation_lang.php
+INFO - 2020-02-05 18:23:30 --> Config Class Initialized
+INFO - 2020-02-05 18:23:30 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:23:30 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:23:30 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:23:30 --> URI Class Initialized
+DEBUG - 2020-02-05 18:23:30 --> No URI present. Default controller set.
+INFO - 2020-02-05 18:23:30 --> Router Class Initialized
+INFO - 2020-02-05 18:23:30 --> Output Class Initialized
+INFO - 2020-02-05 18:23:30 --> Security Class Initialized
+DEBUG - 2020-02-05 18:23:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:23:30 --> CSRF cookie sent
+INFO - 2020-02-05 18:23:30 --> Input Class Initialized
+INFO - 2020-02-05 18:23:30 --> Language Class Initialized
+INFO - 2020-02-05 18:23:30 --> Loader Class Initialized
+INFO - 2020-02-05 18:23:30 --> Helper loaded: url_helper
+INFO - 2020-02-05 18:23:30 --> Helper loaded: file_helper
+INFO - 2020-02-05 18:23:30 --> Helper loaded: form_helper
+INFO - 2020-02-05 18:23:30 --> Helper loaded: security_helper
+INFO - 2020-02-05 18:23:30 --> Database Driver Class Initialized
+INFO - 2020-02-05 18:23:30 --> Email Class Initialized
+INFO - 2020-02-05 18:23:30 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 18:23:30 --> Form Validation Class Initialized
+INFO - 2020-02-05 18:23:30 --> Controller Class Initialized
+INFO - 2020-02-05 18:23:30 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 18:23:30 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:23:30 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:23:30 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 18:23:30 --> Pagination Class Initialized
+INFO - 2020-02-05 18:23:30 --> MY_Model class loaded
+INFO - 2020-02-05 18:23:30 --> Model "Dashboard_model" initialized
+DEBUG - 2020-02-05 18:23:30 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:23:30 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:23:31 --> Helper loaded: captcha_helper
+INFO - 2020-02-05 18:23:31 --> File loaded: E:\xampp\htdocs\hira\app\views\loginhtml.php
+INFO - 2020-02-05 18:23:31 --> Final output sent to browser
+DEBUG - 2020-02-05 18:23:31 --> Total execution time: 1.0461
+INFO - 2020-02-05 18:23:50 --> Config Class Initialized
+INFO - 2020-02-05 18:23:50 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:23:50 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:23:50 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:23:50 --> URI Class Initialized
+INFO - 2020-02-05 18:23:50 --> Router Class Initialized
+INFO - 2020-02-05 18:23:50 --> Output Class Initialized
+INFO - 2020-02-05 18:23:50 --> Security Class Initialized
+DEBUG - 2020-02-05 18:23:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:23:50 --> CSRF cookie sent
+INFO - 2020-02-05 18:23:50 --> CSRF token verified
+INFO - 2020-02-05 18:23:50 --> Input Class Initialized
+INFO - 2020-02-05 18:23:50 --> Language Class Initialized
+INFO - 2020-02-05 18:23:50 --> Loader Class Initialized
+INFO - 2020-02-05 18:23:50 --> Helper loaded: url_helper
+INFO - 2020-02-05 18:23:50 --> Helper loaded: file_helper
+INFO - 2020-02-05 18:23:50 --> Helper loaded: form_helper
+INFO - 2020-02-05 18:23:50 --> Helper loaded: security_helper
+INFO - 2020-02-05 18:23:50 --> Database Driver Class Initialized
+INFO - 2020-02-05 18:23:50 --> Email Class Initialized
+INFO - 2020-02-05 18:23:50 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 18:23:50 --> Form Validation Class Initialized
+INFO - 2020-02-05 18:23:50 --> Controller Class Initialized
+INFO - 2020-02-05 18:23:50 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 18:23:50 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:23:50 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:23:50 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 18:23:50 --> Pagination Class Initialized
+INFO - 2020-02-05 18:23:51 --> MY_Model class loaded
+INFO - 2020-02-05 18:23:51 --> Model "Dashboard_model" initialized
+DEBUG - 2020-02-05 18:23:51 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:23:51 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:23:51 --> Helper loaded: captcha_helper
+INFO - 2020-02-05 18:23:51 --> Language file loaded: language/en/form_validation_lang.php
+INFO - 2020-02-05 18:23:51 --> Config Class Initialized
+INFO - 2020-02-05 18:23:51 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:23:51 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:23:51 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:23:51 --> URI Class Initialized
+INFO - 2020-02-05 18:23:51 --> Router Class Initialized
+INFO - 2020-02-05 18:23:51 --> Output Class Initialized
+INFO - 2020-02-05 18:23:51 --> Security Class Initialized
+DEBUG - 2020-02-05 18:23:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:23:51 --> CSRF cookie sent
+INFO - 2020-02-05 18:23:51 --> Input Class Initialized
+INFO - 2020-02-05 18:23:51 --> Language Class Initialized
+INFO - 2020-02-05 18:23:51 --> Loader Class Initialized
+INFO - 2020-02-05 18:23:51 --> Helper loaded: url_helper
+INFO - 2020-02-05 18:23:51 --> Helper loaded: file_helper
+INFO - 2020-02-05 18:23:51 --> Helper loaded: form_helper
+INFO - 2020-02-05 18:23:51 --> Helper loaded: security_helper
+INFO - 2020-02-05 18:23:52 --> Database Driver Class Initialized
+INFO - 2020-02-05 18:23:52 --> Email Class Initialized
+INFO - 2020-02-05 18:23:52 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 18:23:52 --> Form Validation Class Initialized
+INFO - 2020-02-05 18:23:52 --> Controller Class Initialized
+INFO - 2020-02-05 18:23:52 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 18:23:52 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:23:52 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:23:52 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 18:23:52 --> Pagination Class Initialized
+INFO - 2020-02-05 18:23:52 --> MY_Model class loaded
+INFO - 2020-02-05 18:23:52 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 18:23:52 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/headerhtml.php
+INFO - 2020-02-05 18:23:52 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/cmspageslisthtml.php
+INFO - 2020-02-05 18:23:52 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 18:23:52 --> Final output sent to browser
+DEBUG - 2020-02-05 18:23:52 --> Total execution time: 1.5152
+INFO - 2020-02-05 18:23:54 --> Config Class Initialized
+INFO - 2020-02-05 18:23:54 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:23:54 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:23:55 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:23:55 --> URI Class Initialized
+INFO - 2020-02-05 18:23:55 --> Router Class Initialized
+INFO - 2020-02-05 18:23:55 --> Output Class Initialized
+INFO - 2020-02-05 18:23:55 --> Security Class Initialized
+DEBUG - 2020-02-05 18:23:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:23:55 --> CSRF cookie sent
+INFO - 2020-02-05 18:23:55 --> Input Class Initialized
+INFO - 2020-02-05 18:23:55 --> Language Class Initialized
+ERROR - 2020-02-05 18:23:55 --> 404 Page Not Found: administrator/Img/favicon.png
+INFO - 2020-02-05 18:24:08 --> Config Class Initialized
+INFO - 2020-02-05 18:24:08 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:24:08 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:24:08 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:24:08 --> URI Class Initialized
+INFO - 2020-02-05 18:24:08 --> Router Class Initialized
+INFO - 2020-02-05 18:24:08 --> Output Class Initialized
+INFO - 2020-02-05 18:24:08 --> Security Class Initialized
+DEBUG - 2020-02-05 18:24:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:24:08 --> CSRF cookie sent
+INFO - 2020-02-05 18:24:08 --> Input Class Initialized
+INFO - 2020-02-05 18:24:08 --> Language Class Initialized
+INFO - 2020-02-05 18:24:08 --> Loader Class Initialized
+INFO - 2020-02-05 18:24:08 --> Helper loaded: url_helper
+INFO - 2020-02-05 18:24:08 --> Helper loaded: file_helper
+INFO - 2020-02-05 18:24:08 --> Helper loaded: form_helper
+INFO - 2020-02-05 18:24:08 --> Helper loaded: security_helper
+INFO - 2020-02-05 18:24:08 --> Database Driver Class Initialized
+INFO - 2020-02-05 18:24:08 --> Email Class Initialized
+INFO - 2020-02-05 18:24:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 18:24:09 --> Form Validation Class Initialized
+INFO - 2020-02-05 18:24:09 --> Controller Class Initialized
+INFO - 2020-02-05 18:24:09 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 18:24:09 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:24:09 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:24:09 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 18:24:09 --> Pagination Class Initialized
+INFO - 2020-02-05 18:24:09 --> MY_Model class loaded
+INFO - 2020-02-05 18:24:09 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 18:24:09 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/headerhtml.php
+INFO - 2020-02-05 18:24:09 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/cmspageslisthtml.php
+INFO - 2020-02-05 18:24:09 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 18:24:09 --> Final output sent to browser
+DEBUG - 2020-02-05 18:24:09 --> Total execution time: 0.9890
+INFO - 2020-02-05 18:24:20 --> Config Class Initialized
+INFO - 2020-02-05 18:24:20 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:24:20 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:24:20 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:24:20 --> URI Class Initialized
+INFO - 2020-02-05 18:24:20 --> Router Class Initialized
+INFO - 2020-02-05 18:24:20 --> Output Class Initialized
+INFO - 2020-02-05 18:24:20 --> Security Class Initialized
+DEBUG - 2020-02-05 18:24:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:24:20 --> CSRF cookie sent
+INFO - 2020-02-05 18:24:20 --> Input Class Initialized
+INFO - 2020-02-05 18:24:20 --> Language Class Initialized
+ERROR - 2020-02-05 18:24:20 --> 404 Page Not Found: Adminerphp/index
+INFO - 2020-02-05 18:28:57 --> Config Class Initialized
+INFO - 2020-02-05 18:28:57 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:28:57 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:28:57 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:28:57 --> URI Class Initialized
+INFO - 2020-02-05 18:28:57 --> Router Class Initialized
+INFO - 2020-02-05 18:28:57 --> Output Class Initialized
+INFO - 2020-02-05 18:28:57 --> Security Class Initialized
+DEBUG - 2020-02-05 18:28:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:28:57 --> CSRF cookie sent
+INFO - 2020-02-05 18:28:58 --> Input Class Initialized
+INFO - 2020-02-05 18:28:58 --> Language Class Initialized
+INFO - 2020-02-05 18:28:58 --> Loader Class Initialized
+INFO - 2020-02-05 18:28:58 --> Helper loaded: url_helper
+INFO - 2020-02-05 18:28:58 --> Helper loaded: file_helper
+INFO - 2020-02-05 18:28:58 --> Helper loaded: form_helper
+INFO - 2020-02-05 18:28:58 --> Helper loaded: security_helper
+INFO - 2020-02-05 18:28:58 --> Database Driver Class Initialized
+INFO - 2020-02-05 18:28:58 --> Email Class Initialized
+INFO - 2020-02-05 18:28:58 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 18:28:58 --> Form Validation Class Initialized
+INFO - 2020-02-05 18:28:58 --> Controller Class Initialized
+INFO - 2020-02-05 18:28:58 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 18:28:58 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:28:58 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:28:58 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 18:28:58 --> Pagination Class Initialized
+INFO - 2020-02-05 18:28:58 --> MY_Model class loaded
+INFO - 2020-02-05 18:28:58 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 18:28:58 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/headerhtml.php
+INFO - 2020-02-05 18:28:58 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/cmspageslisthtml.php
+INFO - 2020-02-05 18:28:58 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 18:28:58 --> Final output sent to browser
+DEBUG - 2020-02-05 18:28:58 --> Total execution time: 0.7857
+INFO - 2020-02-05 18:29:05 --> Config Class Initialized
+INFO - 2020-02-05 18:29:05 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:29:05 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:29:05 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:29:05 --> URI Class Initialized
+INFO - 2020-02-05 18:29:05 --> Router Class Initialized
+INFO - 2020-02-05 18:29:05 --> Output Class Initialized
+INFO - 2020-02-05 18:29:05 --> Security Class Initialized
+DEBUG - 2020-02-05 18:29:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:29:05 --> CSRF cookie sent
+INFO - 2020-02-05 18:29:05 --> Input Class Initialized
+INFO - 2020-02-05 18:29:05 --> Language Class Initialized
+INFO - 2020-02-05 18:29:05 --> Loader Class Initialized
+INFO - 2020-02-05 18:29:05 --> Helper loaded: url_helper
+INFO - 2020-02-05 18:29:05 --> Helper loaded: file_helper
+INFO - 2020-02-05 18:29:05 --> Helper loaded: form_helper
+INFO - 2020-02-05 18:29:05 --> Helper loaded: security_helper
+INFO - 2020-02-05 18:29:05 --> Database Driver Class Initialized
+INFO - 2020-02-05 18:29:06 --> Email Class Initialized
+INFO - 2020-02-05 18:29:06 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 18:29:06 --> Form Validation Class Initialized
+INFO - 2020-02-05 18:29:06 --> Controller Class Initialized
+INFO - 2020-02-05 18:29:06 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 18:29:06 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:29:06 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:29:06 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 18:29:06 --> Pagination Class Initialized
+INFO - 2020-02-05 18:29:06 --> MY_Model class loaded
+INFO - 2020-02-05 18:29:06 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 18:29:06 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/headerhtml.php
+INFO - 2020-02-05 18:29:06 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/addalbumshtml.php
+INFO - 2020-02-05 18:29:06 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 18:29:06 --> Final output sent to browser
+DEBUG - 2020-02-05 18:29:06 --> Total execution time: 0.9387
+INFO - 2020-02-05 18:29:11 --> Config Class Initialized
+INFO - 2020-02-05 18:29:11 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:29:11 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:29:11 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:29:11 --> URI Class Initialized
+INFO - 2020-02-05 18:29:11 --> Router Class Initialized
+INFO - 2020-02-05 18:29:11 --> Output Class Initialized
+INFO - 2020-02-05 18:29:11 --> Security Class Initialized
+DEBUG - 2020-02-05 18:29:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:29:11 --> CSRF cookie sent
+INFO - 2020-02-05 18:29:11 --> Input Class Initialized
+INFO - 2020-02-05 18:29:11 --> Language Class Initialized
+ERROR - 2020-02-05 18:29:11 --> 404 Page Not Found: administrator/Dashboard/img
+INFO - 2020-02-05 18:30:05 --> Config Class Initialized
+INFO - 2020-02-05 18:30:05 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:30:06 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:30:06 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:30:06 --> URI Class Initialized
+INFO - 2020-02-05 18:30:06 --> Router Class Initialized
+INFO - 2020-02-05 18:30:06 --> Output Class Initialized
+INFO - 2020-02-05 18:30:06 --> Security Class Initialized
+DEBUG - 2020-02-05 18:30:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:30:06 --> CSRF cookie sent
+INFO - 2020-02-05 18:30:06 --> CSRF token verified
+INFO - 2020-02-05 18:30:06 --> Input Class Initialized
+INFO - 2020-02-05 18:30:06 --> Language Class Initialized
+INFO - 2020-02-05 18:30:06 --> Loader Class Initialized
+INFO - 2020-02-05 18:30:06 --> Helper loaded: url_helper
+INFO - 2020-02-05 18:30:06 --> Helper loaded: file_helper
+INFO - 2020-02-05 18:30:06 --> Helper loaded: form_helper
+INFO - 2020-02-05 18:30:06 --> Helper loaded: security_helper
+INFO - 2020-02-05 18:30:06 --> Database Driver Class Initialized
+INFO - 2020-02-05 18:30:06 --> Email Class Initialized
+INFO - 2020-02-05 18:30:06 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 18:30:06 --> Form Validation Class Initialized
+INFO - 2020-02-05 18:30:06 --> Controller Class Initialized
+INFO - 2020-02-05 18:30:06 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 18:30:06 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:30:06 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:30:06 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 18:30:06 --> Pagination Class Initialized
+INFO - 2020-02-05 18:30:06 --> MY_Model class loaded
+INFO - 2020-02-05 18:30:06 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 18:30:06 --> Language file loaded: language/en/form_validation_lang.php
+INFO - 2020-02-05 18:30:07 --> Final output sent to browser
+DEBUG - 2020-02-05 18:30:07 --> Total execution time: 1.2638
+INFO - 2020-02-05 18:30:07 --> Config Class Initialized
+INFO - 2020-02-05 18:30:07 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:30:07 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:30:07 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:30:07 --> URI Class Initialized
+INFO - 2020-02-05 18:30:07 --> Router Class Initialized
+INFO - 2020-02-05 18:30:07 --> Output Class Initialized
+INFO - 2020-02-05 18:30:07 --> Security Class Initialized
+DEBUG - 2020-02-05 18:30:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:30:07 --> CSRF cookie sent
+INFO - 2020-02-05 18:30:07 --> Input Class Initialized
+INFO - 2020-02-05 18:30:07 --> Language Class Initialized
+INFO - 2020-02-05 18:30:07 --> Loader Class Initialized
+INFO - 2020-02-05 18:30:07 --> Helper loaded: url_helper
+INFO - 2020-02-05 18:30:07 --> Helper loaded: file_helper
+INFO - 2020-02-05 18:30:07 --> Helper loaded: form_helper
+INFO - 2020-02-05 18:30:07 --> Helper loaded: security_helper
+INFO - 2020-02-05 18:30:07 --> Database Driver Class Initialized
+INFO - 2020-02-05 18:30:07 --> Email Class Initialized
+INFO - 2020-02-05 18:30:07 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 18:30:07 --> Form Validation Class Initialized
+INFO - 2020-02-05 18:30:07 --> Controller Class Initialized
+INFO - 2020-02-05 18:30:07 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 18:30:07 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:30:08 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:30:08 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 18:30:08 --> Pagination Class Initialized
+INFO - 2020-02-05 18:30:08 --> MY_Model class loaded
+INFO - 2020-02-05 18:30:08 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 18:30:08 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/headerhtml.php
+INFO - 2020-02-05 18:30:08 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/albumslisthtml.php
+INFO - 2020-02-05 18:30:08 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 18:30:08 --> Final output sent to browser
+DEBUG - 2020-02-05 18:30:08 --> Total execution time: 1.2260
+INFO - 2020-02-05 18:30:18 --> Config Class Initialized
+INFO - 2020-02-05 18:30:18 --> Hooks Class Initialized
+INFO - 2020-02-05 18:30:18 --> Config Class Initialized
+DEBUG - 2020-02-05 18:30:18 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:30:18 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:30:18 --> Config Class Initialized
+INFO - 2020-02-05 18:30:19 --> Hooks Class Initialized
+INFO - 2020-02-05 18:30:19 --> URI Class Initialized
+INFO - 2020-02-05 18:30:19 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:30:19 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:30:19 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:30:19 --> URI Class Initialized
+INFO - 2020-02-05 18:30:19 --> Router Class Initialized
+INFO - 2020-02-05 18:30:19 --> Output Class Initialized
+DEBUG - 2020-02-05 18:30:19 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:30:19 --> Router Class Initialized
+INFO - 2020-02-05 18:30:19 --> Security Class Initialized
+DEBUG - 2020-02-05 18:30:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:30:19 --> CSRF cookie sent
+INFO - 2020-02-05 18:30:19 --> Input Class Initialized
+INFO - 2020-02-05 18:30:19 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:30:19 --> Output Class Initialized
+INFO - 2020-02-05 18:30:19 --> Language Class Initialized
+INFO - 2020-02-05 18:30:19 --> URI Class Initialized
+INFO - 2020-02-05 18:30:19 --> Security Class Initialized
+INFO - 2020-02-05 18:30:19 --> Router Class Initialized
+DEBUG - 2020-02-05 18:30:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:30:19 --> Output Class Initialized
+ERROR - 2020-02-05 18:30:19 --> 404 Page Not Found: Assets/backend
+INFO - 2020-02-05 18:30:19 --> CSRF cookie sent
+INFO - 2020-02-05 18:30:19 --> Input Class Initialized
+INFO - 2020-02-05 18:30:19 --> Language Class Initialized
+ERROR - 2020-02-05 18:30:19 --> 404 Page Not Found: Assets/backend
+INFO - 2020-02-05 18:30:19 --> Security Class Initialized
+DEBUG - 2020-02-05 18:30:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:30:19 --> CSRF cookie sent
+INFO - 2020-02-05 18:30:19 --> Input Class Initialized
+INFO - 2020-02-05 18:30:19 --> Language Class Initialized
+ERROR - 2020-02-05 18:30:19 --> 404 Page Not Found: Assets/backend
+INFO - 2020-02-05 18:33:58 --> Config Class Initialized
+INFO - 2020-02-05 18:33:58 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:33:58 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:33:58 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:33:58 --> URI Class Initialized
+INFO - 2020-02-05 18:33:58 --> Router Class Initialized
+INFO - 2020-02-05 18:33:58 --> Output Class Initialized
+INFO - 2020-02-05 18:33:58 --> Security Class Initialized
+DEBUG - 2020-02-05 18:33:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:33:58 --> CSRF cookie sent
+INFO - 2020-02-05 18:33:59 --> Input Class Initialized
+INFO - 2020-02-05 18:33:59 --> Language Class Initialized
+INFO - 2020-02-05 18:33:59 --> Loader Class Initialized
+INFO - 2020-02-05 18:33:59 --> Helper loaded: url_helper
+INFO - 2020-02-05 18:33:59 --> Helper loaded: file_helper
+INFO - 2020-02-05 18:33:59 --> Helper loaded: form_helper
+INFO - 2020-02-05 18:33:59 --> Helper loaded: security_helper
+INFO - 2020-02-05 18:33:59 --> Database Driver Class Initialized
+INFO - 2020-02-05 18:33:59 --> Email Class Initialized
+INFO - 2020-02-05 18:33:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 18:33:59 --> Form Validation Class Initialized
+INFO - 2020-02-05 18:33:59 --> Controller Class Initialized
+INFO - 2020-02-05 18:33:59 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 18:33:59 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:33:59 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:33:59 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 18:33:59 --> Pagination Class Initialized
+INFO - 2020-02-05 18:33:59 --> MY_Model class loaded
+INFO - 2020-02-05 18:33:59 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 18:33:59 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/headerhtml.php
+INFO - 2020-02-05 18:33:59 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/addalbumshtml.php
+INFO - 2020-02-05 18:33:59 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 18:33:59 --> Final output sent to browser
+DEBUG - 2020-02-05 18:33:59 --> Total execution time: 1.2730
+INFO - 2020-02-05 18:35:17 --> Config Class Initialized
+INFO - 2020-02-05 18:35:17 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:35:17 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:35:17 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:35:17 --> URI Class Initialized
+INFO - 2020-02-05 18:35:17 --> Router Class Initialized
+INFO - 2020-02-05 18:35:17 --> Output Class Initialized
+INFO - 2020-02-05 18:35:17 --> Security Class Initialized
+DEBUG - 2020-02-05 18:35:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:35:17 --> CSRF cookie sent
+INFO - 2020-02-05 18:35:17 --> CSRF token verified
+INFO - 2020-02-05 18:35:17 --> Input Class Initialized
+INFO - 2020-02-05 18:35:17 --> Language Class Initialized
+INFO - 2020-02-05 18:35:17 --> Loader Class Initialized
+INFO - 2020-02-05 18:35:17 --> Helper loaded: url_helper
+INFO - 2020-02-05 18:35:17 --> Helper loaded: file_helper
+INFO - 2020-02-05 18:35:17 --> Helper loaded: form_helper
+INFO - 2020-02-05 18:35:17 --> Helper loaded: security_helper
+INFO - 2020-02-05 18:35:17 --> Database Driver Class Initialized
+INFO - 2020-02-05 18:35:17 --> Email Class Initialized
+INFO - 2020-02-05 18:35:17 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 18:35:17 --> Form Validation Class Initialized
+INFO - 2020-02-05 18:35:17 --> Controller Class Initialized
+INFO - 2020-02-05 18:35:17 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 18:35:17 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:35:17 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:35:17 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 18:35:17 --> Pagination Class Initialized
+INFO - 2020-02-05 18:35:17 --> MY_Model class loaded
+INFO - 2020-02-05 18:35:17 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 18:35:17 --> Language file loaded: language/en/form_validation_lang.php
+INFO - 2020-02-05 18:35:18 --> Final output sent to browser
+DEBUG - 2020-02-05 18:35:18 --> Total execution time: 0.9320
+INFO - 2020-02-05 18:35:18 --> Config Class Initialized
+INFO - 2020-02-05 18:35:18 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:35:18 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:35:18 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:35:18 --> URI Class Initialized
+INFO - 2020-02-05 18:35:18 --> Router Class Initialized
+INFO - 2020-02-05 18:35:18 --> Output Class Initialized
+INFO - 2020-02-05 18:35:18 --> Security Class Initialized
+DEBUG - 2020-02-05 18:35:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:35:18 --> CSRF cookie sent
+INFO - 2020-02-05 18:35:18 --> Input Class Initialized
+INFO - 2020-02-05 18:35:18 --> Language Class Initialized
+INFO - 2020-02-05 18:35:18 --> Loader Class Initialized
+INFO - 2020-02-05 18:35:18 --> Helper loaded: url_helper
+INFO - 2020-02-05 18:35:18 --> Helper loaded: file_helper
+INFO - 2020-02-05 18:35:18 --> Helper loaded: form_helper
+INFO - 2020-02-05 18:35:18 --> Helper loaded: security_helper
+INFO - 2020-02-05 18:35:18 --> Database Driver Class Initialized
+INFO - 2020-02-05 18:35:18 --> Email Class Initialized
+INFO - 2020-02-05 18:35:18 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 18:35:18 --> Form Validation Class Initialized
+INFO - 2020-02-05 18:35:18 --> Controller Class Initialized
+INFO - 2020-02-05 18:35:18 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 18:35:18 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:35:18 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:35:18 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 18:35:18 --> Pagination Class Initialized
+INFO - 2020-02-05 18:35:18 --> MY_Model class loaded
+INFO - 2020-02-05 18:35:18 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 18:35:19 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/headerhtml.php
+INFO - 2020-02-05 18:35:19 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/albumslisthtml.php
+INFO - 2020-02-05 18:35:19 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 18:35:19 --> Final output sent to browser
+DEBUG - 2020-02-05 18:35:19 --> Total execution time: 0.7708
+INFO - 2020-02-05 18:35:27 --> Config Class Initialized
+INFO - 2020-02-05 18:35:27 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:35:27 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:35:27 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:35:27 --> URI Class Initialized
+INFO - 2020-02-05 18:35:27 --> Router Class Initialized
+INFO - 2020-02-05 18:35:27 --> Output Class Initialized
+INFO - 2020-02-05 18:35:27 --> Security Class Initialized
+DEBUG - 2020-02-05 18:35:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:35:27 --> CSRF cookie sent
+INFO - 2020-02-05 18:35:27 --> Input Class Initialized
+INFO - 2020-02-05 18:35:27 --> Language Class Initialized
+INFO - 2020-02-05 18:35:27 --> Loader Class Initialized
+INFO - 2020-02-05 18:35:27 --> Helper loaded: url_helper
+INFO - 2020-02-05 18:35:27 --> Helper loaded: file_helper
+INFO - 2020-02-05 18:35:27 --> Helper loaded: form_helper
+INFO - 2020-02-05 18:35:27 --> Helper loaded: security_helper
+INFO - 2020-02-05 18:35:27 --> Database Driver Class Initialized
+INFO - 2020-02-05 18:35:27 --> Email Class Initialized
+INFO - 2020-02-05 18:35:27 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 18:35:27 --> Form Validation Class Initialized
+INFO - 2020-02-05 18:35:27 --> Controller Class Initialized
+INFO - 2020-02-05 18:35:27 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 18:35:27 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:35:27 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:35:27 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 18:35:27 --> Pagination Class Initialized
+INFO - 2020-02-05 18:35:27 --> MY_Model class loaded
+INFO - 2020-02-05 18:35:27 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 18:35:27 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/headerhtml.php
+INFO - 2020-02-05 18:35:28 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/addalbumsimageshtml.php
+INFO - 2020-02-05 18:35:28 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 18:35:28 --> Final output sent to browser
+DEBUG - 2020-02-05 18:35:28 --> Total execution time: 0.8116
+INFO - 2020-02-05 18:35:51 --> Config Class Initialized
+INFO - 2020-02-05 18:35:51 --> Config Class Initialized
+INFO - 2020-02-05 18:35:51 --> Hooks Class Initialized
+INFO - 2020-02-05 18:35:51 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:35:51 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:35:51 --> Utf8 Class Initialized
+DEBUG - 2020-02-05 18:35:51 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:35:51 --> URI Class Initialized
+INFO - 2020-02-05 18:35:51 --> Router Class Initialized
+INFO - 2020-02-05 18:35:51 --> Output Class Initialized
+INFO - 2020-02-05 18:35:51 --> Security Class Initialized
+DEBUG - 2020-02-05 18:35:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:35:51 --> CSRF cookie sent
+INFO - 2020-02-05 18:35:51 --> CSRF token verified
+INFO - 2020-02-05 18:35:51 --> Input Class Initialized
+INFO - 2020-02-05 18:35:51 --> Language Class Initialized
+INFO - 2020-02-05 18:35:51 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:35:51 --> Loader Class Initialized
+INFO - 2020-02-05 18:35:51 --> URI Class Initialized
+INFO - 2020-02-05 18:35:51 --> Router Class Initialized
+INFO - 2020-02-05 18:35:51 --> Output Class Initialized
+INFO - 2020-02-05 18:35:51 --> Security Class Initialized
+INFO - 2020-02-05 18:35:51 --> Helper loaded: url_helper
+DEBUG - 2020-02-05 18:35:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:35:51 --> CSRF cookie sent
+INFO - 2020-02-05 18:35:51 --> CSRF token verified
+INFO - 2020-02-05 18:35:51 --> Helper loaded: file_helper
+INFO - 2020-02-05 18:35:51 --> Input Class Initialized
+INFO - 2020-02-05 18:35:51 --> Helper loaded: form_helper
+INFO - 2020-02-05 18:35:51 --> Language Class Initialized
+INFO - 2020-02-05 18:35:51 --> Helper loaded: security_helper
+INFO - 2020-02-05 18:35:51 --> Loader Class Initialized
+INFO - 2020-02-05 18:35:51 --> Helper loaded: url_helper
+INFO - 2020-02-05 18:35:51 --> Database Driver Class Initialized
+INFO - 2020-02-05 18:35:52 --> Helper loaded: file_helper
+INFO - 2020-02-05 18:35:52 --> Helper loaded: form_helper
+INFO - 2020-02-05 18:35:52 --> Email Class Initialized
+INFO - 2020-02-05 18:35:52 --> Helper loaded: security_helper
+INFO - 2020-02-05 18:35:52 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 18:35:52 --> Form Validation Class Initialized
+INFO - 2020-02-05 18:35:52 --> Database Driver Class Initialized
+INFO - 2020-02-05 18:35:52 --> Controller Class Initialized
+INFO - 2020-02-05 18:35:52 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 18:35:52 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:35:52 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:35:52 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 18:35:52 --> Email Class Initialized
+INFO - 2020-02-05 18:35:52 --> Pagination Class Initialized
+INFO - 2020-02-05 18:35:52 --> MY_Model class loaded
+INFO - 2020-02-05 18:35:52 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 18:35:52 --> Language file loaded: language/en/form_validation_lang.php
+ERROR - 2020-02-05 18:35:52 --> Could not find the language line "form_validation_required"
+INFO - 2020-02-05 18:35:52 --> Final output sent to browser
+DEBUG - 2020-02-05 18:35:52 --> Total execution time: 1.1077
+INFO - 2020-02-05 18:35:52 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 18:35:52 --> Form Validation Class Initialized
+INFO - 2020-02-05 18:35:52 --> Controller Class Initialized
+INFO - 2020-02-05 18:35:52 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 18:35:52 --> Email class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:35:52 --> Config Class Initialized
+INFO - 2020-02-05 18:35:52 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:35:52 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:35:52 --> Language file loaded: language/en/pagination_lang.php
+DEBUG - 2020-02-05 18:35:52 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:35:52 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:35:52 --> Pagination Class Initialized
+INFO - 2020-02-05 18:35:52 --> MY_Model class loaded
+INFO - 2020-02-05 18:35:52 --> URI Class Initialized
+INFO - 2020-02-05 18:35:52 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 18:35:52 --> Router Class Initialized
+INFO - 2020-02-05 18:35:52 --> Language file loaded: language/en/form_validation_lang.php
+INFO - 2020-02-05 18:35:52 --> Output Class Initialized
+ERROR - 2020-02-05 18:35:52 --> Could not find the language line "form_validation_required"
+INFO - 2020-02-05 18:35:52 --> Final output sent to browser
+INFO - 2020-02-05 18:35:52 --> Security Class Initialized
+DEBUG - 2020-02-05 18:35:52 --> Total execution time: 1.4785
+DEBUG - 2020-02-05 18:35:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:35:52 --> CSRF cookie sent
+INFO - 2020-02-05 18:35:52 --> CSRF token verified
+INFO - 2020-02-05 18:35:52 --> Input Class Initialized
+INFO - 2020-02-05 18:35:52 --> Language Class Initialized
+INFO - 2020-02-05 18:35:52 --> Loader Class Initialized
+INFO - 2020-02-05 18:35:52 --> Helper loaded: url_helper
+INFO - 2020-02-05 18:35:52 --> Helper loaded: file_helper
+INFO - 2020-02-05 18:35:52 --> Helper loaded: form_helper
+INFO - 2020-02-05 18:35:52 --> Helper loaded: security_helper
+INFO - 2020-02-05 18:35:53 --> Database Driver Class Initialized
+INFO - 2020-02-05 18:35:53 --> Email Class Initialized
+INFO - 2020-02-05 18:35:53 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 18:35:53 --> Form Validation Class Initialized
+INFO - 2020-02-05 18:35:53 --> Controller Class Initialized
+INFO - 2020-02-05 18:35:53 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 18:35:53 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:35:53 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:35:53 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 18:35:53 --> Pagination Class Initialized
+INFO - 2020-02-05 18:35:53 --> MY_Model class loaded
+INFO - 2020-02-05 18:35:53 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 18:35:53 --> Language file loaded: language/en/form_validation_lang.php
+ERROR - 2020-02-05 18:35:53 --> Could not find the language line "form_validation_required"
+INFO - 2020-02-05 18:35:53 --> Final output sent to browser
+DEBUG - 2020-02-05 18:35:53 --> Total execution time: 0.8087
+INFO - 2020-02-05 18:50:48 --> Config Class Initialized
+INFO - 2020-02-05 18:50:48 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:50:48 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:50:48 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:50:48 --> URI Class Initialized
+INFO - 2020-02-05 18:50:48 --> Router Class Initialized
+INFO - 2020-02-05 18:50:48 --> Output Class Initialized
+INFO - 2020-02-05 18:50:48 --> Security Class Initialized
+DEBUG - 2020-02-05 18:50:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:50:48 --> CSRF cookie sent
+INFO - 2020-02-05 18:50:48 --> Input Class Initialized
+INFO - 2020-02-05 18:50:48 --> Language Class Initialized
+INFO - 2020-02-05 18:50:48 --> Loader Class Initialized
+INFO - 2020-02-05 18:50:48 --> Helper loaded: url_helper
+INFO - 2020-02-05 18:50:48 --> Helper loaded: file_helper
+INFO - 2020-02-05 18:50:48 --> Helper loaded: form_helper
+INFO - 2020-02-05 18:50:48 --> Helper loaded: security_helper
+INFO - 2020-02-05 18:50:48 --> Database Driver Class Initialized
+INFO - 2020-02-05 18:50:48 --> Email Class Initialized
+INFO - 2020-02-05 18:50:48 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 18:50:48 --> Form Validation Class Initialized
+INFO - 2020-02-05 18:50:48 --> Controller Class Initialized
+INFO - 2020-02-05 18:50:48 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 18:50:48 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:50:48 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:50:48 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 18:50:48 --> Pagination Class Initialized
+INFO - 2020-02-05 18:50:48 --> MY_Model class loaded
+INFO - 2020-02-05 18:50:48 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 18:50:48 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/headerhtml.php
+ERROR - 2020-02-05 18:50:48 --> Severity: Notice --> Undefined variable: albumlist E:\xampp\htdocs\hira\app\views\administrator\addalbumsimageshtml.php 23
+ERROR - 2020-02-05 18:50:48 --> Severity: Warning --> Invalid argument supplied for foreach() E:\xampp\htdocs\hira\app\views\administrator\addalbumsimageshtml.php 23
+INFO - 2020-02-05 18:50:48 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/addalbumsimageshtml.php
+INFO - 2020-02-05 18:50:48 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 18:50:49 --> Final output sent to browser
+DEBUG - 2020-02-05 18:50:49 --> Total execution time: 0.9637
+INFO - 2020-02-05 18:51:02 --> Config Class Initialized
+INFO - 2020-02-05 18:51:02 --> Hooks Class Initialized
+DEBUG - 2020-02-05 18:51:02 --> UTF-8 Support Enabled
+INFO - 2020-02-05 18:51:02 --> Utf8 Class Initialized
+INFO - 2020-02-05 18:51:02 --> URI Class Initialized
+INFO - 2020-02-05 18:51:02 --> Router Class Initialized
+INFO - 2020-02-05 18:51:02 --> Output Class Initialized
+INFO - 2020-02-05 18:51:02 --> Security Class Initialized
+DEBUG - 2020-02-05 18:51:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 18:51:02 --> CSRF cookie sent
+INFO - 2020-02-05 18:51:02 --> Input Class Initialized
+INFO - 2020-02-05 18:51:02 --> Language Class Initialized
+INFO - 2020-02-05 18:51:02 --> Loader Class Initialized
+INFO - 2020-02-05 18:51:02 --> Helper loaded: url_helper
+INFO - 2020-02-05 18:51:02 --> Helper loaded: file_helper
+INFO - 2020-02-05 18:51:02 --> Helper loaded: form_helper
+INFO - 2020-02-05 18:51:02 --> Helper loaded: security_helper
+INFO - 2020-02-05 18:51:03 --> Database Driver Class Initialized
+INFO - 2020-02-05 18:51:03 --> Email Class Initialized
+INFO - 2020-02-05 18:51:03 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 18:51:03 --> Form Validation Class Initialized
+INFO - 2020-02-05 18:51:03 --> Controller Class Initialized
+INFO - 2020-02-05 18:51:03 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 18:51:03 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 18:51:03 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 18:51:03 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 18:51:03 --> Pagination Class Initialized
+INFO - 2020-02-05 18:51:03 --> MY_Model class loaded
+INFO - 2020-02-05 18:51:03 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 18:51:03 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/headerhtml.php
+ERROR - 2020-02-05 18:51:03 --> Severity: Notice --> Undefined variable: albumlist E:\xampp\htdocs\hira\app\views\administrator\addalbumsimageshtml.php 23
+ERROR - 2020-02-05 18:51:03 --> Severity: Warning --> Invalid argument supplied for foreach() E:\xampp\htdocs\hira\app\views\administrator\addalbumsimageshtml.php 23
+INFO - 2020-02-05 18:51:03 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/addalbumsimageshtml.php
+INFO - 2020-02-05 18:51:03 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 18:51:03 --> Final output sent to browser
+DEBUG - 2020-02-05 18:51:03 --> Total execution time: 0.7641
+INFO - 2020-02-05 19:02:26 --> Config Class Initialized
+INFO - 2020-02-05 19:02:27 --> Hooks Class Initialized
+DEBUG - 2020-02-05 19:02:27 --> UTF-8 Support Enabled
+INFO - 2020-02-05 19:02:27 --> Utf8 Class Initialized
+INFO - 2020-02-05 19:02:27 --> URI Class Initialized
+INFO - 2020-02-05 19:02:27 --> Router Class Initialized
+INFO - 2020-02-05 19:02:27 --> Output Class Initialized
+INFO - 2020-02-05 19:02:27 --> Security Class Initialized
+DEBUG - 2020-02-05 19:02:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 19:02:27 --> CSRF cookie sent
+INFO - 2020-02-05 19:02:27 --> Input Class Initialized
+INFO - 2020-02-05 19:02:27 --> Language Class Initialized
+INFO - 2020-02-05 19:02:27 --> Loader Class Initialized
+INFO - 2020-02-05 19:02:27 --> Helper loaded: url_helper
+INFO - 2020-02-05 19:02:27 --> Helper loaded: file_helper
+INFO - 2020-02-05 19:02:27 --> Helper loaded: form_helper
+INFO - 2020-02-05 19:02:27 --> Helper loaded: security_helper
+INFO - 2020-02-05 19:02:27 --> Database Driver Class Initialized
+INFO - 2020-02-05 19:02:27 --> Email Class Initialized
+INFO - 2020-02-05 19:02:27 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 19:02:27 --> Form Validation Class Initialized
+INFO - 2020-02-05 19:02:27 --> Controller Class Initialized
+INFO - 2020-02-05 19:02:27 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 19:02:27 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 19:02:27 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 19:02:27 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 19:02:27 --> Pagination Class Initialized
+INFO - 2020-02-05 19:02:27 --> MY_Model class loaded
+INFO - 2020-02-05 19:02:27 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 19:02:27 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/headerhtml.php
+ERROR - 2020-02-05 19:02:27 --> Severity: Notice --> Undefined variable: albumlist E:\xampp\htdocs\hira\app\views\administrator\addalbumsimageshtml.php 23
+ERROR - 2020-02-05 19:02:27 --> Severity: Warning --> Invalid argument supplied for foreach() E:\xampp\htdocs\hira\app\views\administrator\addalbumsimageshtml.php 23
+INFO - 2020-02-05 19:02:27 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/addalbumsimageshtml.php
+INFO - 2020-02-05 19:02:27 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 19:02:27 --> Final output sent to browser
+DEBUG - 2020-02-05 19:02:27 --> Total execution time: 0.8842
+INFO - 2020-02-05 19:02:47 --> Config Class Initialized
+INFO - 2020-02-05 19:02:47 --> Hooks Class Initialized
+DEBUG - 2020-02-05 19:02:47 --> UTF-8 Support Enabled
+INFO - 2020-02-05 19:02:47 --> Utf8 Class Initialized
+INFO - 2020-02-05 19:02:47 --> URI Class Initialized
+INFO - 2020-02-05 19:02:47 --> Router Class Initialized
+INFO - 2020-02-05 19:02:47 --> Output Class Initialized
+INFO - 2020-02-05 19:02:47 --> Security Class Initialized
+DEBUG - 2020-02-05 19:02:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 19:02:48 --> CSRF cookie sent
+INFO - 2020-02-05 19:02:48 --> Input Class Initialized
+INFO - 2020-02-05 19:02:48 --> Language Class Initialized
+INFO - 2020-02-05 19:02:48 --> Loader Class Initialized
+INFO - 2020-02-05 19:02:48 --> Helper loaded: url_helper
+INFO - 2020-02-05 19:02:48 --> Helper loaded: file_helper
+INFO - 2020-02-05 19:02:48 --> Helper loaded: form_helper
+INFO - 2020-02-05 19:02:48 --> Helper loaded: security_helper
+INFO - 2020-02-05 19:02:48 --> Database Driver Class Initialized
+INFO - 2020-02-05 19:02:48 --> Email Class Initialized
+INFO - 2020-02-05 19:02:48 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 19:02:48 --> Form Validation Class Initialized
+INFO - 2020-02-05 19:02:48 --> Controller Class Initialized
+INFO - 2020-02-05 19:02:48 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 19:02:48 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 19:02:48 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 19:02:48 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 19:02:48 --> Pagination Class Initialized
+INFO - 2020-02-05 19:02:48 --> MY_Model class loaded
+INFO - 2020-02-05 19:02:48 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 19:02:48 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/headerhtml.php
+ERROR - 2020-02-05 19:02:48 --> Severity: Notice --> Undefined variable: albumlist E:\xampp\htdocs\hira\app\views\administrator\addalbumsimageshtml.php 23
+ERROR - 2020-02-05 19:02:48 --> Severity: Warning --> Invalid argument supplied for foreach() E:\xampp\htdocs\hira\app\views\administrator\addalbumsimageshtml.php 23
+INFO - 2020-02-05 19:02:48 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/addalbumsimageshtml.php
+INFO - 2020-02-05 19:02:48 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 19:02:48 --> Final output sent to browser
+DEBUG - 2020-02-05 19:02:48 --> Total execution time: 0.7802
+INFO - 2020-02-05 19:04:26 --> Config Class Initialized
+INFO - 2020-02-05 19:04:26 --> Hooks Class Initialized
+DEBUG - 2020-02-05 19:04:26 --> UTF-8 Support Enabled
+INFO - 2020-02-05 19:04:26 --> Utf8 Class Initialized
+INFO - 2020-02-05 19:04:26 --> URI Class Initialized
+INFO - 2020-02-05 19:04:26 --> Router Class Initialized
+INFO - 2020-02-05 19:04:26 --> Output Class Initialized
+INFO - 2020-02-05 19:04:26 --> Security Class Initialized
+DEBUG - 2020-02-05 19:04:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 19:04:26 --> CSRF cookie sent
+INFO - 2020-02-05 19:04:26 --> Input Class Initialized
+INFO - 2020-02-05 19:04:26 --> Language Class Initialized
+ERROR - 2020-02-05 19:04:26 --> 404 Page Not Found: administrator/Dashboard/addalbumsimages
+INFO - 2020-02-05 19:04:47 --> Config Class Initialized
+INFO - 2020-02-05 19:04:47 --> Hooks Class Initialized
+DEBUG - 2020-02-05 19:04:48 --> UTF-8 Support Enabled
+INFO - 2020-02-05 19:04:48 --> Utf8 Class Initialized
+INFO - 2020-02-05 19:04:48 --> URI Class Initialized
+INFO - 2020-02-05 19:04:48 --> Router Class Initialized
+INFO - 2020-02-05 19:04:48 --> Output Class Initialized
+INFO - 2020-02-05 19:04:48 --> Security Class Initialized
+DEBUG - 2020-02-05 19:04:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 19:04:48 --> CSRF cookie sent
+INFO - 2020-02-05 19:04:48 --> Input Class Initialized
+INFO - 2020-02-05 19:04:48 --> Language Class Initialized
+INFO - 2020-02-05 19:04:48 --> Loader Class Initialized
+INFO - 2020-02-05 19:04:48 --> Helper loaded: url_helper
+INFO - 2020-02-05 19:04:48 --> Helper loaded: file_helper
+INFO - 2020-02-05 19:04:48 --> Helper loaded: form_helper
+INFO - 2020-02-05 19:04:48 --> Helper loaded: security_helper
+INFO - 2020-02-05 19:04:48 --> Database Driver Class Initialized
+INFO - 2020-02-05 19:04:48 --> Email Class Initialized
+INFO - 2020-02-05 19:04:48 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 19:04:48 --> Form Validation Class Initialized
+INFO - 2020-02-05 19:04:48 --> Controller Class Initialized
+INFO - 2020-02-05 19:04:48 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 19:04:48 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 19:04:48 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 19:04:48 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 19:04:48 --> Pagination Class Initialized
+INFO - 2020-02-05 19:04:48 --> MY_Model class loaded
+INFO - 2020-02-05 19:04:48 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 19:04:48 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/headerhtml.php
+ERROR - 2020-02-05 19:04:48 --> Severity: Notice --> Undefined variable: albumlist E:\xampp\htdocs\hira\app\views\administrator\addalbumsimageshtml.php 23
+ERROR - 2020-02-05 19:04:48 --> Severity: Warning --> Invalid argument supplied for foreach() E:\xampp\htdocs\hira\app\views\administrator\addalbumsimageshtml.php 23
+INFO - 2020-02-05 19:04:48 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/addalbumsimageshtml.php
+INFO - 2020-02-05 19:04:48 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 19:04:48 --> Final output sent to browser
+DEBUG - 2020-02-05 19:04:48 --> Total execution time: 0.7922
+INFO - 2020-02-05 19:06:11 --> Config Class Initialized
+INFO - 2020-02-05 19:06:11 --> Hooks Class Initialized
+DEBUG - 2020-02-05 19:06:11 --> UTF-8 Support Enabled
+INFO - 2020-02-05 19:06:11 --> Utf8 Class Initialized
+INFO - 2020-02-05 19:06:11 --> URI Class Initialized
+INFO - 2020-02-05 19:06:11 --> Router Class Initialized
+INFO - 2020-02-05 19:06:11 --> Output Class Initialized
+INFO - 2020-02-05 19:06:11 --> Security Class Initialized
+DEBUG - 2020-02-05 19:06:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 19:06:11 --> CSRF cookie sent
+INFO - 2020-02-05 19:06:11 --> Input Class Initialized
+INFO - 2020-02-05 19:06:11 --> Language Class Initialized
+INFO - 2020-02-05 19:06:11 --> Loader Class Initialized
+INFO - 2020-02-05 19:06:11 --> Helper loaded: url_helper
+INFO - 2020-02-05 19:06:11 --> Helper loaded: file_helper
+INFO - 2020-02-05 19:06:11 --> Helper loaded: form_helper
+INFO - 2020-02-05 19:06:11 --> Helper loaded: security_helper
+INFO - 2020-02-05 19:06:11 --> Database Driver Class Initialized
+INFO - 2020-02-05 19:06:11 --> Email Class Initialized
+INFO - 2020-02-05 19:06:11 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 19:06:11 --> Form Validation Class Initialized
+INFO - 2020-02-05 19:06:11 --> Controller Class Initialized
+INFO - 2020-02-05 19:06:11 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 19:06:11 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 19:06:11 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 19:06:11 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 19:06:11 --> Pagination Class Initialized
+INFO - 2020-02-05 19:06:11 --> MY_Model class loaded
+INFO - 2020-02-05 19:06:11 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 19:06:12 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/headerhtml.php
+ERROR - 2020-02-05 19:06:12 --> Severity: Notice --> Undefined variable: albumlist E:\xampp\htdocs\hira\app\views\administrator\addalbumsimageshtml.php 23
+ERROR - 2020-02-05 19:06:12 --> Severity: Warning --> Invalid argument supplied for foreach() E:\xampp\htdocs\hira\app\views\administrator\addalbumsimageshtml.php 23
+INFO - 2020-02-05 19:06:12 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/addalbumsimageshtml.php
+INFO - 2020-02-05 19:06:12 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 19:06:12 --> Final output sent to browser
+DEBUG - 2020-02-05 19:06:12 --> Total execution time: 0.9819
+INFO - 2020-02-05 19:06:22 --> Config Class Initialized
+INFO - 2020-02-05 19:06:22 --> Hooks Class Initialized
+DEBUG - 2020-02-05 19:06:22 --> UTF-8 Support Enabled
+INFO - 2020-02-05 19:06:22 --> Utf8 Class Initialized
+INFO - 2020-02-05 19:06:22 --> URI Class Initialized
+INFO - 2020-02-05 19:06:22 --> Router Class Initialized
+INFO - 2020-02-05 19:06:22 --> Output Class Initialized
+INFO - 2020-02-05 19:06:22 --> Security Class Initialized
+DEBUG - 2020-02-05 19:06:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 19:06:22 --> CSRF cookie sent
+INFO - 2020-02-05 19:06:22 --> Input Class Initialized
+INFO - 2020-02-05 19:06:22 --> Language Class Initialized
+INFO - 2020-02-05 19:06:22 --> Loader Class Initialized
+INFO - 2020-02-05 19:06:22 --> Helper loaded: url_helper
+INFO - 2020-02-05 19:06:22 --> Helper loaded: file_helper
+INFO - 2020-02-05 19:06:22 --> Helper loaded: form_helper
+INFO - 2020-02-05 19:06:22 --> Helper loaded: security_helper
+INFO - 2020-02-05 19:06:22 --> Database Driver Class Initialized
+INFO - 2020-02-05 19:06:22 --> Email Class Initialized
+INFO - 2020-02-05 19:06:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 19:06:22 --> Form Validation Class Initialized
+INFO - 2020-02-05 19:06:22 --> Controller Class Initialized
+INFO - 2020-02-05 19:06:22 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 19:06:22 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 19:06:22 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 19:06:22 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 19:06:22 --> Pagination Class Initialized
+INFO - 2020-02-05 19:06:22 --> MY_Model class loaded
+INFO - 2020-02-05 19:06:22 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 19:08:53 --> Config Class Initialized
+INFO - 2020-02-05 19:08:53 --> Hooks Class Initialized
+DEBUG - 2020-02-05 19:08:53 --> UTF-8 Support Enabled
+INFO - 2020-02-05 19:08:53 --> Utf8 Class Initialized
+INFO - 2020-02-05 19:08:53 --> URI Class Initialized
+INFO - 2020-02-05 19:08:53 --> Router Class Initialized
+INFO - 2020-02-05 19:08:53 --> Output Class Initialized
+INFO - 2020-02-05 19:08:53 --> Security Class Initialized
+DEBUG - 2020-02-05 19:08:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 19:08:53 --> CSRF cookie sent
+INFO - 2020-02-05 19:08:53 --> Input Class Initialized
+INFO - 2020-02-05 19:08:54 --> Language Class Initialized
+INFO - 2020-02-05 19:08:54 --> Loader Class Initialized
+INFO - 2020-02-05 19:08:54 --> Helper loaded: url_helper
+INFO - 2020-02-05 19:08:54 --> Helper loaded: file_helper
+INFO - 2020-02-05 19:08:54 --> Helper loaded: form_helper
+INFO - 2020-02-05 19:08:54 --> Helper loaded: security_helper
+INFO - 2020-02-05 19:08:54 --> Database Driver Class Initialized
+INFO - 2020-02-05 19:08:54 --> Email Class Initialized
+INFO - 2020-02-05 19:08:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 19:08:54 --> Form Validation Class Initialized
+INFO - 2020-02-05 19:08:54 --> Controller Class Initialized
+INFO - 2020-02-05 19:08:54 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 19:08:54 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 19:08:54 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 19:08:54 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 19:08:54 --> Pagination Class Initialized
+INFO - 2020-02-05 19:08:54 --> MY_Model class loaded
+INFO - 2020-02-05 19:08:54 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 19:09:51 --> Config Class Initialized
+INFO - 2020-02-05 19:09:51 --> Hooks Class Initialized
+DEBUG - 2020-02-05 19:09:51 --> UTF-8 Support Enabled
+INFO - 2020-02-05 19:09:51 --> Utf8 Class Initialized
+INFO - 2020-02-05 19:09:51 --> URI Class Initialized
+INFO - 2020-02-05 19:09:51 --> Router Class Initialized
+INFO - 2020-02-05 19:09:51 --> Output Class Initialized
+INFO - 2020-02-05 19:09:51 --> Security Class Initialized
+DEBUG - 2020-02-05 19:09:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 19:09:51 --> CSRF cookie sent
+INFO - 2020-02-05 19:09:51 --> Input Class Initialized
+INFO - 2020-02-05 19:09:51 --> Language Class Initialized
+INFO - 2020-02-05 19:09:51 --> Loader Class Initialized
+INFO - 2020-02-05 19:09:51 --> Helper loaded: url_helper
+INFO - 2020-02-05 19:09:51 --> Helper loaded: file_helper
+INFO - 2020-02-05 19:09:51 --> Helper loaded: form_helper
+INFO - 2020-02-05 19:09:51 --> Helper loaded: security_helper
+INFO - 2020-02-05 19:09:51 --> Database Driver Class Initialized
+INFO - 2020-02-05 19:09:51 --> Email Class Initialized
+INFO - 2020-02-05 19:09:52 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 19:09:52 --> Form Validation Class Initialized
+INFO - 2020-02-05 19:09:52 --> Controller Class Initialized
+INFO - 2020-02-05 19:09:52 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 19:09:52 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 19:09:52 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 19:09:52 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 19:09:52 --> Pagination Class Initialized
+INFO - 2020-02-05 19:09:52 --> MY_Model class loaded
+INFO - 2020-02-05 19:09:52 --> Model "Dashboard_model" initialized
+ERROR - 2020-02-05 19:09:52 --> Severity: Notice --> Undefined variable: albumlist E:\xampp\htdocs\hira\app\controllers\administrator\Dashboard.php 293
+INFO - 2020-02-05 19:09:52 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/headerhtml.php
+ERROR - 2020-02-05 19:09:52 --> Severity: Warning --> Invalid argument supplied for foreach() E:\xampp\htdocs\hira\app\views\administrator\addalbumsimageshtml.php 23
+INFO - 2020-02-05 19:09:52 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/addalbumsimageshtml.php
+INFO - 2020-02-05 19:09:52 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 19:09:52 --> Final output sent to browser
+DEBUG - 2020-02-05 19:09:52 --> Total execution time: 0.8958
+INFO - 2020-02-05 19:10:41 --> Config Class Initialized
+INFO - 2020-02-05 19:10:41 --> Hooks Class Initialized
+DEBUG - 2020-02-05 19:10:41 --> UTF-8 Support Enabled
+INFO - 2020-02-05 19:10:41 --> Utf8 Class Initialized
+INFO - 2020-02-05 19:10:41 --> URI Class Initialized
+INFO - 2020-02-05 19:10:41 --> Router Class Initialized
+INFO - 2020-02-05 19:10:41 --> Output Class Initialized
+INFO - 2020-02-05 19:10:41 --> Security Class Initialized
+DEBUG - 2020-02-05 19:10:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 19:10:41 --> CSRF cookie sent
+INFO - 2020-02-05 19:10:42 --> Input Class Initialized
+INFO - 2020-02-05 19:10:42 --> Language Class Initialized
+INFO - 2020-02-05 19:10:42 --> Loader Class Initialized
+INFO - 2020-02-05 19:10:42 --> Helper loaded: url_helper
+INFO - 2020-02-05 19:10:42 --> Helper loaded: file_helper
+INFO - 2020-02-05 19:10:42 --> Helper loaded: form_helper
+INFO - 2020-02-05 19:10:42 --> Helper loaded: security_helper
+INFO - 2020-02-05 19:10:42 --> Database Driver Class Initialized
+INFO - 2020-02-05 19:10:42 --> Email Class Initialized
+INFO - 2020-02-05 19:10:42 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 19:10:42 --> Form Validation Class Initialized
+INFO - 2020-02-05 19:10:42 --> Controller Class Initialized
+INFO - 2020-02-05 19:10:42 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 19:10:42 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 19:10:42 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 19:10:42 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 19:10:42 --> Pagination Class Initialized
+INFO - 2020-02-05 19:10:42 --> MY_Model class loaded
+INFO - 2020-02-05 19:10:42 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 19:10:42 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/headerhtml.php
+ERROR - 2020-02-05 19:10:42 --> Severity: Notice --> Undefined index: album_id E:\xampp\htdocs\hira\app\views\administrator\addalbumsimageshtml.php 24
+ERROR - 2020-02-05 19:10:42 --> Severity: Notice --> Undefined index: album_title E:\xampp\htdocs\hira\app\views\administrator\addalbumsimageshtml.php 24
+ERROR - 2020-02-05 19:10:42 --> Severity: Notice --> Undefined index: album_id E:\xampp\htdocs\hira\app\views\administrator\addalbumsimageshtml.php 24
+ERROR - 2020-02-05 19:10:42 --> Severity: Notice --> Undefined index: album_title E:\xampp\htdocs\hira\app\views\administrator\addalbumsimageshtml.php 24
+INFO - 2020-02-05 19:10:42 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/addalbumsimageshtml.php
+INFO - 2020-02-05 19:10:42 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 19:10:42 --> Final output sent to browser
+DEBUG - 2020-02-05 19:10:42 --> Total execution time: 0.8306
+INFO - 2020-02-05 19:11:26 --> Config Class Initialized
+INFO - 2020-02-05 19:11:26 --> Hooks Class Initialized
+DEBUG - 2020-02-05 19:11:27 --> UTF-8 Support Enabled
+INFO - 2020-02-05 19:11:27 --> Utf8 Class Initialized
+INFO - 2020-02-05 19:11:27 --> URI Class Initialized
+INFO - 2020-02-05 19:11:27 --> Router Class Initialized
+INFO - 2020-02-05 19:11:27 --> Output Class Initialized
+INFO - 2020-02-05 19:11:27 --> Security Class Initialized
+DEBUG - 2020-02-05 19:11:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 19:11:27 --> CSRF cookie sent
+INFO - 2020-02-05 19:11:27 --> Input Class Initialized
+INFO - 2020-02-05 19:11:27 --> Language Class Initialized
+INFO - 2020-02-05 19:11:27 --> Loader Class Initialized
+INFO - 2020-02-05 19:11:27 --> Helper loaded: url_helper
+INFO - 2020-02-05 19:11:27 --> Helper loaded: file_helper
+INFO - 2020-02-05 19:11:27 --> Helper loaded: form_helper
+INFO - 2020-02-05 19:11:27 --> Helper loaded: security_helper
+INFO - 2020-02-05 19:11:27 --> Database Driver Class Initialized
+INFO - 2020-02-05 19:11:27 --> Email Class Initialized
+INFO - 2020-02-05 19:11:27 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 19:11:27 --> Form Validation Class Initialized
+INFO - 2020-02-05 19:11:27 --> Controller Class Initialized
+INFO - 2020-02-05 19:11:27 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 19:11:27 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 19:11:27 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 19:11:27 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 19:11:27 --> Pagination Class Initialized
+INFO - 2020-02-05 19:11:27 --> MY_Model class loaded
+INFO - 2020-02-05 19:11:27 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 19:11:27 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/headerhtml.php
+INFO - 2020-02-05 19:11:27 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/addalbumsimageshtml.php
+INFO - 2020-02-05 19:11:27 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 19:11:27 --> Final output sent to browser
+DEBUG - 2020-02-05 19:11:27 --> Total execution time: 0.7601
+INFO - 2020-02-05 19:12:13 --> Config Class Initialized
+INFO - 2020-02-05 19:12:13 --> Hooks Class Initialized
+DEBUG - 2020-02-05 19:12:13 --> UTF-8 Support Enabled
+INFO - 2020-02-05 19:12:13 --> Utf8 Class Initialized
+INFO - 2020-02-05 19:12:13 --> URI Class Initialized
+INFO - 2020-02-05 19:12:13 --> Router Class Initialized
+INFO - 2020-02-05 19:12:13 --> Output Class Initialized
+INFO - 2020-02-05 19:12:13 --> Security Class Initialized
+DEBUG - 2020-02-05 19:12:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 19:12:13 --> CSRF cookie sent
+INFO - 2020-02-05 19:12:13 --> Input Class Initialized
+INFO - 2020-02-05 19:12:13 --> Language Class Initialized
+INFO - 2020-02-05 19:12:13 --> Loader Class Initialized
+INFO - 2020-02-05 19:12:13 --> Helper loaded: url_helper
+INFO - 2020-02-05 19:12:13 --> Helper loaded: file_helper
+INFO - 2020-02-05 19:12:13 --> Helper loaded: form_helper
+INFO - 2020-02-05 19:12:14 --> Helper loaded: security_helper
+INFO - 2020-02-05 19:12:14 --> Database Driver Class Initialized
+INFO - 2020-02-05 19:12:14 --> Email Class Initialized
+INFO - 2020-02-05 19:12:14 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 19:12:14 --> Form Validation Class Initialized
+INFO - 2020-02-05 19:12:14 --> Controller Class Initialized
+INFO - 2020-02-05 19:12:14 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 19:12:14 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 19:12:14 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 19:12:14 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 19:12:14 --> Pagination Class Initialized
+INFO - 2020-02-05 19:12:14 --> MY_Model class loaded
+INFO - 2020-02-05 19:12:14 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 19:12:14 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/headerhtml.php
+INFO - 2020-02-05 19:12:14 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/addalbumshtml.php
+INFO - 2020-02-05 19:12:14 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 19:12:14 --> Final output sent to browser
+DEBUG - 2020-02-05 19:12:14 --> Total execution time: 1.2359
+INFO - 2020-02-05 19:12:24 --> Config Class Initialized
+INFO - 2020-02-05 19:12:24 --> Hooks Class Initialized
+DEBUG - 2020-02-05 19:12:24 --> UTF-8 Support Enabled
+INFO - 2020-02-05 19:12:24 --> Utf8 Class Initialized
+INFO - 2020-02-05 19:12:24 --> URI Class Initialized
+INFO - 2020-02-05 19:12:24 --> Router Class Initialized
+INFO - 2020-02-05 19:12:24 --> Output Class Initialized
+INFO - 2020-02-05 19:12:24 --> Security Class Initialized
+DEBUG - 2020-02-05 19:12:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 19:12:24 --> CSRF cookie sent
+INFO - 2020-02-05 19:12:24 --> CSRF token verified
+INFO - 2020-02-05 19:12:24 --> Input Class Initialized
+INFO - 2020-02-05 19:12:24 --> Language Class Initialized
+INFO - 2020-02-05 19:12:24 --> Loader Class Initialized
+INFO - 2020-02-05 19:12:24 --> Helper loaded: url_helper
+INFO - 2020-02-05 19:12:24 --> Helper loaded: file_helper
+INFO - 2020-02-05 19:12:24 --> Helper loaded: form_helper
+INFO - 2020-02-05 19:12:24 --> Helper loaded: security_helper
+INFO - 2020-02-05 19:12:24 --> Database Driver Class Initialized
+INFO - 2020-02-05 19:12:24 --> Email Class Initialized
+INFO - 2020-02-05 19:12:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 19:12:24 --> Form Validation Class Initialized
+INFO - 2020-02-05 19:12:24 --> Controller Class Initialized
+INFO - 2020-02-05 19:12:24 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 19:12:24 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 19:12:24 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 19:12:24 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 19:12:24 --> Pagination Class Initialized
+INFO - 2020-02-05 19:12:25 --> MY_Model class loaded
+INFO - 2020-02-05 19:12:25 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 19:12:25 --> Language file loaded: language/en/form_validation_lang.php
+INFO - 2020-02-05 19:12:25 --> Final output sent to browser
+DEBUG - 2020-02-05 19:12:25 --> Total execution time: 0.8962
+INFO - 2020-02-05 19:12:25 --> Config Class Initialized
+INFO - 2020-02-05 19:12:25 --> Hooks Class Initialized
+DEBUG - 2020-02-05 19:12:25 --> UTF-8 Support Enabled
+INFO - 2020-02-05 19:12:25 --> Utf8 Class Initialized
+INFO - 2020-02-05 19:12:25 --> URI Class Initialized
+INFO - 2020-02-05 19:12:25 --> Router Class Initialized
+INFO - 2020-02-05 19:12:25 --> Output Class Initialized
+INFO - 2020-02-05 19:12:25 --> Security Class Initialized
+DEBUG - 2020-02-05 19:12:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-05 19:12:25 --> CSRF cookie sent
+INFO - 2020-02-05 19:12:25 --> Input Class Initialized
+INFO - 2020-02-05 19:12:25 --> Language Class Initialized
+INFO - 2020-02-05 19:12:25 --> Loader Class Initialized
+INFO - 2020-02-05 19:12:25 --> Helper loaded: url_helper
+INFO - 2020-02-05 19:12:25 --> Helper loaded: file_helper
+INFO - 2020-02-05 19:12:25 --> Helper loaded: form_helper
+INFO - 2020-02-05 19:12:25 --> Helper loaded: security_helper
+INFO - 2020-02-05 19:12:25 --> Database Driver Class Initialized
+INFO - 2020-02-05 19:12:25 --> Email Class Initialized
+INFO - 2020-02-05 19:12:25 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-05 19:12:25 --> Form Validation Class Initialized
+INFO - 2020-02-05 19:12:25 --> Controller Class Initialized
+INFO - 2020-02-05 19:12:25 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-05 19:12:25 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-05 19:12:25 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-05 19:12:25 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-05 19:12:25 --> Pagination Class Initialized
+INFO - 2020-02-05 19:12:26 --> MY_Model class loaded
+INFO - 2020-02-05 19:12:26 --> Model "Dashboard_model" initialized
+INFO - 2020-02-05 19:12:26 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/headerhtml.php
+INFO - 2020-02-05 19:12:26 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/albumslisthtml.php
+INFO - 2020-02-05 19:12:26 --> File loaded: E:\xampp\htdocs\hira\app\views\administrator/footerhtml.php
+INFO - 2020-02-05 19:12:26 --> Final output sent to browser
+DEBUG - 2020-02-05 19:12:26 --> Total execution time: 0.8778

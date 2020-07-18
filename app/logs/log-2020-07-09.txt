@@ -1,0 +1,39 @@
+INFO - 2020-07-09 15:59:21 --> Config Class Initialized
+INFO - 2020-07-09 15:59:21 --> Hooks Class Initialized
+DEBUG - 2020-07-09 15:59:21 --> UTF-8 Support Enabled
+INFO - 2020-07-09 15:59:21 --> Utf8 Class Initialized
+INFO - 2020-07-09 15:59:21 --> URI Class Initialized
+INFO - 2020-07-09 15:59:21 --> Router Class Initialized
+INFO - 2020-07-09 15:59:21 --> Output Class Initialized
+INFO - 2020-07-09 15:59:21 --> Security Class Initialized
+DEBUG - 2020-07-09 15:59:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-09 15:59:21 --> CSRF cookie sent
+INFO - 2020-07-09 15:59:21 --> Input Class Initialized
+INFO - 2020-07-09 15:59:21 --> Language Class Initialized
+ERROR - 2020-07-09 15:59:21 --> 404 Page Not Found: Assets/uploads
+INFO - 2020-07-09 15:59:22 --> Config Class Initialized
+INFO - 2020-07-09 15:59:22 --> Hooks Class Initialized
+DEBUG - 2020-07-09 15:59:22 --> UTF-8 Support Enabled
+INFO - 2020-07-09 15:59:22 --> Utf8 Class Initialized
+INFO - 2020-07-09 15:59:22 --> URI Class Initialized
+INFO - 2020-07-09 15:59:22 --> Router Class Initialized
+INFO - 2020-07-09 15:59:22 --> Output Class Initialized
+INFO - 2020-07-09 15:59:22 --> Security Class Initialized
+DEBUG - 2020-07-09 15:59:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-09 15:59:22 --> CSRF cookie sent
+INFO - 2020-07-09 15:59:22 --> Input Class Initialized
+INFO - 2020-07-09 15:59:22 --> Language Class Initialized
+ERROR - 2020-07-09 15:59:22 --> 404 Page Not Found: Assets/uploads
+INFO - 2020-07-09 16:01:21 --> Config Class Initialized
+INFO - 2020-07-09 16:01:22 --> Hooks Class Initialized
+DEBUG - 2020-07-09 16:01:22 --> UTF-8 Support Enabled
+INFO - 2020-07-09 16:01:22 --> Utf8 Class Initialized
+INFO - 2020-07-09 16:01:22 --> URI Class Initialized
+INFO - 2020-07-09 16:01:22 --> Router Class Initialized
+INFO - 2020-07-09 16:01:22 --> Output Class Initialized
+INFO - 2020-07-09 16:01:22 --> Security Class Initialized
+DEBUG - 2020-07-09 16:01:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-07-09 16:01:22 --> CSRF cookie sent
+INFO - 2020-07-09 16:01:22 --> Input Class Initialized
+INFO - 2020-07-09 16:01:22 --> Language Class Initialized
+ERROR - 2020-07-09 16:01:22 --> 404 Page Not Found: Assets/uploads

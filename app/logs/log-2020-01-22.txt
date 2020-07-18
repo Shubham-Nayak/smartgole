@@ -1,0 +1,411 @@
+INFO - 2020-01-22 18:47:43 --> Config Class Initialized
+INFO - 2020-01-22 18:47:43 --> Hooks Class Initialized
+DEBUG - 2020-01-22 18:47:43 --> UTF-8 Support Enabled
+INFO - 2020-01-22 18:47:43 --> Utf8 Class Initialized
+INFO - 2020-01-22 18:47:43 --> URI Class Initialized
+DEBUG - 2020-01-22 18:47:43 --> No URI present. Default controller set.
+INFO - 2020-01-22 18:47:43 --> Router Class Initialized
+INFO - 2020-01-22 18:47:43 --> Output Class Initialized
+INFO - 2020-01-22 18:47:43 --> Security Class Initialized
+DEBUG - 2020-01-22 18:47:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-22 18:47:43 --> Input Class Initialized
+INFO - 2020-01-22 18:47:43 --> Language Class Initialized
+INFO - 2020-01-22 18:47:43 --> Loader Class Initialized
+DEBUG - 2020-01-22 18:47:44 --> Config file loaded: C:\laragon\www\hira\app\config/recaptcha.php
+INFO - 2020-01-22 18:47:44 --> Helper loaded: url_helper
+INFO - 2020-01-22 18:47:44 --> Helper loaded: file_helper
+INFO - 2020-01-22 18:47:44 --> Helper loaded: form_helper
+INFO - 2020-01-22 18:47:44 --> Helper loaded: security_helper
+INFO - 2020-01-22 18:47:44 --> Helper loaded: emartadmin_helper
+INFO - 2020-01-22 18:47:44 --> Database Driver Class Initialized
+INFO - 2020-01-22 18:47:44 --> Email Class Initialized
+INFO - 2020-01-22 18:47:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-22 18:47:44 --> Form Validation Class Initialized
+INFO - 2020-01-22 18:47:45 --> Controller Class Initialized
+INFO - 2020-01-22 18:47:45 --> MY_Model class loaded
+ERROR - 2020-01-22 18:47:45 --> Severity: error --> Exception: Unable to locate the model you have specified: Home_model C:\laragon\www\hira\system\core\Loader.php 348
+ERROR - 2020-01-22 18:47:45 --> Severity: Warning --> include(C:\laragon\www\hira\app\views\errors\html\error_exception.php): failed to open stream: No such file or directory C:\laragon\www\hira\system\core\Exceptions.php 219
+ERROR - 2020-01-22 18:47:45 --> Severity: Warning --> include(): Failed opening 'C:\laragon\www\hira\app\views\errors\html\error_exception.php' for inclusion (include_path='.;C:/laragon/etc/php/pear') C:\laragon\www\hira\system\core\Exceptions.php 219
+INFO - 2020-01-22 18:48:11 --> Config Class Initialized
+INFO - 2020-01-22 18:48:11 --> Hooks Class Initialized
+DEBUG - 2020-01-22 18:48:11 --> UTF-8 Support Enabled
+INFO - 2020-01-22 18:48:11 --> Utf8 Class Initialized
+INFO - 2020-01-22 18:48:11 --> URI Class Initialized
+DEBUG - 2020-01-22 18:48:12 --> No URI present. Default controller set.
+INFO - 2020-01-22 18:48:12 --> Router Class Initialized
+INFO - 2020-01-22 18:48:12 --> Output Class Initialized
+INFO - 2020-01-22 18:48:12 --> Security Class Initialized
+DEBUG - 2020-01-22 18:48:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-22 18:48:12 --> Input Class Initialized
+INFO - 2020-01-22 18:48:12 --> Language Class Initialized
+INFO - 2020-01-22 18:48:12 --> Loader Class Initialized
+DEBUG - 2020-01-22 18:48:12 --> Config file loaded: C:\laragon\www\hira\app\config/recaptcha.php
+INFO - 2020-01-22 18:48:12 --> Helper loaded: url_helper
+INFO - 2020-01-22 18:48:12 --> Helper loaded: file_helper
+INFO - 2020-01-22 18:48:12 --> Helper loaded: form_helper
+INFO - 2020-01-22 18:48:12 --> Helper loaded: security_helper
+INFO - 2020-01-22 18:48:12 --> Helper loaded: emartadmin_helper
+INFO - 2020-01-22 18:48:12 --> Database Driver Class Initialized
+INFO - 2020-01-22 18:48:12 --> Email Class Initialized
+INFO - 2020-01-22 18:48:12 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-22 18:48:12 --> Form Validation Class Initialized
+INFO - 2020-01-22 18:48:12 --> Controller Class Initialized
+INFO - 2020-01-22 18:48:12 --> MY_Model class loaded
+ERROR - 2020-01-22 18:48:12 --> Severity: error --> Exception: Unable to locate the model you have specified: Home_model C:\laragon\www\hira\system\core\Loader.php 348
+INFO - 2020-01-22 18:49:00 --> Config Class Initialized
+INFO - 2020-01-22 18:49:00 --> Hooks Class Initialized
+DEBUG - 2020-01-22 18:49:00 --> UTF-8 Support Enabled
+INFO - 2020-01-22 18:49:00 --> Utf8 Class Initialized
+INFO - 2020-01-22 18:49:00 --> URI Class Initialized
+DEBUG - 2020-01-22 18:49:00 --> No URI present. Default controller set.
+INFO - 2020-01-22 18:49:00 --> Router Class Initialized
+INFO - 2020-01-22 18:49:00 --> Output Class Initialized
+INFO - 2020-01-22 18:49:00 --> Security Class Initialized
+DEBUG - 2020-01-22 18:49:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-22 18:49:00 --> Input Class Initialized
+INFO - 2020-01-22 18:49:00 --> Language Class Initialized
+ERROR - 2020-01-22 18:49:00 --> Severity: Warning --> require_once(C:\laragon\www\hira\app\/libraries/FrontController.php): failed to open stream: No such file or directory C:\laragon\www\hira\app\controllers\Welcome.php 3
+ERROR - 2020-01-22 18:49:00 --> Severity: Compile Error --> require_once(): Failed opening required 'C:\laragon\www\hira\app\/libraries/FrontController.php' (include_path='.;C:/laragon/etc/php/pear') C:\laragon\www\hira\app\controllers\Welcome.php 3
+INFO - 2020-01-22 18:50:07 --> Config Class Initialized
+INFO - 2020-01-22 18:50:07 --> Hooks Class Initialized
+DEBUG - 2020-01-22 18:50:07 --> UTF-8 Support Enabled
+INFO - 2020-01-22 18:50:08 --> Utf8 Class Initialized
+INFO - 2020-01-22 18:50:08 --> URI Class Initialized
+DEBUG - 2020-01-22 18:50:08 --> No URI present. Default controller set.
+INFO - 2020-01-22 18:50:08 --> Router Class Initialized
+INFO - 2020-01-22 18:50:08 --> Output Class Initialized
+INFO - 2020-01-22 18:50:08 --> Security Class Initialized
+DEBUG - 2020-01-22 18:50:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-22 18:50:08 --> Input Class Initialized
+INFO - 2020-01-22 18:50:08 --> Language Class Initialized
+INFO - 2020-01-22 18:50:08 --> Loader Class Initialized
+DEBUG - 2020-01-22 18:50:08 --> Config file loaded: C:\laragon\www\hira\app\config/recaptcha.php
+INFO - 2020-01-22 18:50:08 --> Helper loaded: url_helper
+INFO - 2020-01-22 18:50:08 --> Helper loaded: file_helper
+INFO - 2020-01-22 18:50:08 --> Helper loaded: form_helper
+INFO - 2020-01-22 18:50:08 --> Helper loaded: security_helper
+INFO - 2020-01-22 18:50:49 --> Config Class Initialized
+INFO - 2020-01-22 18:50:49 --> Hooks Class Initialized
+DEBUG - 2020-01-22 18:50:49 --> UTF-8 Support Enabled
+INFO - 2020-01-22 18:50:49 --> Utf8 Class Initialized
+INFO - 2020-01-22 18:50:49 --> URI Class Initialized
+DEBUG - 2020-01-22 18:50:49 --> No URI present. Default controller set.
+INFO - 2020-01-22 18:50:49 --> Router Class Initialized
+INFO - 2020-01-22 18:50:49 --> Output Class Initialized
+INFO - 2020-01-22 18:50:49 --> Security Class Initialized
+DEBUG - 2020-01-22 18:50:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-22 18:50:49 --> Input Class Initialized
+INFO - 2020-01-22 18:50:49 --> Language Class Initialized
+INFO - 2020-01-22 18:50:49 --> Loader Class Initialized
+INFO - 2020-01-22 18:50:49 --> Helper loaded: url_helper
+INFO - 2020-01-22 18:50:49 --> Helper loaded: file_helper
+INFO - 2020-01-22 18:50:49 --> Helper loaded: form_helper
+INFO - 2020-01-22 18:50:49 --> Helper loaded: security_helper
+INFO - 2020-01-22 18:50:49 --> Database Driver Class Initialized
+INFO - 2020-01-22 18:50:49 --> Email Class Initialized
+INFO - 2020-01-22 18:50:49 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-22 18:50:49 --> Form Validation Class Initialized
+INFO - 2020-01-22 18:50:49 --> Controller Class Initialized
+INFO - 2020-01-22 18:50:49 --> Final output sent to browser
+DEBUG - 2020-01-22 18:50:49 --> Total execution time: 0.4224
+INFO - 2020-01-22 18:50:51 --> Config Class Initialized
+INFO - 2020-01-22 18:50:51 --> Hooks Class Initialized
+DEBUG - 2020-01-22 18:50:51 --> UTF-8 Support Enabled
+INFO - 2020-01-22 18:50:51 --> Utf8 Class Initialized
+INFO - 2020-01-22 18:50:51 --> URI Class Initialized
+DEBUG - 2020-01-22 18:50:51 --> No URI present. Default controller set.
+INFO - 2020-01-22 18:50:51 --> Router Class Initialized
+INFO - 2020-01-22 18:50:51 --> Output Class Initialized
+INFO - 2020-01-22 18:50:51 --> Security Class Initialized
+DEBUG - 2020-01-22 18:50:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-22 18:50:51 --> Input Class Initialized
+INFO - 2020-01-22 18:50:51 --> Language Class Initialized
+INFO - 2020-01-22 18:50:51 --> Loader Class Initialized
+INFO - 2020-01-22 18:50:51 --> Helper loaded: url_helper
+INFO - 2020-01-22 18:50:51 --> Helper loaded: file_helper
+INFO - 2020-01-22 18:50:51 --> Helper loaded: form_helper
+INFO - 2020-01-22 18:50:51 --> Helper loaded: security_helper
+INFO - 2020-01-22 18:50:51 --> Database Driver Class Initialized
+INFO - 2020-01-22 18:50:51 --> Email Class Initialized
+INFO - 2020-01-22 18:50:51 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-22 18:50:51 --> Form Validation Class Initialized
+INFO - 2020-01-22 18:50:51 --> Controller Class Initialized
+INFO - 2020-01-22 18:50:51 --> Final output sent to browser
+DEBUG - 2020-01-22 18:50:51 --> Total execution time: 0.5827
+INFO - 2020-01-22 18:51:02 --> Config Class Initialized
+INFO - 2020-01-22 18:51:02 --> Hooks Class Initialized
+DEBUG - 2020-01-22 18:51:02 --> UTF-8 Support Enabled
+INFO - 2020-01-22 18:51:02 --> Utf8 Class Initialized
+INFO - 2020-01-22 18:51:02 --> URI Class Initialized
+DEBUG - 2020-01-22 18:51:02 --> No URI present. Default controller set.
+INFO - 2020-01-22 18:51:02 --> Router Class Initialized
+INFO - 2020-01-22 18:51:02 --> Output Class Initialized
+INFO - 2020-01-22 18:51:02 --> Security Class Initialized
+DEBUG - 2020-01-22 18:51:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-22 18:51:02 --> Input Class Initialized
+INFO - 2020-01-22 18:51:02 --> Language Class Initialized
+INFO - 2020-01-22 18:51:02 --> Loader Class Initialized
+INFO - 2020-01-22 18:51:02 --> Helper loaded: url_helper
+INFO - 2020-01-22 18:51:02 --> Helper loaded: file_helper
+INFO - 2020-01-22 18:51:02 --> Helper loaded: form_helper
+INFO - 2020-01-22 18:51:02 --> Helper loaded: security_helper
+INFO - 2020-01-22 18:51:02 --> Database Driver Class Initialized
+INFO - 2020-01-22 18:51:02 --> Email Class Initialized
+INFO - 2020-01-22 18:51:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-22 18:51:02 --> Form Validation Class Initialized
+INFO - 2020-01-22 18:51:02 --> Controller Class Initialized
+INFO - 2020-01-22 18:51:02 --> Final output sent to browser
+DEBUG - 2020-01-22 18:51:02 --> Total execution time: 0.4307
+INFO - 2020-01-22 18:51:07 --> Config Class Initialized
+INFO - 2020-01-22 18:51:07 --> Hooks Class Initialized
+DEBUG - 2020-01-22 18:51:07 --> UTF-8 Support Enabled
+INFO - 2020-01-22 18:51:07 --> Utf8 Class Initialized
+INFO - 2020-01-22 18:51:07 --> URI Class Initialized
+DEBUG - 2020-01-22 18:51:07 --> No URI present. Default controller set.
+INFO - 2020-01-22 18:51:07 --> Router Class Initialized
+INFO - 2020-01-22 18:51:07 --> Output Class Initialized
+INFO - 2020-01-22 18:51:07 --> Security Class Initialized
+DEBUG - 2020-01-22 18:51:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-22 18:51:07 --> Input Class Initialized
+INFO - 2020-01-22 18:51:07 --> Language Class Initialized
+ERROR - 2020-01-22 18:51:07 --> Severity: Warning --> require(C:\laragon\www\hira\app\/libraries/AdminBaseController.php): failed to open stream: No such file or directory C:\laragon\www\hira\app\controllers\administrator\Welcome.php 3
+ERROR - 2020-01-22 18:51:07 --> Severity: Compile Error --> require(): Failed opening required 'C:\laragon\www\hira\app\/libraries/AdminBaseController.php' (include_path='.;C:/laragon/etc/php/pear') C:\laragon\www\hira\app\controllers\administrator\Welcome.php 3
+INFO - 2020-01-22 18:58:54 --> Config Class Initialized
+INFO - 2020-01-22 18:58:54 --> Hooks Class Initialized
+DEBUG - 2020-01-22 18:58:54 --> UTF-8 Support Enabled
+INFO - 2020-01-22 18:58:54 --> Utf8 Class Initialized
+INFO - 2020-01-22 18:58:54 --> URI Class Initialized
+DEBUG - 2020-01-22 18:58:54 --> No URI present. Default controller set.
+INFO - 2020-01-22 18:58:54 --> Router Class Initialized
+INFO - 2020-01-22 18:58:54 --> Output Class Initialized
+INFO - 2020-01-22 18:58:54 --> Security Class Initialized
+DEBUG - 2020-01-22 18:58:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-22 18:58:54 --> Input Class Initialized
+INFO - 2020-01-22 18:58:54 --> Language Class Initialized
+INFO - 2020-01-22 18:58:54 --> Loader Class Initialized
+INFO - 2020-01-22 18:58:54 --> Helper loaded: url_helper
+INFO - 2020-01-22 18:58:54 --> Helper loaded: file_helper
+INFO - 2020-01-22 18:58:54 --> Helper loaded: form_helper
+INFO - 2020-01-22 18:58:54 --> Helper loaded: security_helper
+INFO - 2020-01-22 18:58:54 --> Database Driver Class Initialized
+INFO - 2020-01-22 18:58:54 --> Email Class Initialized
+INFO - 2020-01-22 18:58:54 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-22 18:58:54 --> Form Validation Class Initialized
+INFO - 2020-01-22 18:58:54 --> Controller Class Initialized
+INFO - 2020-01-22 18:59:23 --> Config Class Initialized
+INFO - 2020-01-22 18:59:23 --> Hooks Class Initialized
+DEBUG - 2020-01-22 18:59:23 --> UTF-8 Support Enabled
+INFO - 2020-01-22 18:59:23 --> Utf8 Class Initialized
+INFO - 2020-01-22 18:59:23 --> URI Class Initialized
+DEBUG - 2020-01-22 18:59:23 --> No URI present. Default controller set.
+INFO - 2020-01-22 18:59:23 --> Router Class Initialized
+INFO - 2020-01-22 18:59:23 --> Output Class Initialized
+INFO - 2020-01-22 18:59:23 --> Security Class Initialized
+DEBUG - 2020-01-22 18:59:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-22 18:59:23 --> Input Class Initialized
+INFO - 2020-01-22 18:59:23 --> Language Class Initialized
+INFO - 2020-01-22 18:59:24 --> Loader Class Initialized
+INFO - 2020-01-22 18:59:24 --> Helper loaded: url_helper
+INFO - 2020-01-22 18:59:24 --> Helper loaded: file_helper
+INFO - 2020-01-22 18:59:24 --> Helper loaded: form_helper
+INFO - 2020-01-22 18:59:24 --> Helper loaded: security_helper
+INFO - 2020-01-22 18:59:24 --> Database Driver Class Initialized
+INFO - 2020-01-22 18:59:24 --> Email Class Initialized
+INFO - 2020-01-22 18:59:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-22 18:59:24 --> Form Validation Class Initialized
+INFO - 2020-01-22 18:59:24 --> Controller Class Initialized
+INFO - 2020-01-22 18:59:24 --> Helper loaded: myadmin_helper
+INFO - 2020-01-22 18:59:24 --> MY_Model class loaded
+ERROR - 2020-01-22 18:59:24 --> Severity: error --> Exception: Unable to locate the model you have specified: Dashboard_model C:\laragon\www\hira\system\core\Loader.php 348
+INFO - 2020-01-22 19:00:06 --> Config Class Initialized
+INFO - 2020-01-22 19:00:06 --> Hooks Class Initialized
+DEBUG - 2020-01-22 19:00:06 --> UTF-8 Support Enabled
+INFO - 2020-01-22 19:00:06 --> Utf8 Class Initialized
+INFO - 2020-01-22 19:00:06 --> URI Class Initialized
+DEBUG - 2020-01-22 19:00:06 --> No URI present. Default controller set.
+INFO - 2020-01-22 19:00:06 --> Router Class Initialized
+INFO - 2020-01-22 19:00:06 --> Output Class Initialized
+INFO - 2020-01-22 19:00:06 --> Security Class Initialized
+DEBUG - 2020-01-22 19:00:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-22 19:00:06 --> Input Class Initialized
+INFO - 2020-01-22 19:00:06 --> Language Class Initialized
+INFO - 2020-01-22 19:00:06 --> Loader Class Initialized
+INFO - 2020-01-22 19:00:06 --> Helper loaded: url_helper
+INFO - 2020-01-22 19:00:06 --> Helper loaded: file_helper
+INFO - 2020-01-22 19:00:06 --> Helper loaded: form_helper
+INFO - 2020-01-22 19:00:06 --> Helper loaded: security_helper
+INFO - 2020-01-22 19:00:06 --> Database Driver Class Initialized
+INFO - 2020-01-22 19:00:07 --> Email Class Initialized
+INFO - 2020-01-22 19:00:07 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-22 19:00:07 --> Form Validation Class Initialized
+INFO - 2020-01-22 19:00:07 --> Controller Class Initialized
+INFO - 2020-01-22 19:00:07 --> Helper loaded: myadmin_helper
+INFO - 2020-01-22 19:00:07 --> MY_Model class loaded
+INFO - 2020-01-22 19:00:07 --> Model "Dashboard_model" initialized
+DEBUG - 2020-01-22 19:00:07 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-01-22 19:00:07 --> Form_validation class already loaded. Second attempt ignored.
+ERROR - 2020-01-22 19:00:07 --> Unable to load the requested class: Recaptcha
+INFO - 2020-01-22 19:00:28 --> Config Class Initialized
+INFO - 2020-01-22 19:00:28 --> Hooks Class Initialized
+DEBUG - 2020-01-22 19:00:28 --> UTF-8 Support Enabled
+INFO - 2020-01-22 19:00:28 --> Utf8 Class Initialized
+INFO - 2020-01-22 19:00:28 --> URI Class Initialized
+DEBUG - 2020-01-22 19:00:28 --> No URI present. Default controller set.
+INFO - 2020-01-22 19:00:28 --> Router Class Initialized
+INFO - 2020-01-22 19:00:28 --> Output Class Initialized
+INFO - 2020-01-22 19:00:28 --> Security Class Initialized
+DEBUG - 2020-01-22 19:00:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-22 19:00:28 --> Input Class Initialized
+INFO - 2020-01-22 19:00:28 --> Language Class Initialized
+INFO - 2020-01-22 19:00:28 --> Loader Class Initialized
+INFO - 2020-01-22 19:00:28 --> Helper loaded: url_helper
+INFO - 2020-01-22 19:00:28 --> Helper loaded: file_helper
+INFO - 2020-01-22 19:00:28 --> Helper loaded: form_helper
+INFO - 2020-01-22 19:00:28 --> Helper loaded: security_helper
+INFO - 2020-01-22 19:00:28 --> Database Driver Class Initialized
+INFO - 2020-01-22 19:00:28 --> Email Class Initialized
+INFO - 2020-01-22 19:00:28 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-22 19:00:28 --> Form Validation Class Initialized
+INFO - 2020-01-22 19:00:28 --> Controller Class Initialized
+INFO - 2020-01-22 19:00:28 --> Helper loaded: myadmin_helper
+INFO - 2020-01-22 19:00:28 --> MY_Model class loaded
+INFO - 2020-01-22 19:00:28 --> Model "Dashboard_model" initialized
+DEBUG - 2020-01-22 19:00:28 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-01-22 19:00:28 --> Form_validation class already loaded. Second attempt ignored.
+ERROR - 2020-01-22 19:00:28 --> Unable to load the requested class: Recaptcha
+INFO - 2020-01-22 19:00:30 --> Config Class Initialized
+INFO - 2020-01-22 19:00:30 --> Hooks Class Initialized
+DEBUG - 2020-01-22 19:00:30 --> UTF-8 Support Enabled
+INFO - 2020-01-22 19:00:30 --> Utf8 Class Initialized
+INFO - 2020-01-22 19:00:30 --> URI Class Initialized
+DEBUG - 2020-01-22 19:00:30 --> No URI present. Default controller set.
+INFO - 2020-01-22 19:00:30 --> Router Class Initialized
+INFO - 2020-01-22 19:00:30 --> Output Class Initialized
+INFO - 2020-01-22 19:00:30 --> Security Class Initialized
+DEBUG - 2020-01-22 19:00:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-22 19:00:30 --> Input Class Initialized
+INFO - 2020-01-22 19:00:30 --> Language Class Initialized
+INFO - 2020-01-22 19:00:30 --> Loader Class Initialized
+INFO - 2020-01-22 19:00:30 --> Helper loaded: url_helper
+INFO - 2020-01-22 19:00:30 --> Helper loaded: file_helper
+INFO - 2020-01-22 19:00:30 --> Helper loaded: form_helper
+INFO - 2020-01-22 19:00:30 --> Helper loaded: security_helper
+INFO - 2020-01-22 19:00:30 --> Database Driver Class Initialized
+INFO - 2020-01-22 19:00:30 --> Email Class Initialized
+INFO - 2020-01-22 19:00:30 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-22 19:00:30 --> Form Validation Class Initialized
+INFO - 2020-01-22 19:00:30 --> Controller Class Initialized
+INFO - 2020-01-22 19:00:30 --> Helper loaded: myadmin_helper
+INFO - 2020-01-22 19:00:30 --> MY_Model class loaded
+INFO - 2020-01-22 19:00:30 --> Model "Dashboard_model" initialized
+DEBUG - 2020-01-22 19:00:30 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-01-22 19:00:30 --> Form_validation class already loaded. Second attempt ignored.
+ERROR - 2020-01-22 19:00:30 --> Unable to load the requested class: Recaptcha
+INFO - 2020-01-22 19:00:31 --> Config Class Initialized
+INFO - 2020-01-22 19:00:31 --> Hooks Class Initialized
+DEBUG - 2020-01-22 19:00:31 --> UTF-8 Support Enabled
+INFO - 2020-01-22 19:00:31 --> Utf8 Class Initialized
+INFO - 2020-01-22 19:00:31 --> URI Class Initialized
+DEBUG - 2020-01-22 19:00:32 --> No URI present. Default controller set.
+INFO - 2020-01-22 19:00:32 --> Router Class Initialized
+INFO - 2020-01-22 19:00:32 --> Output Class Initialized
+INFO - 2020-01-22 19:00:32 --> Security Class Initialized
+DEBUG - 2020-01-22 19:00:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-22 19:00:32 --> Input Class Initialized
+INFO - 2020-01-22 19:00:32 --> Language Class Initialized
+INFO - 2020-01-22 19:00:32 --> Loader Class Initialized
+INFO - 2020-01-22 19:00:32 --> Helper loaded: url_helper
+INFO - 2020-01-22 19:00:32 --> Helper loaded: file_helper
+INFO - 2020-01-22 19:00:32 --> Helper loaded: form_helper
+INFO - 2020-01-22 19:00:32 --> Helper loaded: security_helper
+INFO - 2020-01-22 19:00:32 --> Database Driver Class Initialized
+INFO - 2020-01-22 19:00:32 --> Email Class Initialized
+INFO - 2020-01-22 19:00:32 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-22 19:00:32 --> Form Validation Class Initialized
+INFO - 2020-01-22 19:00:32 --> Controller Class Initialized
+INFO - 2020-01-22 19:00:32 --> Helper loaded: myadmin_helper
+INFO - 2020-01-22 19:00:32 --> MY_Model class loaded
+INFO - 2020-01-22 19:00:32 --> Model "Dashboard_model" initialized
+DEBUG - 2020-01-22 19:00:32 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-01-22 19:00:32 --> Form_validation class already loaded. Second attempt ignored.
+ERROR - 2020-01-22 19:00:32 --> Unable to load the requested class: Recaptcha
+INFO - 2020-01-22 19:00:38 --> Config Class Initialized
+INFO - 2020-01-22 19:00:38 --> Hooks Class Initialized
+DEBUG - 2020-01-22 19:00:38 --> UTF-8 Support Enabled
+INFO - 2020-01-22 19:00:38 --> Utf8 Class Initialized
+INFO - 2020-01-22 19:00:38 --> URI Class Initialized
+DEBUG - 2020-01-22 19:00:38 --> No URI present. Default controller set.
+INFO - 2020-01-22 19:00:38 --> Router Class Initialized
+INFO - 2020-01-22 19:00:38 --> Output Class Initialized
+INFO - 2020-01-22 19:00:38 --> Security Class Initialized
+DEBUG - 2020-01-22 19:00:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-22 19:00:38 --> Input Class Initialized
+INFO - 2020-01-22 19:00:38 --> Language Class Initialized
+INFO - 2020-01-22 19:00:38 --> Loader Class Initialized
+INFO - 2020-01-22 19:00:38 --> Helper loaded: url_helper
+INFO - 2020-01-22 19:00:38 --> Helper loaded: file_helper
+INFO - 2020-01-22 19:00:38 --> Helper loaded: form_helper
+INFO - 2020-01-22 19:00:38 --> Helper loaded: security_helper
+INFO - 2020-01-22 19:00:38 --> Database Driver Class Initialized
+INFO - 2020-01-22 19:00:38 --> Email Class Initialized
+INFO - 2020-01-22 19:00:38 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-22 19:00:38 --> Form Validation Class Initialized
+INFO - 2020-01-22 19:00:38 --> Controller Class Initialized
+INFO - 2020-01-22 19:00:38 --> Helper loaded: myadmin_helper
+INFO - 2020-01-22 19:00:38 --> MY_Model class loaded
+INFO - 2020-01-22 19:00:38 --> Model "Dashboard_model" initialized
+DEBUG - 2020-01-22 19:00:38 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-01-22 19:00:38 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2020-01-22 19:00:38 --> Config file loaded: C:\laragon\www\hira\app\config/recaptcha.php
+INFO - 2020-01-22 19:00:38 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-01-22 19:00:38 --> Pagination Class Initialized
+INFO - 2020-01-22 19:01:59 --> Config Class Initialized
+INFO - 2020-01-22 19:01:59 --> Hooks Class Initialized
+DEBUG - 2020-01-22 19:01:59 --> UTF-8 Support Enabled
+INFO - 2020-01-22 19:01:59 --> Utf8 Class Initialized
+INFO - 2020-01-22 19:01:59 --> URI Class Initialized
+INFO - 2020-01-22 19:01:59 --> Router Class Initialized
+INFO - 2020-01-22 19:01:59 --> Output Class Initialized
+INFO - 2020-01-22 19:01:59 --> Security Class Initialized
+DEBUG - 2020-01-22 19:01:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-22 19:01:59 --> Input Class Initialized
+INFO - 2020-01-22 19:01:59 --> Language Class Initialized
+INFO - 2020-01-22 19:01:59 --> Loader Class Initialized
+INFO - 2020-01-22 19:01:59 --> Helper loaded: url_helper
+INFO - 2020-01-22 19:01:59 --> Helper loaded: file_helper
+INFO - 2020-01-22 19:01:59 --> Helper loaded: form_helper
+INFO - 2020-01-22 19:01:59 --> Helper loaded: security_helper
+INFO - 2020-01-22 19:01:59 --> Database Driver Class Initialized
+INFO - 2020-01-22 19:01:59 --> Email Class Initialized
+INFO - 2020-01-22 19:01:59 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-22 19:01:59 --> Form Validation Class Initialized
+INFO - 2020-01-22 19:01:59 --> Controller Class Initialized
+INFO - 2020-01-22 19:01:59 --> Helper loaded: myadmin_helper
+INFO - 2020-01-22 19:01:59 --> MY_Model class loaded
+INFO - 2020-01-22 19:01:59 --> Model "Dashboard_model" initialized
+ERROR - 2020-01-22 19:01:59 --> Severity: Warning --> Use of undefined constant SUPERADMIN - assumed 'SUPERADMIN' (this will throw an Error in a future version of PHP) C:\laragon\www\hira\app\controllers\administrator\Dashboard.php 7
+ERROR - 2020-01-22 19:01:59 --> Severity: Notice --> Undefined property: Dashboard::$userid C:\laragon\www\hira\app\controllers\administrator\Dashboard.php 7
+INFO - 2020-01-22 19:02:06 --> Config Class Initialized
+INFO - 2020-01-22 19:02:06 --> Hooks Class Initialized
+DEBUG - 2020-01-22 19:02:06 --> UTF-8 Support Enabled
+INFO - 2020-01-22 19:02:06 --> Utf8 Class Initialized
+INFO - 2020-01-22 19:02:06 --> URI Class Initialized
+INFO - 2020-01-22 19:02:06 --> Router Class Initialized
+INFO - 2020-01-22 19:02:06 --> Output Class Initialized
+INFO - 2020-01-22 19:02:06 --> Security Class Initialized
+DEBUG - 2020-01-22 19:02:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-01-22 19:02:06 --> Input Class Initialized
+INFO - 2020-01-22 19:02:06 --> Language Class Initialized
+INFO - 2020-01-22 19:02:06 --> Loader Class Initialized
+INFO - 2020-01-22 19:02:06 --> Helper loaded: url_helper
+INFO - 2020-01-22 19:02:06 --> Helper loaded: file_helper
+INFO - 2020-01-22 19:02:06 --> Helper loaded: form_helper
+INFO - 2020-01-22 19:02:06 --> Helper loaded: security_helper
+INFO - 2020-01-22 19:02:06 --> Database Driver Class Initialized
+INFO - 2020-01-22 19:02:07 --> Email Class Initialized
+INFO - 2020-01-22 19:02:07 --> Session: Class initialized using 'files' driver.
+INFO - 2020-01-22 19:02:07 --> Form Validation Class Initialized
+INFO - 2020-01-22 19:02:07 --> Controller Class Initialized
+INFO - 2020-01-22 19:02:07 --> Helper loaded: myadmin_helper
+INFO - 2020-01-22 19:02:07 --> MY_Model class loaded
+INFO - 2020-01-22 19:02:07 --> Model "Dashboard_model" initialized

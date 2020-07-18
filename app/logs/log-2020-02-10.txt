@@ -1,0 +1,673 @@
+INFO - 2020-02-10 16:37:25 --> Config Class Initialized
+INFO - 2020-02-10 16:37:25 --> Hooks Class Initialized
+DEBUG - 2020-02-10 16:37:25 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:37:25 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:37:25 --> URI Class Initialized
+DEBUG - 2020-02-10 16:37:25 --> No URI present. Default controller set.
+INFO - 2020-02-10 16:37:25 --> Router Class Initialized
+INFO - 2020-02-10 16:37:25 --> Output Class Initialized
+INFO - 2020-02-10 16:37:25 --> Security Class Initialized
+DEBUG - 2020-02-10 16:37:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:37:25 --> CSRF cookie sent
+INFO - 2020-02-10 16:37:25 --> Input Class Initialized
+INFO - 2020-02-10 16:37:25 --> Language Class Initialized
+INFO - 2020-02-10 16:37:25 --> Loader Class Initialized
+INFO - 2020-02-10 16:37:25 --> Helper loaded: url_helper
+INFO - 2020-02-10 16:37:25 --> Helper loaded: file_helper
+INFO - 2020-02-10 16:37:25 --> Helper loaded: form_helper
+INFO - 2020-02-10 16:37:25 --> Helper loaded: security_helper
+INFO - 2020-02-10 16:37:26 --> Database Driver Class Initialized
+INFO - 2020-02-10 16:37:26 --> Email Class Initialized
+INFO - 2020-02-10 16:37:26 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-10 16:37:26 --> Form Validation Class Initialized
+INFO - 2020-02-10 16:37:26 --> Controller Class Initialized
+INFO - 2020-02-10 16:37:26 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-10 16:37:26 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-10 16:37:26 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-10 16:37:26 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-10 16:37:26 --> Pagination Class Initialized
+INFO - 2020-02-10 16:37:26 --> MY_Model class loaded
+INFO - 2020-02-10 16:37:26 --> Model "Dashboard_model" initialized
+DEBUG - 2020-02-10 16:37:26 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-10 16:37:26 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-10 16:37:26 --> Helper loaded: captcha_helper
+INFO - 2020-02-10 16:37:26 --> File loaded: E:\Website Hosting\haps.co.in\hapsdev\app\views\loginhtml.php
+INFO - 2020-02-10 16:37:26 --> Final output sent to browser
+DEBUG - 2020-02-10 16:37:26 --> Total execution time: 0.4671
+INFO - 2020-02-10 16:37:40 --> Config Class Initialized
+INFO - 2020-02-10 16:37:40 --> Hooks Class Initialized
+DEBUG - 2020-02-10 16:37:40 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:37:40 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:37:40 --> URI Class Initialized
+INFO - 2020-02-10 16:37:40 --> Router Class Initialized
+INFO - 2020-02-10 16:37:40 --> Output Class Initialized
+INFO - 2020-02-10 16:37:40 --> Security Class Initialized
+DEBUG - 2020-02-10 16:37:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:37:40 --> CSRF cookie sent
+INFO - 2020-02-10 16:37:40 --> Input Class Initialized
+INFO - 2020-02-10 16:37:40 --> Language Class Initialized
+ERROR - 2020-02-10 16:37:40 --> 404 Page Not Found: Img/favicon.png
+INFO - 2020-02-10 16:37:45 --> Config Class Initialized
+INFO - 2020-02-10 16:37:45 --> Hooks Class Initialized
+DEBUG - 2020-02-10 16:37:45 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:37:45 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:37:45 --> URI Class Initialized
+INFO - 2020-02-10 16:37:45 --> Router Class Initialized
+INFO - 2020-02-10 16:37:45 --> Output Class Initialized
+INFO - 2020-02-10 16:37:45 --> Security Class Initialized
+DEBUG - 2020-02-10 16:37:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:37:45 --> CSRF cookie sent
+INFO - 2020-02-10 16:37:45 --> CSRF token verified
+INFO - 2020-02-10 16:37:45 --> Input Class Initialized
+INFO - 2020-02-10 16:37:45 --> Language Class Initialized
+INFO - 2020-02-10 16:37:45 --> Loader Class Initialized
+INFO - 2020-02-10 16:37:45 --> Helper loaded: url_helper
+INFO - 2020-02-10 16:37:45 --> Helper loaded: file_helper
+INFO - 2020-02-10 16:37:45 --> Helper loaded: form_helper
+INFO - 2020-02-10 16:37:45 --> Helper loaded: security_helper
+INFO - 2020-02-10 16:37:46 --> Database Driver Class Initialized
+INFO - 2020-02-10 16:37:46 --> Email Class Initialized
+INFO - 2020-02-10 16:37:46 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-10 16:37:46 --> Form Validation Class Initialized
+INFO - 2020-02-10 16:37:46 --> Controller Class Initialized
+INFO - 2020-02-10 16:37:46 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-10 16:37:46 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-10 16:37:46 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-10 16:37:46 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-10 16:37:46 --> Pagination Class Initialized
+INFO - 2020-02-10 16:37:46 --> MY_Model class loaded
+INFO - 2020-02-10 16:37:46 --> Model "Dashboard_model" initialized
+DEBUG - 2020-02-10 16:37:46 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-10 16:37:46 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-10 16:37:46 --> Helper loaded: captcha_helper
+INFO - 2020-02-10 16:37:46 --> Language file loaded: language/en/form_validation_lang.php
+INFO - 2020-02-10 16:37:46 --> Config Class Initialized
+INFO - 2020-02-10 16:37:46 --> Hooks Class Initialized
+DEBUG - 2020-02-10 16:37:46 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:37:46 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:37:46 --> URI Class Initialized
+INFO - 2020-02-10 16:37:46 --> Router Class Initialized
+INFO - 2020-02-10 16:37:46 --> Output Class Initialized
+INFO - 2020-02-10 16:37:46 --> Security Class Initialized
+DEBUG - 2020-02-10 16:37:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:37:46 --> CSRF cookie sent
+INFO - 2020-02-10 16:37:46 --> Input Class Initialized
+INFO - 2020-02-10 16:37:46 --> Language Class Initialized
+INFO - 2020-02-10 16:37:46 --> Loader Class Initialized
+INFO - 2020-02-10 16:37:46 --> Helper loaded: url_helper
+INFO - 2020-02-10 16:37:46 --> Helper loaded: file_helper
+INFO - 2020-02-10 16:37:46 --> Helper loaded: form_helper
+INFO - 2020-02-10 16:37:46 --> Helper loaded: security_helper
+INFO - 2020-02-10 16:37:46 --> Database Driver Class Initialized
+INFO - 2020-02-10 16:37:46 --> Email Class Initialized
+INFO - 2020-02-10 16:37:46 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-10 16:37:46 --> Form Validation Class Initialized
+INFO - 2020-02-10 16:37:46 --> Controller Class Initialized
+INFO - 2020-02-10 16:37:46 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-10 16:37:46 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-10 16:37:46 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-10 16:37:46 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-10 16:37:46 --> Pagination Class Initialized
+INFO - 2020-02-10 16:37:46 --> MY_Model class loaded
+INFO - 2020-02-10 16:37:46 --> Model "Dashboard_model" initialized
+INFO - 2020-02-10 16:37:46 --> File loaded: E:\Website Hosting\haps.co.in\hapsdev\app\views\administrator/headerhtml.php
+INFO - 2020-02-10 16:37:46 --> File loaded: E:\Website Hosting\haps.co.in\hapsdev\app\views\administrator/cmspageslisthtml.php
+INFO - 2020-02-10 16:37:46 --> File loaded: E:\Website Hosting\haps.co.in\hapsdev\app\views\administrator/footerhtml.php
+INFO - 2020-02-10 16:37:46 --> Final output sent to browser
+DEBUG - 2020-02-10 16:37:46 --> Total execution time: 0.2948
+INFO - 2020-02-10 16:37:50 --> Config Class Initialized
+INFO - 2020-02-10 16:37:50 --> Hooks Class Initialized
+DEBUG - 2020-02-10 16:37:50 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:37:50 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:37:50 --> URI Class Initialized
+INFO - 2020-02-10 16:37:50 --> Router Class Initialized
+INFO - 2020-02-10 16:37:50 --> Output Class Initialized
+INFO - 2020-02-10 16:37:50 --> Security Class Initialized
+DEBUG - 2020-02-10 16:37:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:37:50 --> CSRF cookie sent
+INFO - 2020-02-10 16:37:50 --> Input Class Initialized
+INFO - 2020-02-10 16:37:50 --> Language Class Initialized
+ERROR - 2020-02-10 16:37:50 --> 404 Page Not Found: administrator/Img/favicon.png
+INFO - 2020-02-10 16:37:56 --> Config Class Initialized
+INFO - 2020-02-10 16:37:56 --> Hooks Class Initialized
+DEBUG - 2020-02-10 16:37:56 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:37:56 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:37:56 --> URI Class Initialized
+INFO - 2020-02-10 16:37:56 --> Router Class Initialized
+INFO - 2020-02-10 16:37:56 --> Output Class Initialized
+INFO - 2020-02-10 16:37:56 --> Security Class Initialized
+DEBUG - 2020-02-10 16:37:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:37:56 --> CSRF cookie sent
+INFO - 2020-02-10 16:37:56 --> Input Class Initialized
+INFO - 2020-02-10 16:37:56 --> Language Class Initialized
+ERROR - 2020-02-10 16:37:56 --> 404 Page Not Found: Assets/backend
+INFO - 2020-02-10 16:37:56 --> Config Class Initialized
+INFO - 2020-02-10 16:37:56 --> Hooks Class Initialized
+DEBUG - 2020-02-10 16:37:56 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:37:56 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:37:56 --> URI Class Initialized
+INFO - 2020-02-10 16:37:56 --> Router Class Initialized
+INFO - 2020-02-10 16:37:56 --> Config Class Initialized
+INFO - 2020-02-10 16:37:56 --> Hooks Class Initialized
+INFO - 2020-02-10 16:37:56 --> Output Class Initialized
+DEBUG - 2020-02-10 16:37:56 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:37:56 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:37:56 --> Security Class Initialized
+INFO - 2020-02-10 16:37:56 --> URI Class Initialized
+DEBUG - 2020-02-10 16:37:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:37:56 --> CSRF cookie sent
+INFO - 2020-02-10 16:37:56 --> Router Class Initialized
+INFO - 2020-02-10 16:37:56 --> Input Class Initialized
+INFO - 2020-02-10 16:37:56 --> Language Class Initialized
+INFO - 2020-02-10 16:37:56 --> Output Class Initialized
+ERROR - 2020-02-10 16:37:56 --> 404 Page Not Found: Assets/backend
+INFO - 2020-02-10 16:37:56 --> Security Class Initialized
+DEBUG - 2020-02-10 16:37:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:37:56 --> CSRF cookie sent
+INFO - 2020-02-10 16:37:56 --> Input Class Initialized
+INFO - 2020-02-10 16:37:56 --> Language Class Initialized
+ERROR - 2020-02-10 16:37:56 --> 404 Page Not Found: Assets/backend
+INFO - 2020-02-10 16:51:44 --> Config Class Initialized
+INFO - 2020-02-10 16:51:44 --> Hooks Class Initialized
+DEBUG - 2020-02-10 16:51:44 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:51:44 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:51:44 --> URI Class Initialized
+INFO - 2020-02-10 16:51:44 --> Router Class Initialized
+INFO - 2020-02-10 16:51:44 --> Output Class Initialized
+INFO - 2020-02-10 16:51:44 --> Security Class Initialized
+DEBUG - 2020-02-10 16:51:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:51:44 --> CSRF cookie sent
+INFO - 2020-02-10 16:51:44 --> Input Class Initialized
+INFO - 2020-02-10 16:51:44 --> Language Class Initialized
+INFO - 2020-02-10 16:51:44 --> Loader Class Initialized
+INFO - 2020-02-10 16:51:44 --> Helper loaded: url_helper
+INFO - 2020-02-10 16:51:44 --> Helper loaded: file_helper
+INFO - 2020-02-10 16:51:44 --> Helper loaded: form_helper
+INFO - 2020-02-10 16:51:44 --> Helper loaded: security_helper
+INFO - 2020-02-10 16:51:44 --> Database Driver Class Initialized
+INFO - 2020-02-10 16:51:44 --> Email Class Initialized
+INFO - 2020-02-10 16:51:44 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-10 16:51:44 --> Form Validation Class Initialized
+INFO - 2020-02-10 16:51:44 --> Controller Class Initialized
+INFO - 2020-02-10 16:51:44 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-10 16:51:44 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-10 16:51:44 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-10 16:51:44 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-10 16:51:44 --> Pagination Class Initialized
+INFO - 2020-02-10 16:51:44 --> MY_Model class loaded
+INFO - 2020-02-10 16:51:44 --> Model "Dashboard_model" initialized
+INFO - 2020-02-10 16:51:44 --> File loaded: E:\Website Hosting\haps.co.in\hapsdev\app\views\administrator/headerhtml.php
+INFO - 2020-02-10 16:51:44 --> File loaded: E:\Website Hosting\haps.co.in\hapsdev\app\views\administrator/addalbumsimageshtml.php
+INFO - 2020-02-10 16:51:44 --> File loaded: E:\Website Hosting\haps.co.in\hapsdev\app\views\administrator/footerhtml.php
+INFO - 2020-02-10 16:51:44 --> Final output sent to browser
+DEBUG - 2020-02-10 16:51:44 --> Total execution time: 0.3390
+INFO - 2020-02-10 16:51:45 --> Config Class Initialized
+INFO - 2020-02-10 16:51:45 --> Hooks Class Initialized
+DEBUG - 2020-02-10 16:51:45 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:51:45 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:51:45 --> URI Class Initialized
+INFO - 2020-02-10 16:51:45 --> Router Class Initialized
+INFO - 2020-02-10 16:51:45 --> Output Class Initialized
+INFO - 2020-02-10 16:51:45 --> Security Class Initialized
+DEBUG - 2020-02-10 16:51:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:51:45 --> CSRF cookie sent
+INFO - 2020-02-10 16:51:45 --> Input Class Initialized
+INFO - 2020-02-10 16:51:45 --> Language Class Initialized
+ERROR - 2020-02-10 16:51:45 --> 404 Page Not Found: Assets/backend
+INFO - 2020-02-10 16:51:46 --> Config Class Initialized
+INFO - 2020-02-10 16:51:46 --> Hooks Class Initialized
+DEBUG - 2020-02-10 16:51:46 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:51:46 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:51:46 --> Config Class Initialized
+INFO - 2020-02-10 16:51:46 --> Hooks Class Initialized
+INFO - 2020-02-10 16:51:46 --> URI Class Initialized
+DEBUG - 2020-02-10 16:51:46 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:51:46 --> Router Class Initialized
+INFO - 2020-02-10 16:51:46 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:51:46 --> Output Class Initialized
+INFO - 2020-02-10 16:51:46 --> URI Class Initialized
+INFO - 2020-02-10 16:51:46 --> Router Class Initialized
+INFO - 2020-02-10 16:51:46 --> Security Class Initialized
+DEBUG - 2020-02-10 16:51:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:51:46 --> Output Class Initialized
+INFO - 2020-02-10 16:51:46 --> CSRF cookie sent
+INFO - 2020-02-10 16:51:46 --> Input Class Initialized
+INFO - 2020-02-10 16:51:46 --> Security Class Initialized
+INFO - 2020-02-10 16:51:46 --> Language Class Initialized
+ERROR - 2020-02-10 16:51:46 --> 404 Page Not Found: Assets/backend
+DEBUG - 2020-02-10 16:51:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:51:46 --> CSRF cookie sent
+INFO - 2020-02-10 16:51:46 --> Input Class Initialized
+INFO - 2020-02-10 16:51:46 --> Language Class Initialized
+ERROR - 2020-02-10 16:51:46 --> 404 Page Not Found: Assets/backend
+INFO - 2020-02-10 16:51:52 --> Config Class Initialized
+INFO - 2020-02-10 16:51:52 --> Hooks Class Initialized
+DEBUG - 2020-02-10 16:51:52 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:51:52 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:51:52 --> URI Class Initialized
+INFO - 2020-02-10 16:51:52 --> Router Class Initialized
+INFO - 2020-02-10 16:51:52 --> Output Class Initialized
+INFO - 2020-02-10 16:51:52 --> Security Class Initialized
+DEBUG - 2020-02-10 16:51:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:51:52 --> CSRF cookie sent
+INFO - 2020-02-10 16:51:52 --> Input Class Initialized
+INFO - 2020-02-10 16:51:52 --> Language Class Initialized
+ERROR - 2020-02-10 16:51:52 --> 404 Page Not Found: administrator/Dashboard/img
+INFO - 2020-02-10 16:52:15 --> Config Class Initialized
+INFO - 2020-02-10 16:52:15 --> Hooks Class Initialized
+DEBUG - 2020-02-10 16:52:15 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:52:15 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:52:15 --> URI Class Initialized
+INFO - 2020-02-10 16:52:15 --> Router Class Initialized
+INFO - 2020-02-10 16:52:15 --> Output Class Initialized
+INFO - 2020-02-10 16:52:15 --> Security Class Initialized
+DEBUG - 2020-02-10 16:52:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:52:15 --> CSRF cookie sent
+INFO - 2020-02-10 16:52:15 --> CSRF token verified
+INFO - 2020-02-10 16:52:15 --> Input Class Initialized
+INFO - 2020-02-10 16:52:15 --> Language Class Initialized
+INFO - 2020-02-10 16:52:15 --> Loader Class Initialized
+INFO - 2020-02-10 16:52:15 --> Helper loaded: url_helper
+INFO - 2020-02-10 16:52:15 --> Helper loaded: file_helper
+INFO - 2020-02-10 16:52:15 --> Helper loaded: form_helper
+INFO - 2020-02-10 16:52:15 --> Helper loaded: security_helper
+INFO - 2020-02-10 16:52:15 --> Database Driver Class Initialized
+INFO - 2020-02-10 16:52:15 --> Email Class Initialized
+INFO - 2020-02-10 16:52:15 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-10 16:52:15 --> Form Validation Class Initialized
+INFO - 2020-02-10 16:52:15 --> Controller Class Initialized
+INFO - 2020-02-10 16:52:15 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-10 16:52:15 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-10 16:52:15 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-10 16:52:15 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-10 16:52:15 --> Pagination Class Initialized
+INFO - 2020-02-10 16:52:15 --> MY_Model class loaded
+INFO - 2020-02-10 16:52:15 --> Model "Dashboard_model" initialized
+ERROR - 2020-02-10 16:52:16 --> Severity: Warning --> move_uploaded_file(property_images/bg.png): failed to open stream: No such file or directory E:\Website Hosting\haps.co.in\hapsdev\app\controllers\administrator\Dashboard.php 332
+ERROR - 2020-02-10 16:52:16 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\Windows\Temp\phpFA27.tmp' to 'property_images/bg.png' E:\Website Hosting\haps.co.in\hapsdev\app\controllers\administrator\Dashboard.php 332
+INFO - 2020-02-10 16:52:16 --> Language file loaded: language/en/form_validation_lang.php
+ERROR - 2020-02-10 16:52:16 --> Could not find the language line "form_validation_required"
+INFO - 2020-02-10 16:52:16 --> Final output sent to browser
+DEBUG - 2020-02-10 16:52:16 --> Total execution time: 0.2392
+INFO - 2020-02-10 16:52:16 --> Config Class Initialized
+INFO - 2020-02-10 16:52:16 --> Hooks Class Initialized
+DEBUG - 2020-02-10 16:52:16 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:52:16 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:52:16 --> URI Class Initialized
+INFO - 2020-02-10 16:52:16 --> Router Class Initialized
+INFO - 2020-02-10 16:52:16 --> Output Class Initialized
+INFO - 2020-02-10 16:52:16 --> Security Class Initialized
+DEBUG - 2020-02-10 16:52:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:52:16 --> CSRF cookie sent
+INFO - 2020-02-10 16:52:16 --> CSRF token verified
+INFO - 2020-02-10 16:52:16 --> Input Class Initialized
+INFO - 2020-02-10 16:52:16 --> Language Class Initialized
+INFO - 2020-02-10 16:52:16 --> Loader Class Initialized
+INFO - 2020-02-10 16:52:16 --> Helper loaded: url_helper
+INFO - 2020-02-10 16:52:16 --> Helper loaded: file_helper
+INFO - 2020-02-10 16:52:16 --> Helper loaded: form_helper
+INFO - 2020-02-10 16:52:16 --> Helper loaded: security_helper
+INFO - 2020-02-10 16:52:16 --> Database Driver Class Initialized
+INFO - 2020-02-10 16:52:16 --> Config Class Initialized
+INFO - 2020-02-10 16:52:16 --> Hooks Class Initialized
+DEBUG - 2020-02-10 16:52:16 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:52:16 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:52:16 --> URI Class Initialized
+INFO - 2020-02-10 16:52:16 --> Email Class Initialized
+INFO - 2020-02-10 16:52:16 --> Router Class Initialized
+INFO - 2020-02-10 16:52:16 --> Output Class Initialized
+INFO - 2020-02-10 16:52:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-10 16:52:16 --> Security Class Initialized
+DEBUG - 2020-02-10 16:52:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:52:16 --> CSRF cookie sent
+INFO - 2020-02-10 16:52:16 --> Form Validation Class Initialized
+INFO - 2020-02-10 16:52:16 --> CSRF token verified
+INFO - 2020-02-10 16:52:16 --> Controller Class Initialized
+INFO - 2020-02-10 16:52:16 --> Input Class Initialized
+INFO - 2020-02-10 16:52:16 --> Helper loaded: myadmin_helper
+INFO - 2020-02-10 16:52:16 --> Language Class Initialized
+DEBUG - 2020-02-10 16:52:16 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-10 16:52:16 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-10 16:52:16 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-10 16:52:16 --> Pagination Class Initialized
+INFO - 2020-02-10 16:52:16 --> MY_Model class loaded
+INFO - 2020-02-10 16:52:16 --> Model "Dashboard_model" initialized
+INFO - 2020-02-10 16:52:16 --> Loader Class Initialized
+INFO - 2020-02-10 16:52:16 --> Helper loaded: url_helper
+INFO - 2020-02-10 16:52:16 --> Helper loaded: file_helper
+ERROR - 2020-02-10 16:52:16 --> Severity: Warning --> move_uploaded_file(property_images/awp-bale.jpg): failed to open stream: No such file or directory E:\Website Hosting\haps.co.in\hapsdev\app\controllers\administrator\Dashboard.php 332
+INFO - 2020-02-10 16:52:16 --> Helper loaded: form_helper
+ERROR - 2020-02-10 16:52:16 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\Windows\Temp\phpFAA4.tmp' to 'property_images/awp-bale.jpg' E:\Website Hosting\haps.co.in\hapsdev\app\controllers\administrator\Dashboard.php 332
+INFO - 2020-02-10 16:52:16 --> Helper loaded: security_helper
+INFO - 2020-02-10 16:52:16 --> Language file loaded: language/en/form_validation_lang.php
+ERROR - 2020-02-10 16:52:16 --> Could not find the language line "form_validation_required"
+INFO - 2020-02-10 16:52:16 --> Final output sent to browser
+DEBUG - 2020-02-10 16:52:16 --> Total execution time: 0.3408
+INFO - 2020-02-10 16:52:16 --> Database Driver Class Initialized
+INFO - 2020-02-10 16:52:16 --> Email Class Initialized
+INFO - 2020-02-10 16:52:16 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-10 16:52:16 --> Form Validation Class Initialized
+INFO - 2020-02-10 16:52:16 --> Controller Class Initialized
+INFO - 2020-02-10 16:52:16 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-10 16:52:16 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-10 16:52:16 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-10 16:52:16 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-10 16:52:16 --> Pagination Class Initialized
+INFO - 2020-02-10 16:52:16 --> MY_Model class loaded
+INFO - 2020-02-10 16:52:16 --> Model "Dashboard_model" initialized
+ERROR - 2020-02-10 16:52:16 --> Severity: Warning --> move_uploaded_file(property_images/icons.png): failed to open stream: No such file or directory E:\Website Hosting\haps.co.in\hapsdev\app\controllers\administrator\Dashboard.php 332
+ERROR - 2020-02-10 16:52:16 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\Windows\Temp\phpFCC8.tmp' to 'property_images/icons.png' E:\Website Hosting\haps.co.in\hapsdev\app\controllers\administrator\Dashboard.php 332
+INFO - 2020-02-10 16:52:16 --> Language file loaded: language/en/form_validation_lang.php
+ERROR - 2020-02-10 16:52:16 --> Could not find the language line "form_validation_required"
+INFO - 2020-02-10 16:52:16 --> Final output sent to browser
+DEBUG - 2020-02-10 16:52:16 --> Total execution time: 0.3069
+INFO - 2020-02-10 16:52:24 --> Config Class Initialized
+INFO - 2020-02-10 16:52:24 --> Hooks Class Initialized
+DEBUG - 2020-02-10 16:52:24 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:52:24 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:52:24 --> URI Class Initialized
+INFO - 2020-02-10 16:52:24 --> Router Class Initialized
+INFO - 2020-02-10 16:52:24 --> Output Class Initialized
+INFO - 2020-02-10 16:52:24 --> Security Class Initialized
+DEBUG - 2020-02-10 16:52:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:52:24 --> CSRF cookie sent
+INFO - 2020-02-10 16:52:24 --> CSRF token verified
+INFO - 2020-02-10 16:52:24 --> Input Class Initialized
+INFO - 2020-02-10 16:52:24 --> Language Class Initialized
+INFO - 2020-02-10 16:52:24 --> Loader Class Initialized
+INFO - 2020-02-10 16:52:24 --> Helper loaded: url_helper
+INFO - 2020-02-10 16:52:24 --> Helper loaded: file_helper
+INFO - 2020-02-10 16:52:24 --> Helper loaded: form_helper
+INFO - 2020-02-10 16:52:24 --> Helper loaded: security_helper
+INFO - 2020-02-10 16:52:24 --> Database Driver Class Initialized
+INFO - 2020-02-10 16:52:24 --> Email Class Initialized
+INFO - 2020-02-10 16:52:24 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-10 16:52:24 --> Form Validation Class Initialized
+INFO - 2020-02-10 16:52:24 --> Controller Class Initialized
+INFO - 2020-02-10 16:52:24 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-10 16:52:24 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-10 16:52:24 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-10 16:52:24 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-10 16:52:24 --> Pagination Class Initialized
+INFO - 2020-02-10 16:52:24 --> MY_Model class loaded
+INFO - 2020-02-10 16:52:24 --> Model "Dashboard_model" initialized
+ERROR - 2020-02-10 16:52:24 --> Severity: Warning --> move_uploaded_file(property_images/loader.gif): failed to open stream: No such file or directory E:\Website Hosting\haps.co.in\hapsdev\app\controllers\administrator\Dashboard.php 332
+ERROR - 2020-02-10 16:52:24 --> Severity: Warning --> move_uploaded_file(): Unable to move 'C:\Windows\Temp\php1AA2.tmp' to 'property_images/loader.gif' E:\Website Hosting\haps.co.in\hapsdev\app\controllers\administrator\Dashboard.php 332
+INFO - 2020-02-10 16:52:24 --> Language file loaded: language/en/form_validation_lang.php
+ERROR - 2020-02-10 16:52:24 --> Could not find the language line "form_validation_required"
+INFO - 2020-02-10 16:52:24 --> Final output sent to browser
+DEBUG - 2020-02-10 16:52:24 --> Total execution time: 0.2269
+INFO - 2020-02-10 16:53:02 --> Config Class Initialized
+INFO - 2020-02-10 16:53:02 --> Hooks Class Initialized
+DEBUG - 2020-02-10 16:53:02 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:53:02 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:53:02 --> URI Class Initialized
+INFO - 2020-02-10 16:53:02 --> Router Class Initialized
+INFO - 2020-02-10 16:53:02 --> Output Class Initialized
+INFO - 2020-02-10 16:53:02 --> Security Class Initialized
+DEBUG - 2020-02-10 16:53:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:53:02 --> CSRF cookie sent
+INFO - 2020-02-10 16:53:02 --> Input Class Initialized
+INFO - 2020-02-10 16:53:02 --> Language Class Initialized
+INFO - 2020-02-10 16:53:02 --> Loader Class Initialized
+INFO - 2020-02-10 16:53:02 --> Helper loaded: url_helper
+INFO - 2020-02-10 16:53:02 --> Helper loaded: file_helper
+INFO - 2020-02-10 16:53:02 --> Helper loaded: form_helper
+INFO - 2020-02-10 16:53:02 --> Helper loaded: security_helper
+INFO - 2020-02-10 16:53:02 --> Database Driver Class Initialized
+INFO - 2020-02-10 16:53:02 --> Email Class Initialized
+INFO - 2020-02-10 16:53:02 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-10 16:53:02 --> Form Validation Class Initialized
+INFO - 2020-02-10 16:53:02 --> Controller Class Initialized
+INFO - 2020-02-10 16:53:02 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-10 16:53:02 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-10 16:53:02 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-10 16:53:02 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-10 16:53:02 --> Pagination Class Initialized
+INFO - 2020-02-10 16:53:02 --> MY_Model class loaded
+INFO - 2020-02-10 16:53:02 --> Model "Dashboard_model" initialized
+INFO - 2020-02-10 16:53:02 --> File loaded: E:\Website Hosting\haps.co.in\hapsdev\app\views\administrator/headerhtml.php
+INFO - 2020-02-10 16:53:02 --> File loaded: E:\Website Hosting\haps.co.in\hapsdev\app\views\administrator/addalbumsimageshtml.php
+INFO - 2020-02-10 16:53:02 --> File loaded: E:\Website Hosting\haps.co.in\hapsdev\app\views\administrator/footerhtml.php
+INFO - 2020-02-10 16:53:02 --> Final output sent to browser
+DEBUG - 2020-02-10 16:53:02 --> Total execution time: 0.2883
+INFO - 2020-02-10 16:53:03 --> Config Class Initialized
+INFO - 2020-02-10 16:53:03 --> Hooks Class Initialized
+DEBUG - 2020-02-10 16:53:03 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:53:03 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:53:03 --> URI Class Initialized
+INFO - 2020-02-10 16:53:03 --> Router Class Initialized
+INFO - 2020-02-10 16:53:03 --> Output Class Initialized
+INFO - 2020-02-10 16:53:03 --> Security Class Initialized
+DEBUG - 2020-02-10 16:53:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:53:03 --> CSRF cookie sent
+INFO - 2020-02-10 16:53:03 --> Input Class Initialized
+INFO - 2020-02-10 16:53:03 --> Language Class Initialized
+ERROR - 2020-02-10 16:53:03 --> 404 Page Not Found: Assets/backend
+INFO - 2020-02-10 16:53:04 --> Config Class Initialized
+INFO - 2020-02-10 16:53:04 --> Hooks Class Initialized
+DEBUG - 2020-02-10 16:53:04 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:53:04 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:53:04 --> URI Class Initialized
+INFO - 2020-02-10 16:53:04 --> Router Class Initialized
+INFO - 2020-02-10 16:53:04 --> Output Class Initialized
+INFO - 2020-02-10 16:53:04 --> Security Class Initialized
+DEBUG - 2020-02-10 16:53:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:53:04 --> CSRF cookie sent
+INFO - 2020-02-10 16:53:04 --> Input Class Initialized
+INFO - 2020-02-10 16:53:04 --> Language Class Initialized
+ERROR - 2020-02-10 16:53:04 --> 404 Page Not Found: Assets/backend
+INFO - 2020-02-10 16:53:07 --> Config Class Initialized
+INFO - 2020-02-10 16:53:07 --> Hooks Class Initialized
+DEBUG - 2020-02-10 16:53:08 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:53:08 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:53:08 --> URI Class Initialized
+INFO - 2020-02-10 16:53:08 --> Router Class Initialized
+INFO - 2020-02-10 16:53:08 --> Output Class Initialized
+INFO - 2020-02-10 16:53:08 --> Security Class Initialized
+DEBUG - 2020-02-10 16:53:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:53:08 --> CSRF cookie sent
+INFO - 2020-02-10 16:53:08 --> Input Class Initialized
+INFO - 2020-02-10 16:53:08 --> Language Class Initialized
+ERROR - 2020-02-10 16:53:08 --> 404 Page Not Found: Assets/backend
+INFO - 2020-02-10 16:56:22 --> Config Class Initialized
+INFO - 2020-02-10 16:56:22 --> Hooks Class Initialized
+DEBUG - 2020-02-10 16:56:22 --> UTF-8 Support Enabled
+INFO - 2020-02-10 16:56:22 --> Utf8 Class Initialized
+INFO - 2020-02-10 16:56:22 --> URI Class Initialized
+DEBUG - 2020-02-10 16:56:22 --> No URI present. Default controller set.
+INFO - 2020-02-10 16:56:22 --> Router Class Initialized
+INFO - 2020-02-10 16:56:22 --> Output Class Initialized
+INFO - 2020-02-10 16:56:22 --> Security Class Initialized
+DEBUG - 2020-02-10 16:56:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 16:56:22 --> CSRF cookie sent
+INFO - 2020-02-10 16:56:22 --> Input Class Initialized
+INFO - 2020-02-10 16:56:22 --> Language Class Initialized
+INFO - 2020-02-10 16:56:22 --> Loader Class Initialized
+INFO - 2020-02-10 16:56:22 --> Helper loaded: url_helper
+INFO - 2020-02-10 16:56:22 --> Helper loaded: file_helper
+INFO - 2020-02-10 16:56:22 --> Helper loaded: form_helper
+INFO - 2020-02-10 16:56:22 --> Helper loaded: security_helper
+INFO - 2020-02-10 16:56:22 --> Database Driver Class Initialized
+INFO - 2020-02-10 16:56:22 --> Email Class Initialized
+INFO - 2020-02-10 16:56:22 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-10 16:56:22 --> Form Validation Class Initialized
+INFO - 2020-02-10 16:56:22 --> Controller Class Initialized
+INFO - 2020-02-10 16:56:22 --> MY_Model class loaded
+INFO - 2020-02-10 16:56:22 --> Model "Api_model" initialized
+ERROR - 2020-02-10 16:56:22 --> Severity: Error --> Call to undefined function page_url_link() E:\Website Hosting\haps.co.in\hapsdev\app\models\Api_model.php 20
+INFO - 2020-02-10 17:16:08 --> Config Class Initialized
+INFO - 2020-02-10 17:16:08 --> Hooks Class Initialized
+DEBUG - 2020-02-10 17:16:08 --> UTF-8 Support Enabled
+INFO - 2020-02-10 17:16:08 --> Utf8 Class Initialized
+INFO - 2020-02-10 17:16:08 --> URI Class Initialized
+INFO - 2020-02-10 17:16:08 --> Router Class Initialized
+INFO - 2020-02-10 17:16:08 --> Output Class Initialized
+INFO - 2020-02-10 17:16:08 --> Security Class Initialized
+DEBUG - 2020-02-10 17:16:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 17:16:08 --> CSRF cookie sent
+INFO - 2020-02-10 17:16:08 --> Input Class Initialized
+INFO - 2020-02-10 17:16:08 --> Language Class Initialized
+INFO - 2020-02-10 17:16:08 --> Loader Class Initialized
+INFO - 2020-02-10 17:16:08 --> Helper loaded: url_helper
+INFO - 2020-02-10 17:16:08 --> Helper loaded: file_helper
+INFO - 2020-02-10 17:16:08 --> Helper loaded: form_helper
+INFO - 2020-02-10 17:16:08 --> Helper loaded: security_helper
+INFO - 2020-02-10 17:16:08 --> Database Driver Class Initialized
+INFO - 2020-02-10 17:16:08 --> Email Class Initialized
+INFO - 2020-02-10 17:16:08 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-10 17:16:08 --> Form Validation Class Initialized
+INFO - 2020-02-10 17:16:08 --> Controller Class Initialized
+INFO - 2020-02-10 17:16:08 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-10 17:16:08 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-10 17:16:08 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-10 17:16:09 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-10 17:16:09 --> Pagination Class Initialized
+INFO - 2020-02-10 17:16:09 --> MY_Model class loaded
+INFO - 2020-02-10 17:16:09 --> Model "Dashboard_model" initialized
+INFO - 2020-02-10 17:16:09 --> File loaded: E:\Website Hosting\haps.co.in\hapsdev\app\views\administrator/headerhtml.php
+INFO - 2020-02-10 17:16:09 --> File loaded: E:\Website Hosting\haps.co.in\hapsdev\app\views\administrator/addalbumsimageshtml.php
+INFO - 2020-02-10 17:16:09 --> File loaded: E:\Website Hosting\haps.co.in\hapsdev\app\views\administrator/footerhtml.php
+INFO - 2020-02-10 17:16:09 --> Final output sent to browser
+DEBUG - 2020-02-10 17:16:09 --> Total execution time: 0.5582
+INFO - 2020-02-10 17:16:09 --> Config Class Initialized
+INFO - 2020-02-10 17:16:09 --> Hooks Class Initialized
+DEBUG - 2020-02-10 17:16:09 --> UTF-8 Support Enabled
+INFO - 2020-02-10 17:16:09 --> Utf8 Class Initialized
+INFO - 2020-02-10 17:16:09 --> URI Class Initialized
+DEBUG - 2020-02-10 17:16:09 --> No URI present. Default controller set.
+INFO - 2020-02-10 17:16:09 --> Router Class Initialized
+INFO - 2020-02-10 17:16:09 --> Output Class Initialized
+INFO - 2020-02-10 17:16:09 --> Security Class Initialized
+DEBUG - 2020-02-10 17:16:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 17:16:09 --> CSRF cookie sent
+INFO - 2020-02-10 17:16:09 --> Input Class Initialized
+INFO - 2020-02-10 17:16:09 --> Language Class Initialized
+INFO - 2020-02-10 17:16:09 --> Loader Class Initialized
+INFO - 2020-02-10 17:16:09 --> Helper loaded: url_helper
+INFO - 2020-02-10 17:16:09 --> Helper loaded: file_helper
+INFO - 2020-02-10 17:16:09 --> Helper loaded: form_helper
+INFO - 2020-02-10 17:16:09 --> Helper loaded: security_helper
+INFO - 2020-02-10 17:16:09 --> Database Driver Class Initialized
+INFO - 2020-02-10 17:16:09 --> Email Class Initialized
+INFO - 2020-02-10 17:16:09 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-10 17:16:09 --> Form Validation Class Initialized
+INFO - 2020-02-10 17:16:09 --> Controller Class Initialized
+INFO - 2020-02-10 17:16:09 --> MY_Model class loaded
+INFO - 2020-02-10 17:16:09 --> Model "Api_model" initialized
+ERROR - 2020-02-10 17:16:09 --> Severity: Notice --> Undefined property: Welcome::$template E:\Website Hosting\haps.co.in\hapsdev\app\controllers\Welcome.php 10
+ERROR - 2020-02-10 17:16:09 --> Severity: Notice --> Undefined variable: data E:\Website Hosting\haps.co.in\hapsdev\app\controllers\Welcome.php 10
+ERROR - 2020-02-10 17:16:09 --> Severity: Notice --> Undefined variable: view E:\Website Hosting\haps.co.in\hapsdev\app\controllers\Welcome.php 10
+ERROR - 2020-02-10 17:16:09 --> Severity: Error --> Call to undefined function default_settings() E:\Website Hosting\haps.co.in\hapsdev\app\views\layouthtml.php 2
+INFO - 2020-02-10 17:16:10 --> Config Class Initialized
+INFO - 2020-02-10 17:16:10 --> Hooks Class Initialized
+DEBUG - 2020-02-10 17:16:10 --> UTF-8 Support Enabled
+INFO - 2020-02-10 17:16:10 --> Utf8 Class Initialized
+INFO - 2020-02-10 17:16:10 --> URI Class Initialized
+INFO - 2020-02-10 17:16:10 --> Router Class Initialized
+INFO - 2020-02-10 17:16:10 --> Output Class Initialized
+INFO - 2020-02-10 17:16:10 --> Security Class Initialized
+DEBUG - 2020-02-10 17:16:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 17:16:10 --> CSRF cookie sent
+INFO - 2020-02-10 17:16:10 --> Input Class Initialized
+INFO - 2020-02-10 17:16:10 --> Language Class Initialized
+ERROR - 2020-02-10 17:16:10 --> 404 Page Not Found: Assets/backend
+INFO - 2020-02-10 17:16:11 --> Config Class Initialized
+INFO - 2020-02-10 17:16:11 --> Hooks Class Initialized
+DEBUG - 2020-02-10 17:16:11 --> UTF-8 Support Enabled
+INFO - 2020-02-10 17:16:11 --> Utf8 Class Initialized
+INFO - 2020-02-10 17:16:11 --> URI Class Initialized
+INFO - 2020-02-10 17:16:11 --> Router Class Initialized
+INFO - 2020-02-10 17:16:11 --> Output Class Initialized
+INFO - 2020-02-10 17:16:11 --> Security Class Initialized
+DEBUG - 2020-02-10 17:16:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 17:16:11 --> CSRF cookie sent
+INFO - 2020-02-10 17:16:11 --> Input Class Initialized
+INFO - 2020-02-10 17:16:11 --> Language Class Initialized
+ERROR - 2020-02-10 17:16:11 --> 404 Page Not Found: Assets/backend
+INFO - 2020-02-10 17:16:12 --> Config Class Initialized
+INFO - 2020-02-10 17:16:12 --> Hooks Class Initialized
+DEBUG - 2020-02-10 17:16:12 --> UTF-8 Support Enabled
+INFO - 2020-02-10 17:16:12 --> Utf8 Class Initialized
+INFO - 2020-02-10 17:16:12 --> URI Class Initialized
+INFO - 2020-02-10 17:16:12 --> Router Class Initialized
+INFO - 2020-02-10 17:16:12 --> Output Class Initialized
+INFO - 2020-02-10 17:16:12 --> Security Class Initialized
+DEBUG - 2020-02-10 17:16:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 17:16:12 --> CSRF cookie sent
+INFO - 2020-02-10 17:16:12 --> Input Class Initialized
+INFO - 2020-02-10 17:16:12 --> Language Class Initialized
+ERROR - 2020-02-10 17:16:12 --> 404 Page Not Found: Assets/backend
+INFO - 2020-02-10 17:36:55 --> Config Class Initialized
+INFO - 2020-02-10 17:36:55 --> Hooks Class Initialized
+DEBUG - 2020-02-10 17:36:56 --> UTF-8 Support Enabled
+INFO - 2020-02-10 17:36:56 --> Utf8 Class Initialized
+INFO - 2020-02-10 17:36:56 --> URI Class Initialized
+INFO - 2020-02-10 17:36:56 --> Router Class Initialized
+INFO - 2020-02-10 17:36:56 --> Output Class Initialized
+INFO - 2020-02-10 17:36:56 --> Security Class Initialized
+DEBUG - 2020-02-10 17:36:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 17:36:56 --> CSRF cookie sent
+INFO - 2020-02-10 17:36:56 --> Input Class Initialized
+INFO - 2020-02-10 17:36:56 --> Language Class Initialized
+INFO - 2020-02-10 17:36:56 --> Loader Class Initialized
+INFO - 2020-02-10 17:36:56 --> Helper loaded: url_helper
+INFO - 2020-02-10 17:36:56 --> Helper loaded: file_helper
+INFO - 2020-02-10 17:36:56 --> Helper loaded: form_helper
+INFO - 2020-02-10 17:36:56 --> Helper loaded: security_helper
+INFO - 2020-02-10 17:36:56 --> Database Driver Class Initialized
+INFO - 2020-02-10 17:36:56 --> Email Class Initialized
+INFO - 2020-02-10 17:36:56 --> Session: Class initialized using 'files' driver.
+INFO - 2020-02-10 17:36:56 --> Form Validation Class Initialized
+INFO - 2020-02-10 17:36:56 --> Controller Class Initialized
+INFO - 2020-02-10 17:36:56 --> Helper loaded: myadmin_helper
+DEBUG - 2020-02-10 17:36:56 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2020-02-10 17:36:56 --> Form_validation class already loaded. Second attempt ignored.
+INFO - 2020-02-10 17:36:56 --> Language file loaded: language/en/pagination_lang.php
+INFO - 2020-02-10 17:36:56 --> Pagination Class Initialized
+INFO - 2020-02-10 17:36:56 --> MY_Model class loaded
+INFO - 2020-02-10 17:36:56 --> Model "Dashboard_model" initialized
+INFO - 2020-02-10 17:36:56 --> File loaded: E:\Website Hosting\haps.co.in\hapsdev\app\views\administrator/headerhtml.php
+INFO - 2020-02-10 17:36:56 --> File loaded: E:\Website Hosting\haps.co.in\hapsdev\app\views\administrator/addalbumsimageshtml.php
+INFO - 2020-02-10 17:36:56 --> File loaded: E:\Website Hosting\haps.co.in\hapsdev\app\views\administrator/footerhtml.php
+INFO - 2020-02-10 17:36:56 --> Final output sent to browser
+DEBUG - 2020-02-10 17:36:56 --> Total execution time: 0.5943
+INFO - 2020-02-10 17:37:00 --> Config Class Initialized
+INFO - 2020-02-10 17:37:00 --> Hooks Class Initialized
+DEBUG - 2020-02-10 17:37:00 --> UTF-8 Support Enabled
+INFO - 2020-02-10 17:37:00 --> Utf8 Class Initialized
+INFO - 2020-02-10 17:37:00 --> URI Class Initialized
+INFO - 2020-02-10 17:37:00 --> Router Class Initialized
+INFO - 2020-02-10 17:37:00 --> Output Class Initialized
+INFO - 2020-02-10 17:37:00 --> Security Class Initialized
+DEBUG - 2020-02-10 17:37:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 17:37:00 --> CSRF cookie sent
+INFO - 2020-02-10 17:37:00 --> Input Class Initialized
+INFO - 2020-02-10 17:37:00 --> Language Class Initialized
+ERROR - 2020-02-10 17:37:00 --> 404 Page Not Found: Assets/backend
+INFO - 2020-02-10 17:37:00 --> Config Class Initialized
+INFO - 2020-02-10 17:37:00 --> Hooks Class Initialized
+DEBUG - 2020-02-10 17:37:00 --> UTF-8 Support Enabled
+INFO - 2020-02-10 17:37:00 --> Utf8 Class Initialized
+INFO - 2020-02-10 17:37:00 --> URI Class Initialized
+INFO - 2020-02-10 17:37:00 --> Router Class Initialized
+INFO - 2020-02-10 17:37:00 --> Output Class Initialized
+INFO - 2020-02-10 17:37:00 --> Security Class Initialized
+DEBUG - 2020-02-10 17:37:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 17:37:00 --> CSRF cookie sent
+INFO - 2020-02-10 17:37:00 --> Input Class Initialized
+INFO - 2020-02-10 17:37:00 --> Language Class Initialized
+ERROR - 2020-02-10 17:37:00 --> 404 Page Not Found: Assets/backend
+INFO - 2020-02-10 17:37:00 --> Config Class Initialized
+INFO - 2020-02-10 17:37:00 --> Hooks Class Initialized
+DEBUG - 2020-02-10 17:37:00 --> UTF-8 Support Enabled
+INFO - 2020-02-10 17:37:00 --> Utf8 Class Initialized
+INFO - 2020-02-10 17:37:00 --> URI Class Initialized
+INFO - 2020-02-10 17:37:00 --> Router Class Initialized
+INFO - 2020-02-10 17:37:00 --> Output Class Initialized
+INFO - 2020-02-10 17:37:00 --> Security Class Initialized
+DEBUG - 2020-02-10 17:37:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2020-02-10 17:37:00 --> CSRF cookie sent
+INFO - 2020-02-10 17:37:00 --> Input Class Initialized
+INFO - 2020-02-10 17:37:00 --> Language Class Initialized
+ERROR - 2020-02-10 17:37:00 --> 404 Page Not Found: Assets/backend
