@@ -98,7 +98,6 @@ class Welcome extends AdminBaseController {
 				'profile_pic' =>$this->security->xss_clean ( $this->input->post('profile_pic')),
 				'isactive' =>$this->security->xss_clean (1),
 				'isDeleted' =>$this->security->xss_clean (0),
-
 				'createdDtm'=>$this->security->xss_clean (date('Y-m-d H:i:s'))
 			);
 

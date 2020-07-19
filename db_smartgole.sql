@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jul 18, 2020 at 08:51 AM
+-- Generation Time: Jul 19, 2020 at 03:17 PM
 -- Server version: 10.1.30-MariaDB
 -- PHP Version: 7.2.2
 
@@ -39,6 +39,13 @@ CREATE TABLE `sg_tbladminusers` (
   `createdDtm` datetime DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
+--
+-- Dumping data for table `sg_tbladminusers`
+--
+
+INSERT INTO `sg_tbladminusers` (`userid`, `username`, `password`, `displayname`, `profile_pic`, `isactive`, `isDeleted`, `createdDtm`) VALUES
+(1, 'kabirn408@gmail.com', '9175477080', 'Shubham Nayak', '', 1, 0, '2020-07-19 17:33:25');
+
 -- --------------------------------------------------------
 
 --
@@ -48,8 +55,9 @@ CREATE TABLE `sg_tbladminusers` (
 CREATE TABLE `sg_tblcommonmaster` (
   `autoid` int(11) NOT NULL,
   `title` varchar(200) NOT NULL,
-  `description` varchar(200) NOT NULL,
+  `description` longtext NOT NULL,
   `created_on` date NOT NULL,
+  `expexted_time` time DEFAULT NULL,
   `start_time` time NOT NULL,
   `end_time` time NOT NULL,
   `isactive` int(11) DEFAULT '1',
@@ -57,13 +65,6 @@ CREATE TABLE `sg_tblcommonmaster` (
   `otherfield` varchar(200) DEFAULT NULL,
   `userid` int(11) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
---
--- Dumping data for table `sg_tblcommonmaster`
---
-
-INSERT INTO `sg_tblcommonmaster` (`autoid`, `title`, `description`, `created_on`, `start_time`, `end_time`, `isactive`, `isdelete`, `otherfield`, `userid`) VALUES
-(1, 'Texas Technologies', '', '2020-07-18', '00:00:00', '00:00:00', 1, 0, NULL, 2);
 
 --
 -- Indexes for dumped tables
@@ -89,13 +90,13 @@ ALTER TABLE `sg_tblcommonmaster`
 -- AUTO_INCREMENT for table `sg_tbladminusers`
 --
 ALTER TABLE `sg_tbladminusers`
-  MODIFY `userid` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `userid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 
 --
 -- AUTO_INCREMENT for table `sg_tblcommonmaster`
 --
 ALTER TABLE `sg_tblcommonmaster`
-  MODIFY `autoid` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+  MODIFY `autoid` int(11) NOT NULL AUTO_INCREMENT;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

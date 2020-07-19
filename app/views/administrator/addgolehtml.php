@@ -9,7 +9,7 @@ $streams=array(
 
 );
 ?>
-<?php echo form_open(adminsbase_url('dashboard/savegole'), 'class="" id="ajax-save-form" method="POST"');?>
+<?php echo form_open(base_url('dashboard/savegole'), 'class="" id="ajax-save-form" method="POST"');?>
 <div class="row">
 	<div class="col-9-xxxl col-xl-9">
 		<div class="card">
@@ -34,9 +34,14 @@ $streams=array(
 						<input type="text" name="title" class="form-control" value="<?php echo $info['title'];?>" required>
 					</div>
 					<div class="col-lg-12 col-12 form-group">
-						<label>Description <small>( Short note or Expected Time )</small> </label>
+						<label>Description <small>( Short note)</small> </label>
 						<input type="text" name="description" class="form-control" value="<?php echo $info['description'];?>" >
+      
 					</div>	
+					<div class="col-lg-12 col-12 form-group">
+						<label>Expected Time  </label>
+						<input type="time" id="appt" name="expexted_time" value="<?php echo $info['expexted_time'];?>" >
+					</div>
 				
 					
 				</div>
@@ -48,7 +53,6 @@ $streams=array(
 		<div class="errormessageformdiv" id="errormessageformdiv"></div>
 		<button type="submit" class="btn-fill-lg font-normal no-radius text-light gradient-pastel-green">Save</button>
 		<a href="<?php echo adminsbase_url('dashboard/index'); ?>"><button type="button" class="btn-fill-lmd text-light gradient-dodger-blue"> <i class="fas fa-angle-left"></i> Back to list</button></a>
-		<input type="hidden" name="isactive" value="1">
 		<input type="hidden" name="autoid" value="<?php echo $info['autoid'];?>">
 
 

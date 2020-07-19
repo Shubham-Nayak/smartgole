@@ -18,6 +18,8 @@
 
 
 						<th>Note</th>
+						<th>Expected Time</th>
+
 						<th>Date</th>
 
 						<th>Taking Time</th>
@@ -35,6 +37,8 @@
 
 								<td><?php echo $list->title;?></td>
 								<td><?php echo $list->description ;?></td>
+								<td><?php echo $list->expexted_time ;?></td>
+
 								<td><?php echo date('d-m-Y',strtotime($list->created_on)) ;?></td>
 
 								<td>

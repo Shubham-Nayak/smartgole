@@ -8,7 +8,7 @@ class Api_model extends MY_Model {
 	public function get_todaysgole($userid) {  
 		$result = array();
 		$returndata = array();
-		$this->db->select("a.autoid,a.title,a.description,a.start_time,a.end_time,a.created_on,a.isactive,a.isdelete,b.displayname");
+		$this->db->select("a.autoid,a.title,a.description,a.expexted_time,a.start_time,a.end_time,a.created_on,a.isactive,a.isdelete,b.displayname");
 		$this->db->from("{$this->tblcommonmaster} a");
 		$this->db->join("{$this->tbladminusers} b","a.userid = b.userid");
 		$this->db->where("a.isdelete", 0);
@@ -23,9 +23,9 @@ class Api_model extends MY_Model {
 				$returndata[] = array(
 					'autoid' => ConvertintoString($list->autoid),
 					'username' => ConvertintoString($list->displayname),
-
 					'title' => ConvertintoString($list->title),
 					'description' => ConvertintoString($list->description),
+					'expexted_time' => ConvertintoString($list->expexted_time),
 					'start_time' => ConvertintoString($list->start_time),
 					'end_time' => ConvertintoString($list->end_time),
 					'created_on' => ConvertintoString($list->created_on),
@@ -39,7 +39,7 @@ class Api_model extends MY_Model {
 	public function get_previousgole($userid) {  
 		$result = array();
 		$returndata = array();
-		$this->db->select("a.autoid,a.title,a.description,a.start_time,a.end_time,a.created_on,a.isactive,a.isdelete,b.displayname");
+		$this->db->select("a.autoid,a.title,a.description,a.expexted_time,a.start_time,a.end_time,a.created_on,a.isactive,a.isdelete,b.displayname");
 		$this->db->from("{$this->tblcommonmaster} a");
 		$this->db->join("{$this->tbladminusers} b","a.userid = b.userid");
 		$this->db->where("a.isdelete", 0);
@@ -54,12 +54,13 @@ class Api_model extends MY_Model {
 				$returndata[] = array(
 					'autoid' => ConvertintoString($list->autoid),
 					'username' => ConvertintoString($list->displayname),
-
 					'title' => ConvertintoString($list->title),
 					'description' => ConvertintoString($list->description),
 					'start_time' => ConvertintoString($list->start_time),
 					'end_time' => ConvertintoString($list->end_time),
 					'created_on' => ConvertintoString($list->created_on),
+					'expexted_time' => ConvertintoString($list->expexted_time)
+
 				);
 			endforeach;
 		}

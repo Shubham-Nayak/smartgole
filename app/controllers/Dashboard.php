@@ -29,6 +29,7 @@ class Dashboard extends AdminBaseController {
 				'title' =>'',
 				'description' =>'',
 				'otherfield' =>'',
+				'expexted_time'=>''
 			);
 		}
 		$this->loadViews("addgolehtml", $this->global, $data, NULL);
@@ -48,9 +49,9 @@ class Dashboard extends AdminBaseController {
 				$type = $this->input->post('type');
                 $parameters = array(
                     'userid' => $this->userid,
-                    'isactive' => $this->input->post('isactive'),
                     'title' => $this->input->post('title'),
-                    'description' => $this->input->post('description'),
+					'description' => $this->input->post('description'),
+                    'expexted_time' => $this->input->post('expexted_time'),
                     'otherfield' => $this->input->post('otherfield'),
 					'created_on' => date("Y-m-d")
 
@@ -80,8 +81,9 @@ class Dashboard extends AdminBaseController {
             ));
         }
     }
+	
 	public function golestatus(){
-		if($this->uri->segment(4)==0)
+		if($this->uri->segment(3)==0)
 		{
 			$parameters = array(
 				'start_time' => date("H:i:s"),
@@ -96,7 +98,7 @@ class Dashboard extends AdminBaseController {
 			);
 		}
 
-		$autoid = $this->uri->segment(5);
+		$autoid = $this->uri->segment(4);
 	
 		$g=$this->dashboard->updategole($parameters, $autoid);
 	
@@ -110,7 +112,7 @@ class Dashboard extends AdminBaseController {
 			'isactive'=>1
 
 		);
-		$autoid = $this->uri->segment(4);
+		$autoid = $this->uri->segment(3);
 	
 		$g=$this->dashboard->updategole($parameters, $autoid);
 	
@@ -121,13 +123,12 @@ class Dashboard extends AdminBaseController {
 		$parameters = array(
 			'isdelete'=>1
 		);
-		$autoid = $this->uri->segment(5);
+		$autoid = $this->uri->segment(4);
 
         $this->dashboard->updategole($parameters,$autoid);
         $this->session->set_flashdata('commonerrorrmsg', flashmessage('Data has been Deleted Successfully','success'));
 		redirect(base_url("dashboard"), 'refresh');
     }
-
 	 
 
     public function history( ) {
